@@ -1,0 +1,30 @@
+.post-item{
+    display: flex;
+    margin-bottom: 60px;
+    align-items: start;
+}
+.post-item-img{float: left;
+    max-width: 300px;
+    margin-right: 15px;
+    flex-shrink: 0;
+}
+.post-item-title{margin-top: 0;}
+
+.post-item-btn{
+    text-decoration: none;
+    color: #292929;
+    margin-top: 15px;
+    display: inline-block;
+}
+
+.post-item time {
+    color: #a9a9a9;
+    font-size: 0.9rem;
+    line-height: 1rem;
+    display: block;
+    margin: 15px 0;
+}
+
+.post-item h2 a {
+    text-decoration: none;
+}
