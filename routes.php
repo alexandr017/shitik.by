@@ -30,6 +30,12 @@ switch ($_SERVER['REQUEST_URI']) {
     case '/blog/run' :
         echo renderPage('pages/blog/run.php');
         break;
+    case '/blog/site-update' :
+        echo renderPage('pages/blog/site-update.php');
+        break;
+    case '/blog/black-lines' :
+        echo renderPage('pages/blog/black-lines.php');
+        break;
     case '/portfolio' :
         echo renderPage('pages/portfolio.php');
         break;

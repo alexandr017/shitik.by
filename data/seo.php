@@ -121,5 +121,12 @@ return [
         'canonical' => 'https://shitik.by/blog/run',
         'preview' => 'https://shitik.by/images/blog/run/preview.jpeg'
     ],
+    'blog/site-update' => [
+        'title' => '',
+        'metaDescription' => '',
+        'h1' => 'Обновление сайта',
+        'canonical' => '',
+        'preview' => ''
+    ]
 
 ];

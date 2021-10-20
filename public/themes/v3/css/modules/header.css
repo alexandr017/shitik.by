@@ -74,7 +74,7 @@ nav ul.show{
 }
 
 
-@media screen and  (max-width: 786px){
+@media screen and (max-width: 786px){
     .mob-menu-label{
         display: block;
         text-align: right;
