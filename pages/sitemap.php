@@ -20,6 +20,10 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/stats">Статистика</a></li>
             <li><a href="/blog">Блог</a>
                 <ul>
+                    <li><a href="/blog/new-super-heroes">Наш ответ Marvel и DC</a></li>
+                    <li><a href="/blog/home-bay">Первая квартира</a></li>
+                    <li><a href="/blog/site-update">Обновление сайта</a></li>
+                    <li><a href="/blog/black-lines">Моя черная полоса</a></li>
                     <li><a href="/blog/run">Новый личный беговой рекорд</a></li>
                     <li><a href="/blog/movies-imdb">Мысли после просмотра 250 лучших фильмов всех времен</a></li>
                     <li><a href="/blog/podcasts">Обучение через подкасты</a></li>

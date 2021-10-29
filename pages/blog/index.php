@@ -15,20 +15,59 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             С тех пор я сильно прибавил в своих хард-скилах и решил прикрыть тот проект, который у меня нет времени и желаения сопровождать. В замен старому я решил писать статьи общего характера, в которых не будет ни строчки кода. </p>
 
         <div class="posts">
+
             <div class="post-item">
-                <a href="/blog/run"><img class="post-item-img" src="/images/blog/run/preview.jpeg" alt=""></a>
+                <a href="/blog/new-super-heroes"><img class="post-item-img" src="/images/blog/home-bay/preview.png" alt="Наш ответ Marvel и DC"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/new-super-heroes">Наш ответ Marvel и DC</a></h2>
+                    <time class="date-on-index">24 октября 2021</time>
+                    <p class="post-item-desc">Согласно древне вавилонским мудростям на глиняных дощечках, которые легли в основу хорошей книги “Самый богатый человек в Вавилоне” одна из них гласит, что любой человек...</p>
+                    <a href="/blog/new-super-heroes" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <a href="/blog/home-bay"><img class="post-item-img" src="/images/blog/home-bay/preview.png" alt="Моя первая квартира"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/home-bay">Моя первая квартира</a></h2>
+                    <time class="date-on-index">17 октября 2021</time>
+                    <p class="post-item-desc">Согласно древне вавилонским мудростям на глиняных дощечках, которые легли в основу хорошей книги “Самый богатый человек в Вавилоне” одна из них гласит, что любой человек...</p>
+                    <a href="/blog/home-bay" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <a href="/blog/site-update"><img class="post-item-img" src="/images/blog/site-update/preview.png" alt="Обновил и доработал свой сайт"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/site-update">Обновил и доработал свой сайт</a></h2>
+                    <time class="date-on-index">12 сентября 2021</time>
+                    <p class="post-item-desc">Не так давно я обновил свой сайт. Теперь все его разделы снова в одном месте, однако это технические детали, которые вряд ли кому-то интересны. Так же среди основных изменяй можно выделить слегка измененный дизайн...</p>
+                    <a href="/blog/site-update" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <a href="/blog/black-lines"><img class="post-item-img" src="/images/blog/black-lines/preview.jpeg" alt="Моя черная полоса"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/black-lines">Моя черная полоса</a></h2>
+                    <time class="date-on-index">17 августа 2021</time>
+                    <p class="post-item-desc">В каком возрасте вы впервые столкнулись с черными полосами в своей жизни? До недавнего времени я не верил в их существование, наверно потому даже живя один и решая самостоятельно свои проблемы они не приходили ко мне...</p>
+                    <a href="/blog/black-lines" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <a href="/blog/run"><img class="post-item-img" src="/images/blog/run/preview.jpeg" alt="Новый личный беговой рекорд"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/run">Новый личный беговой рекорд</a></h2>
                     <time class="date-on-index">28 апреля 2021</time>
-                    <p class="post-item-desc">Сегодня я установил личный рекорд по бегу. 16 километров 200 метров без единой остановки. Вся эта дистанция далась мне ровно за....</p>
+                    <p class="post-item-desc">Сегодня я установил личный рекорд по бегу. 16 километров 200 метров без единой остановки. Вся эта дистанция далась мне ровно за....<br>Обновлено 18 км 200 метров.</p>
                     <a href="/blog/run" class="post-item-btn">Читать далее...</a>
                 </div>
             </div>
-        </div>
 
-        <div class="posts">
             <div class="post-item">
-                <a href="/blog/movies-imdb"><img class="post-item-img" src="/images/blog/post6.jpg" alt=""></a>
+                <a href="/blog/movies-imdb"><img class="post-item-img" src="/images/blog/post6.jpg" alt="Мысли после просмотра 250 лучших фильмов всех времен"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/movies-imdb">Мысли после просмотра 250 лучших фильмов всех времен</a></h2>
                     <time class="date-on-index">22 марта 2021</time>
@@ -36,11 +75,9 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                     <a href="/blog/movies-imdb" class="post-item-btn">Читать далее...</a>
                 </div>
             </div>
-        </div>
 
-        <div class="posts">
             <div class="post-item">
-                <a href="/blog/podcasts"><img class="post-item-img" src="/images/blog/post5.png" alt=""></a>
+                <a href="/blog/podcasts"><img class="post-item-img" src="/images/blog/post5.png" alt="Обучение через подкасты"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/podcasts">Обучение через подкасты</a></h2>
                     <time class="date-on-index">22 марта 2021</time>
@@ -48,11 +85,9 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                     <a href="/blog/podcasts" class="post-item-btn">Читать далее...</a>
                 </div>
             </div>
-        </div>
 
-        <div class="posts">
             <div class="post-item">
-                <a href="/blog/books-2020"><img class="post-item-img" src="/images/blog/post4.jpg" alt=""></a>
+                <a href="/blog/books-2020"><img class="post-item-img" src="/images/blog/post4.jpg" alt="Треть сотни книг за 11 месяцев"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/books-2020">Треть сотни книг за 11 месяцев</a></h2>
                     <time class="date-on-index">5 декабря 2020</time>
@@ -60,11 +95,9 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                     <a href="/blog/books-2020" class="post-item-btn">Читать далее...</a>
                 </div>
             </div>
-        </div>
 
-        <div class="posts">
             <div class="post-item">
-                <a href="/blog/planning"><img class="post-item-img" src="/images/blog/post3.jpg" alt=""></a>
+                <a href="/blog/planning"><img class="post-item-img" src="/images/blog/post3.jpg" alt="Планирование как степень достижения целей"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/planning">Планирование как степень достижения целей</a></h2>
                     <time class="date-on-index">3 августа 2020</time>
@@ -72,11 +105,9 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                     <a href="/blog/planning" class="post-item-btn">Читать далее...</a>
                 </div>
             </div>
-        </div>
 
-        <div class="posts">
             <div class="post-item">
-                <a href="/blog/koronavirus"><img class="post-item-img" src="/images/blog/post2.jpg" alt=""></a>
+                <a href="/blog/koronavirus"><img class="post-item-img" src="/images/blog/post2.jpg" alt="Мои мысли о коронавирусе"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/koronavirus">Мои мысли о коронавирусе</a></h2>
                     <time class="date-on-index">12 марта 2020</time>
@@ -84,11 +115,9 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                     <a href="/blog/koronavirus" class="post-item-btn">Читать далее...</a>
                 </div>
             </div>
-        </div>
 
-        <div class="posts">
             <div class="post-item">
-                <a href="/blog/students"><img class="post-item-img" src="/images/blog/post1.jpg" alt=""></a>
+                <a href="/blog/students"><img class="post-item-img" src="/images/blog/post1.jpg" alt="Напутствие будущим программистам"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/students">Напутствие будущим программистам</a></h2>
                     <time class="date-on-index">12 июня 2019</time>

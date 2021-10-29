@@ -2,7 +2,7 @@ p, .content b, .content span {
     margin-bottom: 1.2rem;
 }
 
-.content ul {
+.content ul, .content ol {
     padding-left: 20px;
 }
 

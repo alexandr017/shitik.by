@@ -28,3 +28,24 @@
 .post-item h2 a {
     text-decoration: none;
 }
+
+@media screen and (max-width: 868px) {
+    .post-item {
+        display: block;
+        border-bottom: 1px solid #e1dcdc;
+        padding-bottom: 15px;
+    }
+
+    .post-item:last-child {
+        border-bottom: none;
+    }
+
+    .post-item a, .post-item time {
+        display: block;
+        text-align: center;
+    }
+
+    .post-item img {
+        float: none;
+    }
+}

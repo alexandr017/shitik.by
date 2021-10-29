@@ -121,11 +121,32 @@ return [
         'canonical' => 'https://shitik.by/blog/run',
         'preview' => 'https://shitik.by/images/blog/run/preview.jpeg'
     ],
+    'blog/black-lines' => [
+        'title' => 'Что я извлек из черной полосы в жизни',
+        'metaDescription' => 'Не так давно в моей жизни случился отрезов длинною в 1-2 месяца в котором я сталкнулся с целым рядом проблем.',
+        'h1' => 'Моя черная полоса',
+        'canonical' => 'https://shitik.by/blog/black-lines',
+        'preview' => 'https://shitik.by/images/blog/black-lines/preview.jpeg'
+    ],
     'blog/site-update' => [
-        'title' => '',
-        'metaDescription' => '',
+        'title' => 'Обновил и доработал свой сайт',
+        'metaDescription' => 'Не так давно я обновил свой сайт. Теперь все его разделы снова в одном месте. Среди основных изменяй можно выделить слегка измененный дизайн, расширения сайта и внедрением новых разделов.',
         'h1' => 'Обновление сайта',
-        'canonical' => '',
+        'canonical' => 'https://shitik.by/blog/site-update',
+        'preview' => 'https://shitik.by/images/blog/site-update/preview.png'
+    ],
+    'blog/home-bay' => [
+        'title' => 'За 2 года я насобирал на свою первую квартиру в Минске',
+        'metaDescription' => 'Согласно древне вавилонским мудростям на глиняных дощечках, которые легли в основу хорошей книги “Самый богатый человек в Вавилоне” одна из них гласит, что любой человек должен обзавестись собственных жильем.',
+        'h1' => 'Первая квартира',
+        'canonical' => 'https://shitik.by/blog/home-bay',
+        'preview' => 'https://shitik.by//images/blog/home-bay/preview.png'
+    ],
+    'blog/new-super-heroes' => [
+        'title' => 'Новые супер герои. Наш ответ Marvel и DC',
+        'metaDescription' => '',
+        'h1' => 'Наш ответ Marvel и DC',
+        'canonical' => 'https://shitik.by/blog/new-super-heroes',
         'preview' => ''
     ]
 
