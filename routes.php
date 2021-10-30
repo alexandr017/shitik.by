@@ -42,6 +42,12 @@ switch ($_SERVER['REQUEST_URI']) {
     case '/blog/new-super-heroes' :
         echo renderPage('pages/blog/new-super-heroes.php');
         break;
+    case '/blog/seats-in-the-trolleybus' :
+        echo renderPage('pages/blog/seats-in-the-trolleybus.php');
+        break;
+    case '/blog/people-without-food' :
+        echo renderPage('pages/blog/people-without-food.php');
+        break;
     case '/portfolio' :
         echo renderPage('pages/portfolio.php');
         break;

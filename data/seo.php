@@ -140,14 +140,21 @@ return [
         'metaDescription' => 'Согласно древне вавилонским мудростям на глиняных дощечках, которые легли в основу хорошей книги “Самый богатый человек в Вавилоне” одна из них гласит, что любой человек должен обзавестись собственных жильем.',
         'h1' => 'Первая квартира',
         'canonical' => 'https://shitik.by/blog/home-bay',
-        'preview' => 'https://shitik.by//images/blog/home-bay/preview.png'
+        'preview' => 'https://shitik.by/images/blog/home-bay/preview.png'
     ],
     'blog/new-super-heroes' => [
         'title' => 'Новые супер герои. Наш ответ Marvel и DC',
-        'metaDescription' => '',
+        'metaDescription' => 'Наверняка почти каждый из вас видел хотя бы один из кучи фильмов студий Marvel и DC, где в каждой из них они спасают планету от внутренних и внешних угроз',
         'h1' => 'Наш ответ Marvel и DC',
         'canonical' => 'https://shitik.by/blog/new-super-heroes',
-        'preview' => ''
+        'preview' => 'https://shitik.by/images/blog/new-super-heroes/preview.jpg'
+    ],
+    'blog/seats-in-the-trolleybus' => [
+        'title' => 'Что не так с количеством инвалидных мест в троллейбусе',
+        'metaDescription' => 'По Минску работают очень много троллейбусов модели АКСМ-321. Замечали ли вы соотношение мест для инвалидов по отношению к обычным в данной модели троллейбуса?',
+        'h1' => 'Инвалидные места в троллейбусе',
+        'canonical' => 'https://shitik.by/blog/seats-in-the-trolleybus',
+        'preview' => 'https://shitik.by/images/blog/seats-in-the-trolleybus/preview.jpg'
     ]
 
 ];

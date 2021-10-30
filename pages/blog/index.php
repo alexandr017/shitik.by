@@ -17,7 +17,27 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <div class="posts">
 
             <div class="post-item">
-                <a href="/blog/new-super-heroes"><img class="post-item-img" src="/images/blog/home-bay/preview.png" alt="Наш ответ Marvel и DC"></a>
+                <a href="/blog/people-without-food"><img class="post-item-img" src="/images/blog/people-without-food/preview.jpeg" alt="Если бы люди не нуждались в еде"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/people-without-food">Если бы люди не нуждались в еде</a></h2>
+                    <time class="date-on-index">30 октября 2021</time>
+                    <p class="post-item-desc">Человеческий цивилизация слишкам слаба и зависима от разных факторов: наличие кислород в нужной объеме, подходящие давление и температура, защита от радиации, постоянная нужда в питье и еде....</p>
+                    <a href="/blog/people-without-food" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <a href="/blog/seats-in-the-trolleybus"><img class="post-item-img" src="/images/blog/seats-in-the-trolleybus/preview.jpg" alt="Что не так с количеством инвалидных мест в троллейбусе"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/seats-in-the-trolleybus">Что не так с количеством инвалидных мест в троллейбусе</a></h2>
+                    <time class="date-on-index">30 октября 2021</time>
+                    <p class="post-item-desc">По Минску работают очень много троллейбусов модели АКСМ-321. Не скажу что каждый день, но достаточно часто и ими пользуюсь для перемещения по городу...</p>
+                    <a href="/blog/seats-in-the-trolleybus" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <a href="/blog/new-super-heroes"><img class="post-item-img" src="/images/blog/new-super-heroes/preview.jpg" alt="Наш ответ Marvel и DC"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/new-super-heroes">Наш ответ Marvel и DC</a></h2>
                     <time class="date-on-index">24 октября 2021</time>
