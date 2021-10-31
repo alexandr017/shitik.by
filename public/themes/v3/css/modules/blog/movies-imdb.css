@@ -11,10 +11,6 @@
 .rating-3{background: #f1f130}
 .rating-2{background: #ef7985}
 
-table, th, td {
-    border: 1px solid black;
-}
-
 @media screen and (max-width: 640px) {
     .movies-table td{
         padding: 2px;

@@ -29,6 +29,10 @@ h1{
     margin-bottom: 15px;
 }
 
+table, th, td {
+    border: 1px solid black;
+}
+
 #toTopButton{
     max-width: 48px;
     position: fixed;

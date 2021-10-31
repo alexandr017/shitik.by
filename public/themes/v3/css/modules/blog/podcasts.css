@@ -13,10 +13,6 @@
     margin: auto;
 }
 
-table, th, td {
-    border: 1px solid black;
-}
-
 @media screen and (max-width: 640px) {
     .podcasts-table td{
         padding: 2px;
