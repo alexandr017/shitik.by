@@ -12,6 +12,10 @@ if (!isset($_SERVER['PATH_INFO'])) {
     $_SERVER['PATH_INFO'] = '/';
 }
 
+if (isset($_SERVER['REQUEST_URI'])) {
+    $_SERVER['PATH_INFO'] = $_SERVER['REQUEST_URI'];
+}
+
 include DOCUMENT_ROOT . '/routes.php';
 
 /* todo
