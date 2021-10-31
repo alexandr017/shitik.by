@@ -150,11 +150,19 @@ return [
         'preview' => 'https://shitik.by/images/blog/new-super-heroes/preview.jpg'
     ],
     'blog/seats-in-the-trolleybus' => [
-        'title' => 'Что не так с количеством инвалидных мест в троллейбусе',
+        'title' => 'Что не так с количеством мест для инвалидов в троллейбусе',
         'metaDescription' => 'По Минску работают очень много троллейбусов модели АКСМ-321. Замечали ли вы соотношение мест для инвалидов по отношению к обычным в данной модели троллейбуса?',
-        'h1' => 'Инвалидные места в троллейбусе',
+        'h1' => 'Места для инвалидов в троллейбусе',
         'canonical' => 'https://shitik.by/blog/seats-in-the-trolleybus',
         'preview' => 'https://shitik.by/images/blog/seats-in-the-trolleybus/preview.jpg'
-    ]
+    ],
+
+    'blog/people-without-food' => [
+        'title' => 'Рассуждение как изменилась бы человество, если бы мы не нуждались в еде',
+        'metaDescription' => 'Человеческий цивилизация слишкам слаба и зависима от разных факторов: наличие кислород в нужной объеме, подходящие давление и температура, защита от радиации',
+        'h1' => 'Если бы люди не нуждались в еде',
+        'canonical' => 'https://shitik.by/blog/people-without-food',
+        'preview' => 'https://shitik.by/images/blog/people-without-food/preview.jpeg'
+    ],
 
 ];

@@ -20,7 +20,8 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/stats">Статистика</a></li>
             <li><a href="/blog">Блог</a>
                 <ul>
-                    <li><a href="/blog/blog/seats-in-the-trolleybus">Что не так с количеством инвалидных мест в троллейбусе</a></li>
+                    <li><a href="/blog/blog/people-without-food">Если бы люди не нуждались в еде</a></li>
+                    <li><a href="/blog/blog/seats-in-the-trolleybus">Места для инвалидов в троллейбусе</a></li>
                     <li><a href="/blog/new-super-heroes">Наш ответ Marvel и DC</a></li>
                     <li><a href="/blog/home-bay">Первая квартира</a></li>
                     <li><a href="/blog/site-update">Обновление сайта</a></li>
