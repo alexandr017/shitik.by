@@ -90,11 +90,11 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         </p>
 
         <p>И помните</p>
-            <blockquote class="blockquote">
-                <p>Планирование - залог дисциплины.</p>
-                <cite>Я :)</cite>
-            </blockquote>
-        </p>
+        <blockquote class="blockquote">
+            <p>Планирование - залог дисциплины.</p>
+            <cite>Я :)</cite>
+        </blockquote>
+
 
         <p>Чем лучше Вы подходите к планирование своих дел, тем проще их выполнять и тем проще достигать своих целей. </p>
 
