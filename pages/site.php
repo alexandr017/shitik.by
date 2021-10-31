@@ -39,7 +39,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                 </tr>
                 <tr>
                     <td>Портфолио</td>
-                    <td><img src="/images/site/html/portfolio" alt="Портфолио - html валидатор" loading="lazy"></td>
+                    <td><img src="/images/site/html/portfolio.png" alt="Портфолио - html валидатор" loading="lazy"></td>
                     <td>
                         <img src="/images/site/lighthouse/" alt="Портфолио - lighthouse" loading="lazy"><br>
                         <img src="/images/site/lighthouse/" alt="Портфолио - lighthouse" loading="lazy">
@@ -49,16 +49,16 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                     <td>Путешествия</td>
                     <td><img src="/images/site/html/travels.png" alt="Путешествия - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Путешествия - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Путешествия - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/travels-mob.png" alt="Путешествия - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/travels-pc.png" alt="Путешествия - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
                     <td>Свои проекты</td>
                     <td><img src="/images/site/html/projects.png" alt="Свои проекты - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Свои проекты - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Свои проекты - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/projects-mob.png" alt="Свои проекты - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/projects-pc.png" alt="Свои проекты - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
@@ -73,16 +73,16 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                     <td>Статистика</td>
                     <td><img src="/images/site/html/stats.png" alt="Статистика - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Статистика - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Статистика - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/stats-mob.png" alt="Статистика - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/stats-pc.png" alt="Статистика - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
                     <td>Карта сайта</td>
                     <td><img src="/images/site/html/sitemap.png" alt="Карта сайта - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Карта сайта - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Карта сайта - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/sitemap-mob.png" alt="Карта сайта - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/sitemap-pc.png" alt="Карта сайта - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
