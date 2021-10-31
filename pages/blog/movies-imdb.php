@@ -1,5 +1,5 @@
 <?php
-includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content']);
+includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content', 'modules/blog/movies-imdb']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
 ?>
 <body>
@@ -31,32 +31,6 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
 
         <h2 id="a-1">Введение</h2>
         <p>Меня всегда слегка пугали люди, которые в stories или других источниках просят друзей и знакомых посоветовать фильм ибо сами не могут его выбрать. Во-первых я не знаю какие жанры ты смотришь и что советовать, во-вторых есть общедоступные списки наиболее классных фильм как по категориям, так и по годам или кассовым сборам или просмотрам. Просто выбери интересующую себя категорию и смотри что понравится. Именно так я и сделал и выбрал рейтинг самых культовых и легендарных фильмов по международному рейтингу IMDb. Именно об этом рейтинге пойдет речь во всей статье далее. Почему я выбрал именно этот рейтинг? Наверно потому, что он общемировой в котором перечисленная вся классика мирового кино. И мне хотелось прикоснуться к классике и пересмотреть все эти фильмы. Сам список я взял на википедии и из-за этого сортировка моего списка и актуального списка может совсем немного отличаться. Забегая вперед могу сказать, что просмотр этого списка (я посмотрел практически все 250 фильмов) заняло более года.  Ниже представлен полный список просмотренных мною фильмов, а так же степень того как сильно мне понравился фильм: <br>- <span style="font-weight: bold">красный</span> - не понравился<br>- <span style="font-weight: bold">желтый</span> - неплохой фильм<br>- <span style="font-weight: bold">светло-зеленый</span> - понравился<br>- <span style="font-weight: bold">темного-зеленый</span> -  очень понравился<br> Несколько фильмов <span style="font-weight: bold">без оценок</span> остались не просмотренными.</p>
-
-        <style>
-            .movies-table td{
-                padding: 5px;
-            }
-            .row0 {
-                text-align: center;
-            }
-
-
-            .rating-5{background: #18891d}
-            .rating-4{background: #92C83E}
-            .rating-3{background: #f1f130}
-            .rating-2{background: #ef7985}
-
-            @media screen and (max-width: 640px) {
-                .movies-table td{
-                    padding: 2px;
-                    font-size: 0.9em;
-                }
-                .movies-table tr td:first-child{
-                    max-width: 165px;
-                }
-
-            }
-        </style>
 
         <table border="1" cellpadding="0" cellspacing="0" class="movies-table">
             <thead>

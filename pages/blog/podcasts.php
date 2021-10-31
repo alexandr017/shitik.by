@@ -1,5 +1,5 @@
 <?php
-includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content']);
+includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content', 'modules/blog/podcasts']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
 ?>
 <body>
@@ -45,37 +45,6 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
 
 
         <h2 id="a-3">Как я подкасты собирал</h2>
-
-        <style>
-            .podcasts-table td{
-                padding: 5px;
-            }
-            .row0 {
-                text-align: center;
-            }
-            .source-name{
-                display: block;
-                height: 50px
-            }
-            .source-icon{
-                display: inline-block;
-                margin: auto;
-            }
-
-            @media screen and (max-width: 640px) {
-                .podcasts-table td{
-                    padding: 2px;
-                    font-size: 0.9em;
-                }
-                .podcasts-table tr td:first-child{
-                    max-width: 165px;
-                }
-                .source-name{
-                    display: none;
-                }
-            }
-        </style>
-
 
         <p>Выбор подкастов как оказалось не самое быстрое и простое занятие.  У меня уже заранее был примерный список из штук 20 подкастов. Начав анализировать несколько подкастов из списка я понял, что подавляющая проблема всех подкастов - разные площадки для прослушивания. Я вернулся к началу списка и стал вести более детальной список тех площадок, которые поддерживают все подкасты. Во время изучения наткнулся еще на несколько подкастов и в итоге получилось 3 десятка подкастов. Полный список и анализ площадок приведен в таблице ниже (слева на право: сайт, ютуб, Soundcloud, Apple Podcasts, Castbox, RSS, Google Podcasts).</p>
         <table border="2" cellpadding="0" cellspacing="0" class="podcasts-table">
