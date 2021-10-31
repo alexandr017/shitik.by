@@ -13,7 +13,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
 
     <article class="content">
         <h1>Планирование как степень достижения целей</h1>
-        <time class="date-pub">3 августа 2020</time>
+        <time datetime="2020-09-03" class="date-pub">3 августа 2020</time>
 
         <span>Содержание:</span>
         <ul class="post-nav">

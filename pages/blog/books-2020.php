@@ -13,7 +13,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
 
     <article class="content">
         <h1>Треть сотни книг за 11 месяцев</h1>
-        <time class="date-pub">5 декабря 2020</time>
+        <time datetime="2021-12-05" class="date-pub">5 декабря 2020</time>
 
         <span>Содержание:</span>
         <ul class="post-nav">

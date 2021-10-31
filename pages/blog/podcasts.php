@@ -12,7 +12,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
     </ul>
     <article class="content">
         <h1>Обучение через подкасты</h1>
-        <time class="date-pub">22 марта 2021</time>
+        <time datetime="2021-03-22" class="date-pub">22 марта 2021</time>
 
         <span>Содержание:</span>
         <ul class="post-nav">
