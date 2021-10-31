@@ -153,40 +153,40 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                     <td>Новый личный беговой рекорд</td>
                     <td><img src="/images/site/html/blog-run.png" alt="Новый личный беговой рекорд - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Новый личный беговой рекорд - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Новый личный беговой рекорд - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/blog-run-mob.png" alt="Новый личный беговой рекорд - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/blog-run-pc.png" alt="Новый личный беговой рекорд - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
                     <td>Мысли после просмотра 250 лучших фильмов всех времен</td>
                     <td><img src="/images/site/html/blog-movies-imdb.png" alt="Мысли после просмотра 250 лучших фильмов всех времен - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Мысли после просмотра 250 лучших фильмов всех времен - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Мысли после просмотра 250 лучших фильмов всех времен - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/blog-movies-imdb-mob.png" alt="Мысли после просмотра 250 лучших фильмов всех времен - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/blog-movies-imdb-pc.png" alt="Мысли после просмотра 250 лучших фильмов всех времен - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
                     <td>Обучение через подкасты</td>
                     <td><img src="/images/site/html/blog-podcasts.png" alt="Обучение через подкасты - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Обучение через подкасты - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Обучение через подкасты - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/blog-podcasts-mob.png" alt="Обучение через подкасты - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/blog-podcasts-pc.png" alt="Обучение через подкасты - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
                     <td>Треть сотни книг за 11 месяцев</td>
                     <td><img src="/images/site/html/blog-books-2020.png" alt="Треть сотни книг за 11 месяцев - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Треть сотни книг за 11 месяцев - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Треть сотни книг за 11 месяцев - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/blog-books-2020-mob.png" alt="Треть сотни книг за 11 месяцев - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/blog-books-2020-pc.png" alt="Треть сотни книг за 11 месяцев - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
                     <td>Планирование как степень достижения целей</td>
                     <td><img src="/images/site/html/blog-planning.png" alt="Планирование как степень достижения целей - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Планирование как степень достижения целей - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Планирование как степень достижения целей - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/blog-planning-mob.png" alt="Планирование как степень достижения целей - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/blog-planning-pc.png" alt="Планирование как степень достижения целей - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
