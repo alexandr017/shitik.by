@@ -17,7 +17,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <div class="posts">
 
             <div class="post-item">
-                <a href="/blog/people-without-food"><img class="post-item-img" src="/images/blog/people-without-food/preview.jpeg" alt="Если бы люди не нуждались в еде"></a>
+                <a href="/blog/people-without-food"><img class="post-item-img" src="/images/blog/people-without-food/preview.jpeg" alt="Если бы люди не нуждались в еде" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/people-without-food">Если бы люди не нуждались в еде</a></h2>
                     <time datetime="2021-10-30" class="date-on-index">30 октября 2021</time>
@@ -27,7 +27,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </div>
 
             <div class="post-item">
-                <a href="/blog/seats-in-the-trolleybus"><img class="post-item-img" src="/images/blog/seats-in-the-trolleybus/preview.jpg" alt="Что не так с количеством инвалидных мест в троллейбусе"></a>
+                <a href="/blog/seats-in-the-trolleybus"><img class="post-item-img" src="/images/blog/seats-in-the-trolleybus/preview.jpg" alt="Что не так с количеством инвалидных мест в троллейбусе" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/seats-in-the-trolleybus">Что не так с количеством инвалидных мест в троллейбусе</a></h2>
                     <time datetime="2021-10-30" class="date-on-index">30 октября 2021</time>
@@ -37,7 +37,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </div>
 
             <div class="post-item">
-                <a href="/blog/new-super-heroes"><img class="post-item-img" src="/images/blog/new-super-heroes/preview.jpg" alt="Наш ответ Marvel и DC"></a>
+                <a href="/blog/new-super-heroes"><img class="post-item-img" src="/images/blog/new-super-heroes/preview.jpg" alt="Наш ответ Marvel и DC" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/new-super-heroes">Наш ответ Marvel и DC</a></h2>
                     <time datetime="2021-10-24" class="date-on-index">24 октября 2021</time>
@@ -47,7 +47,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </div>
 
             <div class="post-item">
-                <a href="/blog/home-bay"><img class="post-item-img" src="/images/blog/home-bay/preview.png" alt="Моя первая квартира"></a>
+                <a href="/blog/home-bay"><img class="post-item-img" src="/images/blog/home-bay/preview.png" alt="Моя первая квартира" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/home-bay">Моя первая квартира</a></h2>
                     <time datetime="2021-10-17" class="date-on-index">17 октября 2021</time>
@@ -57,7 +57,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </div>
 
             <div class="post-item">
-                <a href="/blog/site-update"><img class="post-item-img" src="/images/blog/site-update/preview.png" alt="Обновил и доработал свой сайт"></a>
+                <a href="/blog/site-update"><img class="post-item-img" src="/images/blog/site-update/preview.png" alt="Обновил и доработал свой сайт" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/site-update">Обновил и доработал свой сайт</a></h2>
                     <time datetime="2021-09-12" class="date-on-index">12 сентября 2021</time>
@@ -67,7 +67,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </div>
 
             <div class="post-item">
-                <a href="/blog/black-lines"><img class="post-item-img" src="/images/blog/black-lines/preview.jpeg" alt="Моя черная полоса"></a>
+                <a href="/blog/black-lines"><img class="post-item-img" src="/images/blog/black-lines/preview.jpeg" alt="Моя черная полоса" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/black-lines">Моя черная полоса</a></h2>
                     <time datetime="2021-08-17" class="date-on-index">17 августа 2021</time>
@@ -77,7 +77,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </div>
 
             <div class="post-item">
-                <a href="/blog/run"><img class="post-item-img" src="/images/blog/run/preview.jpeg" alt="Новый личный беговой рекорд"></a>
+                <a href="/blog/run"><img class="post-item-img" src="/images/blog/run/preview.jpeg" alt="Новый личный беговой рекорд" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/run">Новый личный беговой рекорд</a></h2>
                     <time datetime="2021-04-28" class="date-on-index">28 апреля 2021</time>
@@ -87,7 +87,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </div>
 
             <div class="post-item">
-                <a href="/blog/movies-imdb"><img class="post-item-img" src="/images/blog/post6.jpg" alt="Мысли после просмотра 250 лучших фильмов всех времен"></a>
+                <a href="/blog/movies-imdb"><img class="post-item-img" src="/images/blog/post6.jpg" alt="Мысли после просмотра 250 лучших фильмов всех времен" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/movies-imdb">Мысли после просмотра 250 лучших фильмов всех времен</a></h2>
                     <time datetime="2021-03-22" class="date-on-index">22 марта 2021</time>
@@ -97,7 +97,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </div>
 
             <div class="post-item">
-                <a href="/blog/podcasts"><img class="post-item-img" src="/images/blog/post5.png" alt="Обучение через подкасты"></a>
+                <a href="/blog/podcasts"><img class="post-item-img" src="/images/blog/post5.png" alt="Обучение через подкасты" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/podcasts">Обучение через подкасты</a></h2>
                     <time datetime="2021-03-22" class="date-on-index">22 марта 2021</time>
@@ -107,7 +107,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </div>
 
             <div class="post-item">
-                <a href="/blog/books-2020"><img class="post-item-img" src="/images/blog/post4.jpg" alt="Треть сотни книг за 11 месяцев"></a>
+                <a href="/blog/books-2020"><img class="post-item-img" src="/images/blog/post4.jpg" alt="Треть сотни книг за 11 месяцев" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/books-2020">Треть сотни книг за 11 месяцев</a></h2>
                     <time datetime="2020-12-05" class="date-on-index">5 декабря 2020</time>
@@ -117,7 +117,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </div>
 
             <div class="post-item">
-                <a href="/blog/planning"><img class="post-item-img" src="/images/blog/post3.jpg" alt="Планирование как степень достижения целей"></a>
+                <a href="/blog/planning"><img class="post-item-img" src="/images/blog/post3.jpg" alt="Планирование как степень достижения целей" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/planning">Планирование как степень достижения целей</a></h2>
                     <time datetime="2020-08-03" class="date-on-index">3 августа 2020</time>
@@ -127,7 +127,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </div>
 
             <div class="post-item">
-                <a href="/blog/koronavirus"><img class="post-item-img" src="/images/blog/post2.jpg" alt="Мои мысли о коронавирусе"></a>
+                <a href="/blog/koronavirus"><img class="post-item-img" src="/images/blog/post2.jpg" alt="Мои мысли о коронавирусе" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/koronavirus">Мои мысли о коронавирусе</a></h2>
                     <time datetime="2020-03-12" class="date-on-index">12 марта 2020</time>
@@ -137,7 +137,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </div>
 
             <div class="post-item">
-                <a href="/blog/students"><img class="post-item-img" src="/images/blog/post1.jpg" alt="Напутствие будущим программистам"></a>
+                <a href="/blog/students"><img class="post-item-img" src="/images/blog/post1.jpg" alt="Напутствие будущим программистам" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/students">Напутствие будущим программистам</a></h2>
                     <time datetime="2019-06-12" class="date-on-index">12 июня 2019</time>
