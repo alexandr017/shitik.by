@@ -105,48 +105,48 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                     <td>Если бы люди не нуждались в еде</td>
                     <td><img src="/images/site/html/blog-people-without-food.png" alt="Если бы люди не нуждались в еде - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Если бы люди не нуждались в еде - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Если бы люди не нуждались в еде - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/blog-people-without-food-mob.png" alt="Если бы люди не нуждались в еде - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/blog-people-without-food-pc.png" alt="Если бы люди не нуждались в еде - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
                     <td>Места для инвалидов в троллейбусе</td>
                     <td><img src="/images/site/html/blog-seats-in-the-trolleybus.png" alt="Места для инвалидов в троллейбусе - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Места для инвалидов в троллейбусе - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Места для инвалидов в троллейбусе - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/blog-seats-in-the-trolleybus-mob.png" alt="Места для инвалидов в троллейбусе - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/blog-seats-in-the-trolleybus-pc.png" alt="Места для инвалидов в троллейбусе - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
                     <td>Наш ответ Marvel и DC</td>
                     <td><img src="/images/site/html/blog-new-super-heroes.png" alt="Наш ответ Marvel и DC - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Наш ответ Marvel и DC - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Наш ответ Marvel и DC - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/blog-new-super-heroes-mob.png" alt="Наш ответ Marvel и DC - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/blog-new-super-heroes-pc.png" alt="Наш ответ Marvel и DC - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
                     <td>Первая квартира</td>
                     <td><img src="/images/site/html/blog-home-bay.png" alt="Первая квартира - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Первая квартира - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Первая квартира - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/blog-home-bay-mob.png" alt="Первая квартира - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/blog-home-bay-pc.png" alt="Первая квартира - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
                     <td>Обновление сайта</td>
                     <td><img src="/images/site/html/blog-site-update.png" alt="Обновление сайта - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Обновление сайта - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Обновление сайта - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/blog-site-update-mob.png" alt="Обновление сайта - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/blog-site-update-pc.png" alt="Обновление сайта - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
                     <td>Моя черная полоса</td>
                     <td><img src="/images/site/html/blog-black-lines.png" alt="Моя черная полоса - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Моя черная полоса - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Моя черная полоса - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/blog-black-lines-mob.png" alt="Моя черная полоса - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/blog-black-lines-pc.png" alt="Моя черная полоса - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
