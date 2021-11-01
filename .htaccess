@@ -1,3 +1,13 @@
 RewriteEngine on
 RewriteCond %{REQUEST_URI} !^public
 RewriteRule ^(.*)$ public/$1 [L]
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
+</IfModule>
+
+<FilesMatch "\.(jpg|jpeg|png|gif|swf|woff2|js)$">
+    Header set Cache-Control "max-age=604800, public"
+</FilesMatch>
