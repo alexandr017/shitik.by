@@ -14,7 +14,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
     <div class="content">
         <h1>Шитик Александр Андреевич</h1>
         <h2>Общая информацию</h2>
-        <img width="250" height="334" class="about-photo" src="/themes/v3/images/about/photo.jpeg" alt="Шитик Александр Андреевич" loading="lazy">
+        <img width="500" height="634" class="about-photo" src="/themes/v3/images/about/photo.jpg" alt="Шитик Александр Андреевич" loading="lazy">
         <p>Всем привет :) Меня зовут Саша, и я автор и создатель сайта shitik.by.</p>
         <p>В период с 2012 по 2014 занимался программированием десктопных программ для ОС Windows.<br>
             С 2014 стал заниматься преимущественно веб - разработкой. В период с 2014 по 2017 годы работал в одной из веб-студий Минска и принял участие в более сотни проектов, поэтому с 2017 я просто перестал их считать :) .<br>
