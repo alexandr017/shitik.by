@@ -33,16 +33,16 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                     <td>О себе</td>
                     <td><img src="/images/site/html/about.png" alt="О себе - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="О себе - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="О себе - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/about-mob.png" alt="О себе - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/about-pc.png" alt="О себе - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
                     <td>Портфолио</td>
                     <td><img src="/images/site/html/portfolio.png" alt="Портфолио - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Портфолио - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Портфолио - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/portfolio-mob.png" alt="Портфолио - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/portfolio-pc.png" alt="Портфолио - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
