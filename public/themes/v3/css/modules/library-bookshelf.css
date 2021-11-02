@@ -102,7 +102,7 @@
 }
 
 
-@media screen and  (max-width: 786px) {
+@media screen and (max-width: 786px){
     .bookshelf {
         width: 310px;
     }

@@ -35,7 +35,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    z-index: 30; /* Должен быть выше чем у подложки*/
+    z-index: 1111; /* Должен быть выше чем у подложки*/
 
     /*  Побочные стили   */
     box-shadow: 0 3px 10px -.5px rgba(0, 0, 0, .2);
@@ -66,4 +66,9 @@
     right: 20px;
     fill: #444;
     cursor: pointer;
+}
+
+.modal__body {
+    text-align: left;
+    padding: 45px 15px;
 }

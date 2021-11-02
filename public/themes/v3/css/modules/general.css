@@ -33,6 +33,10 @@ table, th, td {
     border: 1px solid black;
 }
 
+td {
+    padding: 3px;
+}
+
 #toTopButton{
     max-width: 48px;
     position: fixed;

@@ -69,6 +69,11 @@ switch ($_SERVER['REQUEST_URI']) {
     case '/sitemap' :
         echo renderPage('pages/sitemap.php');
         break;
+    case '/load-book' :
+        echo renderPage('ajax/load-book.php');
+        break;
+
+
     default:
         renderPage('errors/404');
 }
