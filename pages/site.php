@@ -65,8 +65,8 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                     <td>Библиотека</td>
                     <td><img src="/images/site/html/library.png" alt="Библиотека - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="Библиотека - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="Библиотека - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/library-mob.png" alt="Библиотека - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/library-pc.png" alt="Библиотека - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
