@@ -1,14 +1,14 @@
 <?php
-$showType = 'bookshelf';
-if (isset($_GET['show_type'])) {
-    $showType = $_GET['show_type'] == 'short-list'
-        ? 'short-list'
-        : 'full-list';
+if ($_SERVER['REQUEST_URI'] == '/library?show_type=full-list') {
+    $showType = 'full-list';
+} elseif ($_SERVER['REQUEST_URI'] == '/library?show_type=short-list') {
+    $showType = 'short-list';
+} else {
+    $showType = 'bookshelf';
 }
 includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content', 'modules/modal', 'library', 'modules/library-'.$showType]);
 $books =  include DOCUMENT_ROOT . '/data/books.php';
 //todo Сортировка: Имя | Автор | Издательство | Год прочтения | Год публикации | Моя оценка | Язык
-//todo 1=Добавить книги  2=Подгрузка в модалку 3=Адаптивность 4=универсальные стили и скрипты
 include DOCUMENT_ROOT . '/view/v3/head.php';
 ?>
 <body>
