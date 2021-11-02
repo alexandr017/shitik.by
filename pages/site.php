@@ -89,8 +89,8 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                     <td>О сайте</td>
                     <td><img src="/images/site/html/site.png" alt="О сайте - html валидатор" loading="lazy"></td>
                     <td>
-                        <img src="/images/site/lighthouse/" alt="О сайте - lighthouse" loading="lazy"><br>
-                        <img src="/images/site/lighthouse/" alt="О сайте - lighthouse" loading="lazy">
+                        <img src="/images/site/lighthouse/site-mob.png" alt="О сайте - lighthouse" loading="lazy"><br>
+                        <img src="/images/site/lighthouse/site-pc.png" alt="О сайте - lighthouse" loading="lazy">
                     </td>
                 </tr>
                 <tr>
