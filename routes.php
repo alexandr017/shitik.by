@@ -58,6 +58,8 @@ switch ($_SERVER['REQUEST_URI']) {
         echo renderPage('pages/projects.php');
         break;
     case '/library' :
+    case '/library?show_type=short-list' :
+    case '/library?show_type=full-list' :
         echo renderPage('pages/library.php');
         break;
     case '/stats' :

@@ -3,7 +3,7 @@
     <?php foreach ($books as $book) : ?>
         <div class="book-list" style="background: <?php echo $book['color']; ?>">
             <div class="book-list" data-label="<?php echo $book['title']; ?>">
-                <img src="<?php echo $book['cover_image']; ?>" alt="<?php echo $book['title']; ?>">
+                <img loading="lazy" src="<?php echo $book['cover_image']; ?>" alt="<?php echo $book['title']; ?>">
             </div>
             <div class="book-info">
                 <h3><?php echo $book['title']; ?></h3>

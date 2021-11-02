@@ -11,11 +11,9 @@
                 <p>
                     Год издания: <?php echo $book['year_of_publishing']; ?><br>
                     Год прочтения: <?php echo $book['year_of_reading']; ?><br>
-                    <?php /*
                     Издательство: <?php echo $book['publishing_house']; ?><br>
                     Мой рейтинг: <?php echo $book['my_rating']; ?><br>
                     Рейтинг автору: <?php echo $book['author_rating']; ?><br>
- */ ?>
                     Количество прочтений: <?php echo $book['number_of_reads']; ?><br>
                     Количество страниц: <?php echo $book['total_pages']; ?><br>
                     Язык книги: <?php echo $book['language']; ?>
