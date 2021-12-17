@@ -156,7 +156,6 @@ return [
         'canonical' => 'https://shitik.by/blog/seats-in-the-trolleybus',
         'preview' => 'https://shitik.by/images/blog/seats-in-the-trolleybus/preview.jpg'
     ],
-
     'blog/people-without-food' => [
         'title' => 'Рассуждение как изменилась бы человество, если бы мы не нуждались в еде',
         'metaDescription' => 'Человеческий цивилизация слишкам слаба и зависима от разных факторов: наличие кислород в нужной объеме, подходящие давление и температура, защита от радиации',
@@ -164,5 +163,11 @@ return [
         'canonical' => 'https://shitik.by/blog/people-without-food',
         'preview' => 'https://shitik.by/images/blog/people-without-food/preview.jpeg'
     ],
-
+    'blog/books-2021' => [
+        'title' => 'Еще 30 книг за 11 месяцев',
+        'metaDescription' => 'Список книг, которые успел почитать за 11 месяцев 2021 года.',
+        'h1' => 'Прочитанные книги в 2021 году',
+        'canonical' => 'https://shitik.by/blog/books-2021',
+        'preview' => 'https://shitik.by/images/blog/books-2021/preview.jpg'
+    ],
 ];

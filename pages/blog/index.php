@@ -17,6 +17,16 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <div class="posts">
 
             <div class="post-item">
+                <a href="/blog/books-2021"><img class="post-item-img" src="/images/blog/books-2021/preview.jpg" alt="Мои книги в 2021 году" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/books-2021">Прочитанные книги в 2021 году</a></h2>
+                    <time datetime="2021-12-04" class="date-on-index">04 декабря 2021</time>
+                    <p class="post-item-desc">В текущем году я прочитал 30 книг, что на 2 меньше чем в прошлом году. Думаю это было связано с путешествием в Новосибирск и Алтай, плюс сказалась покупка квартиры и последующий....</p>
+                    <a href="/blog/books-2021" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
                 <a href="/blog/people-without-food"><img class="post-item-img" src="/images/blog/people-without-food/preview.jpeg" alt="Если бы люди не нуждались в еде" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/people-without-food">Если бы люди не нуждались в еде</a></h2>
