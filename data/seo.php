@@ -177,4 +177,11 @@ return [
         'canonical' => 'https://shitik.by/blog/run-2018-2020',
         'preview' => 'https://shitik.by/images/blog/run-2018-2020/preview.jpeg'
     ],
+    'blog/run-2021' => [
+        'title' => 'Итоги бега за 2021 год',
+        'metaDescription' => 'Результаты бега за текущий год. Сравнение показателей с предыдущими годами',
+        'h1' => 'Результаты бега за 2021',
+        'canonical' => 'https://shitik.by/blog/run-2021',
+        'preview' => 'https://shitik.by/images/blog/run-2021/preview.jpeg'
+    ],
 ];
