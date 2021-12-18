@@ -599,15 +599,15 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </tr>
             <tr>
                 <td>20</td>
-                <td>04.07 🎉</td>
-                <td>14.1</td>
+                <td>04.07</td>
+                <td>14.1 🎉</td>
                 <td>74</td>
                 <td>Стадион</td>
             </tr>
             <tr>
                 <td>21</td>
-                <td>11.07 🎉</td>
-                <td>15.4</td>
+                <td>11.07</td>
+                <td>15.4 🎉</td>
                 <td>85</td>
                 <td>Стадион</td>
             </tr>
