@@ -21,6 +21,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/blog">Блог</a>
                 <ul>
                     <li><a href="/blog/books-2021">Прочитанные книги в 2021 году</a></li>
+                    <li><a href="/blog/run-2018-2020">Статистика моего бега за 2.5 года</a></li>
                     <li><a href="/blog/blog/people-without-food">Если бы люди не нуждались в еде</a></li>
                     <li><a href="/blog/blog/seats-in-the-trolleybus">Места для инвалидов в троллейбусе</a></li>
                     <li><a href="/blog/new-super-heroes">Наш ответ Marvel и DC</a></li>

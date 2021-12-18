@@ -20,9 +20,19 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                 <a href="/blog/books-2021"><img class="post-item-img" src="/images/blog/books-2021/preview.jpg" alt="Мои книги в 2021 году" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/books-2021">Прочитанные книги в 2021 году</a></h2>
-                    <time datetime="2021-12-04" class="date-on-index">04 декабря 2021</time>
+                    <time datetime="2021-12-05" class="date-on-index">05 декабря 2021</time>
                     <p class="post-item-desc">В текущем году я прочитал 30 книг, что на 2 меньше чем в прошлом году. Думаю это было связано с путешествием в Новосибирск и Алтай, плюс сказалась покупка квартиры и последующий....</p>
                     <a href="/blog/books-2021" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <a href="/blog/run-2018-2020"><img class="post-item-img" src="/images/blog/run-2018-2020/preview.jpeg" alt="Статистика моего бега за 2.5 года" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/run-2018-2020">Статистика моего бега за 2.5 года</a></h2>
+                    <time datetime="2021-12-04" class="date-on-index">04 декабря 2021</time>
+                    <p class="post-item-desc">После активного спортивного детства и подросткового возраста я закинул на буквально на 4-5 лет спорт после чего мое здоровье слегка ухудшилось. Врачи даже поставили мне тахикардию (учащенное сердцебиение), но я не стал....</p>
+                    <a href="/blog/run-2018-2020" class="post-item-btn">Читать далее...</a>
                 </div>
             </div>
 

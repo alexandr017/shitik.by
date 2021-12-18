@@ -165,9 +165,16 @@ return [
     ],
     'blog/books-2021' => [
         'title' => 'Еще 30 книг за 11 месяцев',
-        'metaDescription' => 'Список книг, которые успел почитать за 11 месяцев 2021 года.',
+        'metaDescription' => 'Список книг, которые успел прочитать за 11 месяцев 2021 года.',
         'h1' => 'Прочитанные книги в 2021 году',
         'canonical' => 'https://shitik.by/blog/books-2021',
         'preview' => 'https://shitik.by/images/blog/books-2021/preview.jpg'
+    ],
+    'blog/run-2018-2020' => [
+        'title' => 'Статистика моего бега за 2018-2020',
+        'metaDescription' => 'Статистика моего бега за вторую половину 2018 года, а также за 2019 и 2020 года.',
+        'h1' => 'Статистика моего бега за 2.5 года',
+        'canonical' => 'https://shitik.by/blog/run-2018-2020',
+        'preview' => 'https://shitik.by/images/blog/run-2018-2020/preview.jpeg'
     ],
 ];
