@@ -10,6 +10,7 @@
 .rating-4{background: #92C83E}
 .rating-3{background: #f1f130}
 .rating-2{background: #ef7985}
+.rating-x{background: #d8d8d8}
 
 @media screen and (max-width: 640px) {
     .movies-table td{

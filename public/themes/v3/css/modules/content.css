@@ -63,3 +63,7 @@ p, .content b, .content span {
     display: block;
     margin-bottom: 10px !important;
 }
+
+.content table {
+    margin: auto;
+}

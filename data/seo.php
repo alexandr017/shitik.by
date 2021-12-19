@@ -184,4 +184,11 @@ return [
         'canonical' => 'https://shitik.by/blog/run-2021',
         'preview' => 'https://shitik.by/images/blog/run-2021/preview.jpeg'
     ],
+    'blog/kinopoisk-250' => [
+        'title' => 'Пересмотрел топ 250 на кинопоиске',
+        'metaDescription' => 'Впечатления от просмотра топ 250 фильмов по версии кинопоиска.',
+        'h1' => 'Мысли после просмотра 250 лучших фильмов кинопоиска',
+        'canonical' => 'https://shitik.by/blog/kinopoisk-250',
+        'preview' => 'https://shitik.by/images/blog/kinopoisk-250/preview.jpg'
+    ],
 ];
