@@ -17,6 +17,17 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <div class="posts">
 
             <div class="post-item">
+                <a href="/blog/run-2021"><img class="post-item-img" src="/images/blog/run-2021/preview.jpeg" alt="Мои книги в 2021 году" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/run-2021">Результаты бега за 2021</a></h2>
+                    <time datetime="2021-12-21" class="date-on-index">21 декабря 2021</time>
+                    <p class="post-item-desc">Этот год был весьма успешным в плане бега, я на своем организме прочувствовал как прибавил почти во всех показателях. Рассмотрим ниже все пробежки...</p>
+                    <a href="/blog/run-2021" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+
+            <div class="post-item">
                 <a href="/blog/kinopoisk-250"><img class="post-item-img" src="/images/blog/kinopoisk-250/preview.jpg" alt="Мысли после просмотра 250 лучших фильмов кинопоиска" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/kinopoisk-250">Мысли после просмотра 250 лучших фильмов кинопоиска</a></h2>
@@ -26,15 +37,6 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
                 </div>
             </div>
 
-            <div class="post-item">
-                <a href="/blog/run-2021"><img class="post-item-img" src="/images/blog/run-2021/preview.jpeg" alt="Мои книги в 2021 году" loading="lazy"></a>
-                <div class="post-text-wrap">
-                    <h2 class="post-item-title"><a href="/blog/run-2021">Результаты бега за 2021</a></h2>
-                    <time datetime="2021-12-18" class="date-on-index">18 декабря 2021</time>
-                    <p class="post-item-desc">Этот год был весьма успешным в плане бега, я на своем организме прочувствовал как прибавил почти во всех показателях. Рассмотрим ниже все пробежки...</p>
-                    <a href="/blog/run-2021" class="post-item-btn">Читать далее...</a>
-                </div>
-            </div>
 
             <div class="post-item">
                 <a href="/blog/books-2021"><img class="post-item-img" src="/images/blog/books-2021/preview.jpg" alt="Мои книги в 2021 году" loading="lazy"></a>
