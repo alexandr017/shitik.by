@@ -13,6 +13,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
     <div class="content">
         <h1><?php echo getSeoField('h1') ?></h1>
         <time datetime="2021-10-19" class="date-pub">19 дебабря 2021</time>
+        <?php /*
         <span>Содержание:</span>
         <ul class="post-nav">
             <li><a href="#a-1">Введение</a></li>
@@ -31,8 +32,8 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
 
         <h2 id="a-1">Введение</h2>
         <div><img style="max-height: 450px; margin: auto" class="post-img" src="/images/blog/home-bay/home-bay.jpeg" alt="Он нам нах не нужен ваш интерен" loading="lazy"></div>
-
-
+*/ ?>
+        <p><i>Будет дополнено в ближайшее время</i></p>
 
         <table>
             <tbody>

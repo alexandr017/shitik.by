@@ -21,6 +21,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/blog">Блог</a>
                 <ul>
                     <li><a href="/blog/run-2021">Результаты бега за 2021</a></li>
+                    <li><a href="/blog/kinopoisk-250">Мысли после просмотра 250 лучших фильмов кинопоиска</a></li>
                     <li><a href="/blog/books-2021">Прочитанные книги в 2021 году</a></li>
                     <li><a href="/blog/run-2018-2020">Статистика моего бега за 2.5 года</a></li>
                     <li><a href="/blog/blog/people-without-food">Если бы люди не нуждались в еде</a></li>
