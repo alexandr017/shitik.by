@@ -191,4 +191,11 @@ return [
         'canonical' => 'https://shitik.by/blog/kinopoisk-250',
         'preview' => 'https://shitik.by/images/blog/kinopoisk-250/preview.jpg'
     ],
+    'blog/total-2021' => [
+        'title' => 'Итоги моего 2021 года',
+        'metaDescription' => 'Подвел итоги уходящего года. Интересные факты уходящего года',
+        'h1' => 'Чем я занимался в 2021 году',
+        'canonical' => 'https://shitik.by/blog/total-2021',
+        'preview' => 'https://shitik.by/images/blog/total-2021/preview.jpeg'
+    ],
 ];

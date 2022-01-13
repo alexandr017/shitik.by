@@ -17,6 +17,16 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <div class="posts">
 
             <div class="post-item">
+                <a href="/blog/total-2021"><img class="post-item-img" src="/images/blog/total-2021/preview.jpeg" alt="Итоги моего 2021 года" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/total-2021">Итоги моего 2021 года</a></h2>
+                    <time datetime="2021-12-21" class="date-on-index">29 декабря 2021</time>
+                    <p class="post-item-desc">Конец декабря. Самое время подвести итоги уходящего года и так как я до мозга костей технарь многие цели и просто показатели я документировал...</p>
+                    <a href="/blog/total-2021" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
                 <a href="/blog/run-2021"><img class="post-item-img" src="/images/blog/run-2021/preview.jpeg" alt="Мои книги в 2021 году" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/run-2021">Результаты бега за 2021</a></h2>
