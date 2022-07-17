@@ -17,5 +17,3 @@ if (isset($_SERVER['REQUEST_URI'])) {
 }
 
 include DOCUMENT_ROOT . '/routes.php';
-
-// todo на всех страницах проверить адапивность

@@ -198,4 +198,11 @@ return [
         'canonical' => 'https://shitik.by/blog/total-2021',
         'preview' => 'https://shitik.by/images/blog/total-2021/preview.jpeg'
     ],
+    'blog/seo' => [
+        'title' => 'Современные поисковые системы',
+        'metaDescription' => 'Что не так с соверменными поисковыми системами? Поисковые системы будущего.',
+        'h1' => 'Современная СЕО-оптимизация глазами программиста',
+        'canonical' => 'https://shitik.by/blog/seo',
+        'preview' => 'https://shitik.by/images/blog/seo/preview.jpeg'
+    ],
 ];

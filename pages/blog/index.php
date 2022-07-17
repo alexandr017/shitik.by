@@ -17,6 +17,16 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <div class="posts">
 
             <div class="post-item">
+                <a href="/blog/seo"><img class="post-item-img" src="/images/blog/seo/preview.jpeg" alt="Современная СЕО-оптимизация глазами программиста" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/seo">Современная СЕО-оптимизация глазами программиста</a></h2>
+                    <time datetime="2022-07-16" class="date-on-index">16 Июля 2021</time>
+                    <p class="post-item-desc">Уже около 5ти лет я работаю в продуктовой компании в области финансов, экономики и бизнеса. Помимо этой предметной области у нас есть вторая не менее важная...</p>
+                    <a href="/blog/seo" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
                 <a href="/blog/total-2021"><img class="post-item-img" src="/images/blog/total-2021/preview.jpeg" alt="Итоги моего 2021 года" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/total-2021">Итоги моего 2021 года</a></h2>
