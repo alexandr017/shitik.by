@@ -20,6 +20,8 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/stats">Статистика</a></li>
             <li><a href="/blog">Блог</a>
                 <ul>
+                    <li><a href="/blog/world-cup-2022">Чемпионта мира по футболу 2022</a></li>
+                    <li><a href="/blog/seo">Современная СЕО-оптимизация глазами программиста</a></li>
                     <li><a href="/blog/total-2021">Итоги моего 2021 года</a></li>
                     <li><a href="/blog/run-2021">Результаты бега за 2021</a></li>
                     <li><a href="/blog/kinopoisk-250">Мысли после просмотра 250 лучших фильмов кинопоиска</a></li>

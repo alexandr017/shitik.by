@@ -17,6 +17,16 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <div class="posts">
 
             <div class="post-item">
+                <a href="/blog/world-cup-2022"><img class="post-item-img" src="/images/blog/world-cup-2022/preview.jpeg" alt="Чемпионат мира по футболу 2022" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/world-cup-2022">Чемпионат мира по футболу 2022</a></h2>
+                    <time datetime="2022-01-18" class="date-on-index">18 Ноября 2022</time>
+                    <p class="post-item-desc">На днях стартует чемпионат мира по футболу. Это самое ценное и важное соревнование в карьере каждого футболиста. Ценность добавляет то, что в отличие от многих других видов спорта чемпионат мира по футболу...</p>
+                    <a href="/blog/world-cup-2022" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
                 <a href="/blog/seo"><img class="post-item-img" src="/images/blog/seo/preview.jpeg" alt="Современная СЕО-оптимизация глазами программиста" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/seo">Современная СЕО-оптимизация глазами программиста</a></h2>

@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-    <loc>http://shitik.by/</loc>
-    <lastmod>2017-11-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-</url>
+<url><loc>https://shitik.by</loc></url>
+<url><loc>https://shitik.by/alexandr-andreevich</loc></url>
+<url><loc>https://shitik.by/portfolio</loc></url>
+<url><loc>https://shitik.by/travels</loc></url>
+<url><loc>https://shitik.by/projects</loc></url>
+<url><loc>https://shitik.by/library</loc></url>
+<url><loc>https://shitik.by/stats</loc></url>
+<url><loc>https://shitik.by/blog</loc></url>
+<url><loc>https://shitik.by/blog/world-cup-2022</loc></url>
+<url><loc>https://shitik.by/blog/seo</loc></url>
+<url><loc>https://shitik.by/blog/total-2021</loc></url>
+<url><loc>https://shitik.by/blog/run-2021</loc></url>
+<url><loc>https://shitik.by/blog/kinopoisk-250</loc></url>
+<url><loc>https://shitik.by/blog/books-2021</loc></url>
+<url><loc>https://shitik.by/blog/run-2018-2020</loc></url>
+<url><loc>https://shitik.by/blog/people-without-food</loc></url>
+<url><loc>https://shitik.by/blog/seats-in-the-trolleybus</loc></url>
+<url><loc>https://shitik.by/blog/new-super-heroes</loc></url>
+<url><loc>https://shitik.by/blog/home-bay</loc></url>
+<url><loc>https://shitik.by/blog/site-update</loc></url>
+<url><loc>https://shitik.by/blog/black-lines</loc></url>
+<url><loc>https://shitik.by/blog/run</loc></url>
+<url><loc>https://shitik.by/blog/movies-imdb</loc></url>
+<url><loc>https://shitik.by/blog/podcasts</loc></url>
+<url><loc>https://shitik.by/blog/books-2020</loc></url>
+<url><loc>https://shitik.by/blog/planning</loc></url>
+<url><loc>https://shitik.by/blog/koronavirus</loc></url>
+<url><loc>https://shitik.by/blog/students</loc></url>
 </urlset>

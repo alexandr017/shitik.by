@@ -205,4 +205,11 @@ return [
         'canonical' => 'https://shitik.by/blog/seo',
         'preview' => 'https://shitik.by/images/blog/seo/preview.jpeg'
     ],
+    'blog/world-cup-2022' => [
+        'title' => 'Стать Чемпионата мира по футболу 2022',
+        'metaDescription' => 'В Катаре совсем скоро стартует чемпионата мира по футболу 2022. Ценность соревнования, главные фавориты, бомбордиры и прочие факты',
+        'h1' => 'Чемпионат мира по футболу 2022',
+        'canonical' => 'https://shitik.by/blog/world-cup-2022',
+        'preview' => 'https://shitik.by/images/blog/world-cup-2022/preview.jpeg'
+    ],
 ];
