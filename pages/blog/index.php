@@ -17,6 +17,16 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <div class="posts">
 
             <div class="post-item">
+                <a href="/blog/run-2022"><img class="post-item-img" src="/images/blog/run-2022/preview.jpeg" alt="Результаты бега за 2022" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/run-2022">Результаты бега за 2022</a></h2>
+                    <time datetime="2021-12-21" class="date-on-index">28 декабря 2022</time>
+                    <p class="post-item-desc">Пришло время подвести итоги бегового 2022 года. Сначала рассмотрим таблицу всех пробежек в году, после чего дам некоторые комментарии....</p>
+                    <a href="/blog/run-2022" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
                 <a href="/blog/world-cup-2022"><img class="post-item-img" src="/images/blog/world-cup-2022/preview.jpeg" alt="Чемпионат мира по футболу 2022" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/world-cup-2022">Чемпионат мира по футболу 2022</a></h2>
@@ -47,7 +57,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </div>
 
             <div class="post-item">
-                <a href="/blog/run-2021"><img class="post-item-img" src="/images/blog/run-2021/preview.jpeg" alt="Мои книги в 2021 году" loading="lazy"></a>
+                <a href="/blog/run-2021"><img class="post-item-img" src="/images/blog/run-2021/preview.jpeg" alt="Результаты бега за 2021" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/run-2021">Результаты бега за 2021</a></h2>
                     <time datetime="2021-12-21" class="date-on-index">21 декабря 2021</time>

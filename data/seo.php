@@ -212,4 +212,11 @@ return [
         'canonical' => 'https://shitik.by/blog/world-cup-2022',
         'preview' => 'https://shitik.by/images/blog/world-cup-2022/preview.jpeg'
     ],
+    'blog/run-2022' => [
+        'title' => 'Итоги бега за 2022 год',
+        'metaDescription' => 'Результаты бега за 2022 год. Сравнение показателей с предыдущими годами',
+        'h1' => 'Результаты бега за 2022',
+        'canonical' => 'https://shitik.by/blog/run-2022',
+        'preview' => 'https://shitik.by/images/blog/run-2022/preview.jpeg'
+    ],
 ];
