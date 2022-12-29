@@ -254,6 +254,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </tr>
             </tbody>
         </table>
+        <br>
 
         <p>В этом году я набегал почти <b>341 км</b>, что на 18 км больше, чем в прошлом.<br>
             За 4.5 года я суммарно набегал уже <b>1310 км</b> (969 + 341).<br>
@@ -273,6 +274,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li>Минимальное время: 62 мин</li>
             <li>Среднее время: 74 мин</li>
         </ul>
+        <br>
 
         <div class="h3 text-center">Общее количество пробежек по годам:</div>
         <img src="/images/blog/run-2022/chart-1.jpg" alt="Общее количество пробежек по годам">

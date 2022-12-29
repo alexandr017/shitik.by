@@ -17,11 +17,21 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <div class="posts">
 
             <div class="post-item">
+                <a href="/blog/books-2022"><img class="post-item-img" src="/images/blog/books-2022/preview.jpeg" alt="Прочитанные книги в 2022 году" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/books-2022">Прочитанные книги в 2022 году</a></h2>
+                    <time datetime="2022-12-29" class="date-on-index">29 декабря 2022</time>
+                    <p class="post-item-desc">Текущий год не обошелся без массового чтения книг. К сожалению по ряду причин количество прочитанных книг в этом году по сравнению с...</p>
+                    <a href="/blog/books-2022" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
                 <a href="/blog/run-2022"><img class="post-item-img" src="/images/blog/run-2022/preview.jpeg" alt="Результаты бега за 2022" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/run-2022">Результаты бега за 2022</a></h2>
-                    <time datetime="2021-12-21" class="date-on-index">28 декабря 2022</time>
-                    <p class="post-item-desc">Пришло время подвести итоги бегового 2022 года. Сначала рассмотрим таблицу всех пробежек в году, после чего дам некоторые комментарии....</p>
+                    <time datetime="2022-12-28" class="date-on-index">28 декабря 2022</time>
+                    <p class="post-item-desc">Пришло время подвести итоги бегового 2022 года. Сначала рассмотрим таблицу всех пробежек в году, после чего дам некоторые комментарии...</p>
                     <a href="/blog/run-2022" class="post-item-btn">Читать далее...</a>
                 </div>
             </div>
