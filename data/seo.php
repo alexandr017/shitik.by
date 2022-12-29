@@ -219,4 +219,11 @@ return [
         'canonical' => 'https://shitik.by/blog/run-2022',
         'preview' => 'https://shitik.by/images/blog/run-2022/preview.jpeg'
     ],
+    'blog/books-2022' => [
+        'title' => '22 книги в 22ом году!',
+        'metaDescription' => 'Полный список книг, которые успел прочитать за 2022 год.',
+        'h1' => 'Прочитанные книги в 2022 году',
+        'canonical' => 'https://shitik.by/blog/books-2022',
+        'preview' => 'https://shitik.by/images/blog/books-2022/preview.jpg'
+    ],
 ];
