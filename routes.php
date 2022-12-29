@@ -69,6 +69,9 @@ switch ($_SERVER['REQUEST_URI']) {
     case '/blog/world-cup-2022' :
         echo renderPage('pages/blog/2022/world-cup-2022.php');
         break;
+    case '/blog/run-2022' :
+        echo renderPage('pages/blog/2022/run-2022.php');
+        break;
     case '/portfolio' :
         echo renderPage('pages/portfolio.php');
         break;
