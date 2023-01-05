@@ -1015,7 +1015,7 @@ return [
         'author_rating' =>	null,
         'number_of_reads' => 1,
         'language' => 'ru',
-        'color' => '#182f02',
+        'color' => '#499780',
         'total_pages' => 208
     ],
     [
@@ -1105,7 +1105,7 @@ return [
         'author_rating' =>	null,
         'number_of_reads' => 1,
         'language' => 'ru',
-        'color' => '#252222',
+        'color' => '#d17171',
         'total_pages' => 291
     ],
     [
@@ -1150,7 +1150,7 @@ return [
         'author_rating' =>	null,
         'number_of_reads' => 1,
         'language' => 'ru',
-        'color' => '#21354e',
+        'color' => '#657992',
         'total_pages' => 121
     ],
     [
@@ -1240,7 +1240,7 @@ return [
         'author_rating' =>	null,
         'number_of_reads' => 1,
         'language' => 'ru',
-        'color' => '#18164d',
+        'color' => '#7270a5',
         'total_pages' => 86
     ],
     [
@@ -1255,7 +1255,7 @@ return [
         'author_rating' =>	null,
         'number_of_reads' => 1,
         'language' => 'ru',
-        'color' => '#252323',
+        'color' => '#c3c4bf',
         'total_pages' => 180
     ],
     [
@@ -1300,7 +1300,7 @@ return [
         'author_rating' =>	null,
         'number_of_reads' => 1,
         'language' => 'ru',
-        'color' => '#3a3939',
+        'color' => '#ee8d5a',
         'total_pages' => 252
     ],
     [
@@ -1315,7 +1315,7 @@ return [
         'author_rating' =>	null,
         'number_of_reads' => 1,
         'language' => 'ru',
-        'color' => '#3a3939',
+        'color' => '#61a8bd',
         'total_pages' => 136
     ],
 ];
