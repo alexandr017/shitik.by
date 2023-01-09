@@ -17,6 +17,16 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <div class="posts">
 
             <div class="post-item">
+                <a href="/blog/total-2022"><img class="post-item-img" src="/images/blog/total-2022/preview.jpeg" alt="Итоги моего 2022 года" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/total-2022">Итоги моего 2022 года</a></h2>
+                    <time datetime="2023-01-06" class="date-on-index">6 января 2023</time>
+                    <p class="post-item-desc">2022 прошел, а значит пора подводить итоги года. Как и несколько предыдущих лет я досконально документирую многие вещи. Мой слоган года был не самый приятный...</p>
+                    <a href="/blog/total-2022" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
                 <a href="/blog/books-2022"><img class="post-item-img" src="/images/blog/books-2022/preview.jpeg" alt="Прочитанные книги в 2022 году" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/books-2022">Прочитанные книги в 2022 году</a></h2>

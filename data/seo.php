@@ -224,6 +224,13 @@ return [
         'metaDescription' => 'Полный список книг, которые успел прочитать за 2022 год.',
         'h1' => 'Прочитанные книги в 2022 году',
         'canonical' => 'https://shitik.by/blog/books-2022',
-        'preview' => 'https://shitik.by/images/blog/books-2022/preview.jpg'
+        'preview' => 'https://shitik.by/images/blog/books-2022/preview.jpeg'
+    ],
+    'blog/total-2022' => [
+        'title' => 'Итоги моего 2022 года',
+        'metaDescription' => 'Подвел итоги уходящего года. Интересные факты 2022 года',
+        'h1' => 'Чем я занимался в 2022 году',
+        'canonical' => 'https://shitik.by/blog/total-2022',
+        'preview' => 'https://shitik.by/images/blog/total-2022/preview.jpeg'
     ],
 ];

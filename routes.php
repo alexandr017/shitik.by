@@ -26,6 +26,7 @@ $template = match ($_SERVER['REQUEST_URI']) {
     '/blog/world-cup-2022' => 'pages/blog/2022/world-cup-2022.php',
     '/blog/run-2022' => 'pages/blog/2022/run-2022.php',
     '/blog/books-2022' => 'pages/blog/2022/books-2022.php',
+    '/blog/total-2022' => 'pages/blog/2022/total-2022.php',
     '/portfolio' => 'pages/portfolio.php',
     '/travels' => 'pages/travels.php',
     '/projects' => 'pages/projects.php',
