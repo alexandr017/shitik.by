@@ -233,4 +233,11 @@ return [
         'canonical' => 'https://shitik.by/blog/total-2022',
         'preview' => 'https://shitik.by/images/blog/total-2022/preview.jpeg'
     ],
+    'blog/car-in-winter' => [
+        'title' => '21 причина почему автомобилисты не любят зиму',
+        'metaDescription' => 'Подробное описание распространенных проблем, которые могут случиться зимой с вашем авто',
+        'h1' => 'Почему водители не любят зиму?',
+        'canonical' => 'https://shitik.by/blog/car-in-winter',
+        'preview' => 'https://shitik.by/images/blog/car-in-winter/preview.jpg'
+    ],
 ];

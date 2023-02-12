@@ -17,6 +17,16 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <div class="posts">
 
             <div class="post-item">
+                <a href="/blog/car-in-winter"><img class="post-item-img" src="/images/blog/car-in-winter/preview.jpg" alt="Почему водители не любят зиму?" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/car-in-winter">Почему водители не любят зиму?</a></h2>
+                    <time datetime="2023-02-12" class="date-on-index">12 февраля 2023</time>
+                    <p class="post-item-desc">Зима чудесное время года. Кругом лежит белый снег, на окнах мороз, и ты можешь идти по  улице и наслаждаться красивыми пейзажами природы в ожидании Нового Года...</p>
+                    <a href="/blog/car-in-winter" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
                 <a href="/blog/total-2022"><img class="post-item-img" src="/images/blog/total-2022/preview.jpeg" alt="Итоги моего 2022 года" loading="lazy"></a>
                 <div class="post-text-wrap">
                     <h2 class="post-item-title"><a href="/blog/total-2022">Итоги моего 2022 года</a></h2>

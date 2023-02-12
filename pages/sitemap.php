@@ -20,6 +20,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/stats">Статистика</a></li>
             <li><a href="/blog">Блог</a>
                 <ul>
+                    <li><a href="/blog/car-in-winter">Почему водители не любят зиму?</a></li>
                     <li><a href="/blog/total-2022">Итоги моего 2022 года</a></li>
                     <li><a href="/blog/books-2022">Прочитанные книги в 2022 году</a></li>
                     <li><a href="/blog/run-2022">Результаты бега за 2022</a></li>
