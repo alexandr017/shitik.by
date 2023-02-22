@@ -32,5 +32,6 @@
 
     .content img {
         margin: auto;
+        height: auto;
     }
 }
