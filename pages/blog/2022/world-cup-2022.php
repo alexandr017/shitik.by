@@ -1,5 +1,4 @@
 <?php
-// todo сео заголовки
 includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
 ?>

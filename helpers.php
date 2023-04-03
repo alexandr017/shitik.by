@@ -23,7 +23,7 @@ function compressCSS($buffer) {
 function printCSS() {
     ob_start("compressCSS");
     foreach ($GLOBALS['css_modules'] as $module) {
-        $module = $_SERVER['DOCUMENT_ROOT'] . '/public/themes/v3/css/' . $module . '.css';
+        $module = DOCUMENT_ROOT . '/public/themes/v3/css/' . $module . '.css';
         if (file_exists($module)) {
             echo file_get_contents($module);
         }

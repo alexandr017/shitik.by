@@ -1,5 +1,5 @@
 <?php
-define("DOCUMENT_ROOT", __DIR__ . '/../');
+const DOCUMENT_ROOT = __DIR__ . '/../';
 $GLOBALS['css_modules'] = [];
 $title = '';
 $metaDescription = '';
