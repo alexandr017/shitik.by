@@ -1,3 +1,4 @@
+<?php if(isset($books)) : ?>
 <div class="bookshelf-wrap">
     <div class="bookshelf">
         <div class="shelf">
@@ -7,3 +8,4 @@
         </div>
     </div>
 </div>
+<?php endif; ?>

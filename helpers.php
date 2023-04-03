@@ -1,26 +1,31 @@
 <?php
 
-function renderPage($page) {
+function renderPage($page) : string
+{
+    $res = '';
     $file = DOCUMENT_ROOT . '/' . $page;
     if (file_exists($file)) {
-        include $file;
+        $res = include $file;
     }
+
+    return $res;
 }
 
-function includeCSS($modules) {
+function includeCSS($modules) : void
+{
     foreach ($modules as $module) {
         $GLOBALS['css_modules'][] = $module;
     }
 }
 
-function compressCSS($buffer) {
+function compressCSS($buffer) : string
+{
     $buffer = preg_replace("!/\*[^*]*\*+([^/][^*]*\*+)*/!", "", $buffer);
-    $buffer = str_replace(array("\r\n", "\r", "\n", "\t", "  ", "    ", "    "), "", $buffer);
-
-    return $buffer;
+    return str_replace(array("\r\n", "\r", "\n", "\t", "  ", "    ", "    "), "", $buffer);
 }
 
-function printCSS() {
+function printCSS() : void
+{
     ob_start("compressCSS");
     foreach ($GLOBALS['css_modules'] as $module) {
         $module = DOCUMENT_ROOT . '/public/themes/v3/css/' . $module . '.css';
@@ -31,7 +36,8 @@ function printCSS() {
     ob_end_flush();
 }
 
-function getSeoField($fieldName) {
+function getSeoField($fieldName) : string
+{
     $currentPage = trim($_SERVER['REQUEST_URI'],'/');
     if ($currentPage == '') {
         $currentPage = '/';

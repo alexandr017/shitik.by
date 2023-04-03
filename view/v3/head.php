@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru" prefix="og: http://ogp.me/ns#">
+<html lang="ru" prefix="og: https://ogp.me/ns#">
 <head>
     <title><?php echo getSeoField('title') ?></title>
     <meta charset="utf-8">
