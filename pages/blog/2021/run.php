@@ -14,7 +14,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <h1>Новый личный беговой рекорд</h1>
         <time datetime="2021-04-28" class="date-pub">28 апреля 2021</time>
 
-        <span>Содержание:</span>
+        <span class="h2">Содержание:</span>
         <ul class="post-nav">
             <li><a href="#a-1">Введение</a></li>
             <li><a href="#a-2">Зачем мне это надо было</a></li>

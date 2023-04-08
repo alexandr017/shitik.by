@@ -20,6 +20,11 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/stats">Статистика</a></li>
             <li><a href="/blog">Блог</a>
                 <ul>
+                    <li><a href="/blog/expensive-apartment-renovation">Результаты ремонта квартиры</a></li>
+                    <li><a href="/blog/scrum-and-sprint-life">Жизнь по скраму со спринтами</a></li>
+                    <li><a href="/blog/monopolies">Монополия лучше конкуренции?</a></li>
+                    <li><a href="/blog/earth-overpopulation">Странности с перенаселением Земли</a></li>
+                    <li><a href="/blog/does-the-soul-exist">Существует ли душа?</a></li>
                     <li><a href="/blog/car-in-winter">Почему водители не любят зиму?</a></li>
                     <li><a href="/blog/total-2022">Итоги моего 2022 года</a></li>
                     <li><a href="/blog/books-2022">Прочитанные книги в 2022 году</a></li>

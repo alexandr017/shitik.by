@@ -13,7 +13,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
     <div class="content">
         <h1><?php echo getSeoField('h1') ?></h1>
         <time datetime="2022-07-16" class="date-pub">16 июля 2022</time>
-        <span>Содержание:</span>
+        <span class="h2">Содержание</span>
         <ul class="post-nav">
             <li><a href="#a-1">Введение</a></li>
             <li><a href="#a-2">Теоретическая и техническая СЕО-оптимизации</a></li>

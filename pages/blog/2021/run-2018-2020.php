@@ -14,7 +14,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <h1><?php echo getSeoField('h1') ?></h1>
         <time datetime="2021-12-04" class="date-pub">4 декабря 2021</time>
 
-        <span>Содержание:</span>
+        <span class="h2">Содержание:</span>
         <ul class="post-nav">
             <li><a href="#a-1">Пробежки в 2018 году</a></li>
             <li><a href="#a-2">Пробежки в 2019 году</a></li>

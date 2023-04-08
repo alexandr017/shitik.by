@@ -15,7 +15,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <h1>Планирование как степень достижения целей</h1>
         <time datetime="2020-09-03" class="date-pub">3 августа 2020</time>
 
-        <span>Содержание:</span>
+        <span class="h2">Содержание</span>
         <ul class="post-nav">
             <li><a href="#a-1">Планирование по годом</a></li>
             <li><a href="#a-2">Заметки (день, неделя, месяц)</a></li>

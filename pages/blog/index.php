@@ -16,6 +16,62 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
 
         <div class="posts">
 
+
+            <div class="post-item">
+                <a href="/blog/expensive-apartment-renovation"><img class="post-item-img" src="/images/blog/2023/expensive-apartment-renovation/preview.jpg" alt="Результаты ремонта квартиры" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/expensive-apartment-renovation">Результаты ремонта квартиры</a></h2>
+                    <time datetime="2023-04-08" class="date-on-index">8 апреля 2023</time>
+                    <p class="post-item-desc">Продолжение статьи про выбор и покупку квартиры настало время написать детали по ремонту квартиры. Статья выходит более чем, через год после выхода прошлой, однако...</p>
+                    <a href="/blog/expensive-apartment-renovation" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <a href="/blog/scrum-and-sprint-life"><img class="post-item-img" src="/images/blog/2023/scrum-and-sprint-life/preview.jpeg" alt="Жизнь по скраму со спринтами" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/scrum-and-sprint-life">Жизнь по скраму со спринтами</a></h2>
+                    <time datetime="2023-04-01" class="date-on-index">1 апреля 2023</time>
+                    <p class="post-item-desc">На протяжении последних 7 лет я активно планирую различные долгосрочные цели 📝 на каждый год, а также последних лет 5 я активно планирую и расписываю краткосрочные задачи. За последнюю пятилетку мои инструменты претерпели немало изменений...</p>
+                    <a href="/blog/scrum-and-sprint-life" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <a href="/blog/monopolies"><img class="post-item-img" src="/images/blog/2023/monopolies/preview.jpeg" alt="Монополия лучше конкуренции?" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/monopolies">Монополия лучше конкуренции?</a></h2>
+                    <time datetime="2023-03-28" class="date-on-index">28 марта 2023</time>
+                    <p class="post-item-desc">Наверняка вы часто слышали, что именно конкуренция является двигателем прогресса. Всегда ли это утверждение верно? До недавнего времени я считал именно так. Но в книге одного из создателей PayPal...</p>
+                    <a href="/blog/monopolies" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <a href="/blog/does-the-soul-exist"><img class="post-item-img" src="/images/blog/2023/does-the-soul-exist/preview.jpeg" alt="Существует ли душа?" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/does-the-soul-exist">Существует ли душа?</a></h2>
+                    <time datetime="2023-03-25" class="date-on-index">25 марта 2023</time>
+                    <p class="post-item-desc">Пожалуй лучше бы этой статьи вообще не было. Не так давно у меня умер родственник и именно это печальное событие стало триггером для написания данной статьи...</p>
+                    <a href="/blog/does-the-soul-exist" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <a href="/blog/earth-overpopulation"><img class="post-item-img" src="/images/blog/2023/earth-overpopulation/preview.jpeg" alt="Странности с перенаселением Земли" loading="lazy"></a>
+                <div class="post-text-wrap">
+                    <h2 class="post-item-title"><a href="/blog/earth-overpopulation">Странности с перенаселением Земли</a></h2>
+                    <time datetime="2023-03-22" class="date-on-index">22 марта 2023</time>
+                    <p class="post-item-desc">В этом посту хочу затронуть тему перенаселения Земли. Несколько месяцев назад население нашей планеты перевалило за 8 миллиардов человек. Если добавить сюда все экологические проблемы и прогнозы с перенаселением Земли на ближайшие...</p>
+                    <a href="/blog/earth-overpopulation" class="post-item-btn">Читать далее...</a>
+                </div>
+            </div>
+
+
+
+
+
+
             <div class="post-item">
                 <a href="/blog/car-in-winter"><img class="post-item-img" src="/images/blog/car-in-winter/preview.jpg" alt="Почему водители не любят зиму?" loading="lazy"></a>
                 <div class="post-text-wrap">

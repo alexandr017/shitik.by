@@ -240,4 +240,39 @@ return [
         'canonical' => 'https://shitik.by/blog/car-in-winter',
         'preview' => 'https://shitik.by/images/blog/car-in-winter/preview.jpg'
     ],
+    'blog/does-the-soul-exist' => [
+        'title' => 'Существует ли душа человека?',
+        'metaDescription' => 'Рассуждение на тему существования души с научной и логической точек зрения после того как я потерял одного из родственников.',
+        'h1' => 'Существует ли душа?',
+        'canonical' => 'https://shitik.by/does-the-soul-exist',
+        'preview' => 'https://shitik.by/images/blog/2023/does-the-soul-exist/preview.jpeg'
+    ],
+    'blog/earth-overpopulation' => [
+        'title' => 'Перенаселение Земли. Странности и краткие факты',
+        'metaDescription' => 'Рассуждение о том, действительно ли планете грозит перенаселение, у каких стран большие проблемы и предположение что будет с населением Земли в будущем?',
+        'h1' => 'Странности с перенаселением Земли',
+        'canonical' => 'https://shitik.by/earth-overpopulation',
+        'preview' => 'https://shitik.by/images/blog/2023/earth-overpopulation/preview.jpeg'
+    ],
+    'blog/monopolies' => [
+        'title' => 'Монополия, а не конкуренция двигает прогрессом',
+        'metaDescription' => 'Разбираю интересную точку зрения основателя PayPal Питера Тиля о том, что монополия лучше конкуренции.',
+        'h1' => 'Монополия лучше конкуренции?',
+        'canonical' => 'https://shitik.by/monopolies',
+        'preview' => 'https://shitik.by/images/blog/2023/monopolies/preview.jpeg'
+    ],
+    'blog/scrum-and-sprint-life' => [
+        'title' => 'Скрам в личной жизни',
+        'metaDescription' => 'На протяжении последних 5-7 лет в поисках эффективного выполнения задач и целей используемые мной программы хранения заметок менялись уже несколько раз. В этой статье подробно разбираю как и почему я начал использовать Scrum в личной жизни.',
+        'h1' => 'Жизнь по скраму со спринтами',
+        'canonical' => 'https://shitik.by/scrum-and-sprint-life',
+        'preview' => 'https://shitik.by/images/blog/2023/scrum-and-sprint-life/preview.jpeg'
+    ],
+    'blog/expensive-apartment-renovation' => [
+        'title' => 'Ремонт квартиры за 50 000$. Результаты и описание.',
+        'metaDescription' => 'Детальная статья с описанием ремонта моей двухкомнатной квартиры в Минске. Куда ушли 50 000$ и что было куплено на эту сумму в квартиру?',
+        'h1' => 'Результаты ремонта квартиры',
+        'canonical' => 'https://shitik.by/expensive-apartment-renovation',
+        'preview' => 'https://shitik.by/images/blog/2023/expensive-apartment-renovation/preview.jpg'
+    ],
 ];

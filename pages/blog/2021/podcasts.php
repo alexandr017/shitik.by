@@ -14,7 +14,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <h1>Обучение через подкасты</h1>
         <time datetime="2021-03-22" class="date-pub">22 марта 2021</time>
 
-        <span>Содержание:</span>
+        <span class="h2">Содержание</span>
         <ul class="post-nav">
             <li><a rel="nofollow noopener" target="_blank" href="#a-1">Введение</a></li>
             <li><a rel="nofollow noopener" target="_blank" href="#a-2">Зачем это все мне надо было</a></li>

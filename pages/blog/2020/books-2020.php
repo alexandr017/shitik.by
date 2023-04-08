@@ -15,7 +15,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <h1>Треть сотни книг за 11 месяцев</h1>
         <time datetime="2021-12-05" class="date-pub">5 декабря 2020</time>
 
-        <span>Содержание:</span>
+        <span class="h2">Содержание</span>
         <ul class="post-nav">
             <li><a href="#a-1">Неприязнь к книгам</a></li>
             <li><a href="#a-2">Зачем мне это было вообще нужно</a></li>

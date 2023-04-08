@@ -15,7 +15,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <h1>Мысли после просмотра 250 лучших фильмов всех времен</h1>
         <time datetime="2021-03-22" class="date-pub">22 марта 2021</time>
 
-        <span>Содержание:</span>
+        <span class="h2">Содержание</span>
         <ul class="post-nav">
             <li><a href="#a-1">Введение</a></li>
             <li><a href="#a-2">О обложке</a></li>
