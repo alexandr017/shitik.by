@@ -1,6 +1,7 @@
 <?php
 includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
+$posts = getPosts();
 ?>
 <body>
 <?php include DOCUMENT_ROOT . '/view/v3/menu.php'; ?>
@@ -12,7 +13,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
     </ul>
     <div class="content">
         <h1><?php echo getSeoField('h1') ?></h1>
-        <time datetime="2021-08-17" class="date-pub">17 августа 2021</time>
+        <time datetime="<?php echo getSeoField('date.htmlFormat') ?>" class="date-pub"><?php echo getSeoField('date.viewFormat') ?></time>
         <p>Статья, которая будет ниже не совсем стандартная и похожа на предыдущие. Без содержания, более запутанная, но с так же выводами и надеюсь не менее интересная чем предыдущие. И так погнали…</p>
         <p>В каком возрасте вы впервые столкнулись с черными полосами в своей жизни?</p>
         <p>До недавнего времени я не верил в их существование, наверно потому даже живя один и решая самостоятельно свои проблемы они не приходили ко мне все одновременно.</p>

@@ -1,6 +1,7 @@
 <?php
 includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
+$posts = getPosts();
 ?>
 <body>
 <?php include DOCUMENT_ROOT . '/view/v3/menu.php'; ?>
@@ -8,12 +9,12 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
     <ul class="breadcrumb">
         <li><a href="/">Главная</a></li>
         <li><a href="/blog">Блог</a></li>
-        <li class="active">Мои мысли о коронавирусе</li>
+        <li class="active"><?php echo getSeoField('h1') ?></li>
     </ul>
 
     <article class="content">
-        <h1>Мои мысли о коронавирусе</h1>
-        <time datetime="2021-03-12" class="date-pub">12 марта 2020</time>
+        <h1><?php echo getSeoField('h1') ?></h1>
+        <time datetime="<?php echo getSeoField('date.htmlFormat') ?>" class="date-pub"><?php echo getSeoField('date.viewFormat') ?></time>
 
         <p>Еще пару недель назад ситуация с коронавирусом была действительно непонятной. Многое зависело от того как развитые страны Европы, США и другие будут готовые встретить коронавирус ибо на примере одного Китая понять это было невозможно.
             На сегодняшний момент (12 марта) уже стало очевидно что ситуация по-настоящему вышла из под контроля и многие страны пока что явно с этим не справляются. Как раз вчера ВОЗ объявили коронавирус пандемией. Даже сверх развитая страна и дорогая моему сердцу в первую очередь по футбольным соображениям - Италия оказалась не готова и вирус массово распространяется на ее территории. Там отменены все массовые мероприятия, закрыты магазины (кроме продуктовых), бары, клубы и другие заведения. Для полного устрашения не хватает только зомби на улице.</p>

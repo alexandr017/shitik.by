@@ -2,4 +2,4 @@ User-agent: *
 Disallow:
 
 Host: shitik.by
-Sitemap: http://shitik.by/sitemap.xml
+Sitemap: https://shitik.by/sitemap.xml

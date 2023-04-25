@@ -1,6 +1,7 @@
 <?php
 includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content', 'modules/blog/movies-imdb']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
+$posts = getPosts();
 ?>
 <body>
 <?php include DOCUMENT_ROOT . '/view/v3/menu.php'; ?>
@@ -8,12 +9,12 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
     <ul class="breadcrumb">
         <li><a href="/">Главная</a></li>
         <li><a href="/blog">Блог</a></li>
-        <li class="active">Мысли после просмотра 250 лучших фильмов всех времен</li>
+        <li class="active"><?php echo getSeoField('h1') ?></li>
     </ul>
 
     <article class="content">
         <h1>Мысли после просмотра 250 лучших фильмов всех времен</h1>
-        <time datetime="2021-03-22" class="date-pub">22 марта 2021</time>
+        <time datetime="<?php echo getSeoField('date.htmlFormat') ?>" class="date-pub"><?php echo getSeoField('date.viewFormat') ?></time>
 
         <span class="h2">Содержание</span>
         <ul class="post-nav">

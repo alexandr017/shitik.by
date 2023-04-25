@@ -1,6 +1,7 @@
 <?php
 includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
+$posts = getPosts();
 ?>
 <body>
 <?php include DOCUMENT_ROOT . '/view/v3/menu.php'; ?>
@@ -12,7 +13,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
     </ul>
     <div class="content">
         <h1><?php echo getSeoField('h1') ?></h1>
-        <time datetime="2022-11-18" class="date-pub">18 ноября 2022</time>
+        <time datetime="<?php echo getSeoField('date.htmlFormat') ?>" class="date-pub"><?php echo getSeoField('date.viewFormat') ?></time>
 
         <p>На днях стартует чемпионат мира по футболу. Это самое ценное и важное соревнование в карьере каждого футболиста.
             Ценность добавляет то, что в отличие от многих других видов спорта чемпионат мира по футболу проходит 1 раз в 4 года, в отличие например от хоккея.

@@ -1,6 +1,7 @@
 <?php
 includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
+$posts = getPosts();
 ?>
 <body>
 <?php include DOCUMENT_ROOT . '/view/v3/menu.php'; ?>
@@ -12,7 +13,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
     </ul>
     <div class="content">
         <h1><?php echo getSeoField('h1') ?></h1>
-        <time datetime="2021-10-24" class="date-pub">24 октября 2021</time>
+        <time datetime="<?php echo getSeoField('date.htmlFormat') ?>" class="date-pub"><?php echo getSeoField('date.viewFormat') ?></time>
 
         <p>Наверняка почти каждый из вас видел хотя бы один из кучи фильмов студий Marvel и DC, где в каждой из них они спасают планету от внутренних и внешних угроз. А что если все злодеи, которые во всех фильмах раньше нападали на штаты вдруг изменят свою тактику и нападут на нас? Есть ли у нас свои супер-герои, которые смогут защитить нас от всех угроз? Какой ответ мы подготовили Marvel и DC? Есть ли у нас такие герои, о ком можно было снимать полноценные фильмы? Пожалуй есть, и я сейчас не о 3ех богатырях. Я уже позаботился об этом и для будущих режиссеров и сценаристов подобрал некоторых супер-героев. И так поехали:</p>
         <p>Пожалуй для разогрева начнем с девушек. В первую очередь можно выделить <b>бабу Любу</b>, <b>женщина с кандибобером на голове</b> ну и конечно же <b>Наталья морская пехота</b>.</p>

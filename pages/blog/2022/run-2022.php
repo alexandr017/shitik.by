@@ -1,6 +1,7 @@
 <?php
 includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
+$posts = getPosts();
 ?>
 <body>
 <?php include DOCUMENT_ROOT . '/view/v3/menu.php'; ?>
@@ -12,7 +13,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
     </ul>
     <article class="content">
         <h1><?php echo getSeoField('h1') ?></h1>
-        <time datetime="2022-12-28" class="date-pub">28 декабря 2022</time>
+        <time datetime="<?php echo getSeoField('date.htmlFormat') ?>" class="date-pub"><?php echo getSeoField('date.viewFormat') ?></time>
 
         <p>Пришло время подвести итоги бегового 2022 года. Сначала рассмотрим таблицу всех пробежек в году, после чего дам некоторые комментарии.</p>
 

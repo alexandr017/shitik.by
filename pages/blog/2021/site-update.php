@@ -1,6 +1,7 @@
 <?php
 includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
+$posts = getPosts();
 ?>
 <body>
 <?php include DOCUMENT_ROOT . '/view/v3/menu.php'; ?>
@@ -12,7 +13,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
     </ul>
     <div class="content">
         <h1><?php echo getSeoField('h1') ?></h1>
-        <time datetime="2021-09-12" class="date-pub">12 сентября 2021</time>
+        <time datetime="<?php echo getSeoField('date.htmlFormat') ?>" class="date-pub"><?php echo getSeoField('date.viewFormat') ?></time>
 
         <p>Не так давно я обновил свой сайт. Теперь все его разделы снова в одном месте, однако это технические детали, которые вряд ли кому-то интересны. Так же среди основных изменяй можно выделить слегка измененный дизайн (особенно это заметно на главной странице), расширения сайта и внедрением новых разделов, дополнение существующих страниц новой информацией. Бегло рассмотрим новые разделы и что там будет:</p>
         <ul>

@@ -1,18 +1,19 @@
 <?php
 includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
+$posts = getPosts();
 ?>
 <body>
 <?php include DOCUMENT_ROOT . '/view/v3/menu.php'; ?>
 <main class="container">
     <ul class="breadcrumb">
-        <li><a href="/">Главная</a></span></li>
-        <li><a href="/blog">Блог</a></span></li>
-        <li class="active"><?php echo getSeoField('h1') ?></span></li>
+        <li><a href="/">Главная</a></li>
+        <li><a href="/blog">Блог</a></li>
+        <li class="active"><?php echo getSeoField('h1') ?></li>
     </ul>
     <article class="content">
         <h1><?php echo getSeoField('h1') ?></h1>
-        <time datetime="2023-03-25" class="date-pub">25 марта 2023</time>
+        <time datetime="<?php echo getSeoField('date.htmlFormat') ?>" class="date-pub"><?php echo getSeoField('date.viewFormat') ?></time>
 
         <p>Пожалуй лучше бы этой статьи вообще не было. Не так давно у меня умер родственник 😞 и именно это печальное событие стало триггером для написания данной статьи.</p>
 

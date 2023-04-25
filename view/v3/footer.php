@@ -3,6 +3,7 @@
     <a href="/site">О сайте</a>
     <a href="/sitemap">Карта сайта</a>
 </footer>
+<?php include DOCUMENT_ROOT . '/view/v3/micro-data.php'; ?>
 <script>
     document.getElementsByClassName('mob-menu-label')[0].addEventListener('click', function () {
         document.getElementsByClassName('menu-ul')[0].classList.toggle('show');

@@ -13,7 +13,7 @@
     <meta property="og:type" content="article" />
     <meta property="og:title" content="<?php echo getSeoField('title') ?>" />
     <meta property="og:description" content="<?php echo getSeoField('metaDescription') ?>" />
-    <meta property="og:url" content="<?php echo getSeoField('canonical') ?>" />
+    <meta property="og:url" content="<?php echo getSeoField('url') ?>" />
     <meta property="og:image" content="<?php echo getSeoField('preview'); ?>" />
     <meta property="og:site_name" content="#ShitikBy" />
 

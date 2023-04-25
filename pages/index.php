@@ -14,6 +14,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
     <a href="/stats" class="item lightning-effect"><span class="icon icon-stats"></span>Статистика</a>
     <a href="/site" class="item lightning-effect"><span class="icon icon-web"></span>О сайте</a>
 </div>
+<?php include DOCUMENT_ROOT . '/view/v3/micro-data.php'; ?>
 <?php include DOCUMENT_ROOT . '/view/v3/js-scripts.php'; ?>
 </body>
 </html>

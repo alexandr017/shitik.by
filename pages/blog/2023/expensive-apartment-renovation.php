@@ -1,18 +1,19 @@
 <?php
 includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
+$posts = getPosts();
 ?>
 <body>
 <?php include DOCUMENT_ROOT . '/view/v3/menu.php'; ?>
 <main class="container">
     <ul class="breadcrumb">
-        <li><a href="/">Главная</a></span></li>
-        <li><a href="/blog">Блог</a></span></li>
-        <li class="active"><?php echo getSeoField('h1') ?></span></li>
+        <li><a href="/">Главная</a></li>
+        <li><a href="/blog">Блог</a></li>
+        <li class="active"><?php echo getSeoField('h1') ?></li>
     </ul>
     <article class="content">
         <h1><?php echo getSeoField('h1') ?></h1>
-        <time datetime="2023-04-08" class="date-pub">8 апреля 2023</time>
+        <time datetime="<?php echo getSeoField('date.htmlFormat') ?>" class="date-pub"><?php echo getSeoField('date.viewFormat') ?></time>
         <span class="h2">Содержание</span>
         <ul class="post-nav">
             <li><a href="#a-1">Введение</a></li>
@@ -696,7 +697,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td></td>
                 <td>Ремонт у соседей</td>
-                <td>100*</td>
+                <td>293</td>
             </tr>
 
             <tr>
@@ -732,7 +733,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             </tbody>
         </table>
         <br>
-        <p>Итого получилось 48 378$. <br>Две позиции (со звездочками) еще не выполнены до конца, так что там указаны примерные стоимости.</p>
+        <p>Итого получилось 48 571$. <br>Позиция со звездочкой еще не выполнены до конца, так что там указаны примерные стоимости.</p>
 
 
         <h2 id="a-3">Качество проделанной работы и косяки</h2>
@@ -749,6 +750,31 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <p>
             <img src="/images/blog/2023/expensive-apartment-renovation/big-preview.jpg" alt="Превью ремонта квартиры" width="800" height="542" loading="lazy">
         </p>
+
+        <div class="slide-x">
+            <div class="slide-b">
+                <div class="slide bg1" style="background-color: rgb(44, 103, 158);">hello Spiff</div>
+                <div class="slide bg2" style="background-color: rgb(150, 29, 79);">Age: 40</div>
+                <div class="slide bg3" style="background-color: rgb(175, 141, 28);">Bonny boy</div>
+                <div class="slide bg4" style="background-color: rgb(12, 23, 39);">Life's Good</div>
+            </div>
+        </div>
+        <style>
+            .slide-cont {
+                width: 100%;
+                height: 200px;
+                /* background: lightblue; */
+            }
+
+            .slide {
+                width: 100%;
+                height: 100%;
+                color: whitesmoke;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+        </style>
 
 
         <h2 id="a-4">Выводы</h2>
@@ -788,7 +814,17 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         </script>
 -->
     </article>
+    <script src="/themes/v3/js/slideshow.js"></script>
+    <script>
+        let slider2 = {
+            container: "slide-x",
+            box: "slide-b",
+            duration: 2000,
+            axis: "x"
+        };
 
+        SlideShow(slider2)
+    </script>
 </main>
 <?php include DOCUMENT_ROOT . '/view/v3/footer.php'; ?>
 <?php include DOCUMENT_ROOT . '/view/v3/js-scripts.php'; ?>

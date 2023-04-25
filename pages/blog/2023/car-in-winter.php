@@ -1,18 +1,19 @@
 <?php
 includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content', 'modules/blog/car-in-winter']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
+$posts = getPosts();
 ?>
 <body>
 <?php include DOCUMENT_ROOT . '/view/v3/menu.php'; ?>
 <main class="container">
     <ul class="breadcrumb">
-        <li><a href="/">Главная</a></span></li>
-        <li><a href="/blog">Блог</a></span></li>
-        <li class="active"><?php echo getSeoField('h1') ?></span></li>
+        <li><a href="/">Главная</a></li>
+        <li><a href="/blog">Блог</a></li>
+        <li class="active"><?php echo getSeoField('h1') ?></li>
     </ul>
     <article class="content">
         <h1><?php echo getSeoField('h1') ?></h1>
-        <time datetime="2023-02-12" class="date-pub">12 февраля 2023</time>
+        <time datetime="<?php echo getSeoField('date.htmlFormat') ?>" class="date-pub"><?php echo getSeoField('date.viewFormat') ?></time>
 
         <p>Зима чудесное время года. Кругом лежит белый снег, на окнах мороз, и ты можешь идти по  улице и наслаждаться красивыми пейзажами природы в ожидании Нового Года. Действительно ли все так себе представляют зиму и есть ли люди, которые ее ненавидят? Оказывается есть и такие люди - это автомобилисты. Не первый год имея машину (хотя бывали случаи что старая машина имела меня), я являюсь одним из таких людей, которые не сильно любят зиму и скорее хотят, чтобы она прошла. Попробую описать основные головные боли, которые испытывают владельцы автомобилей зимой.</p>
         <ol>

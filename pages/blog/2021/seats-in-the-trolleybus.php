@@ -1,6 +1,7 @@
 <?php
 includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
+$posts = getPosts();
 ?>
 <body>
 <?php include DOCUMENT_ROOT . '/view/v3/menu.php'; ?>
@@ -12,7 +13,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
     </ul>
     <div class="content">
         <h1><?php echo getSeoField('h1') ?></h1>
-        <time datetime="2021-10-30" class="date-pub">30 октября 2021</time>
+        <time datetime="<?php echo getSeoField('date.htmlFormat') ?>" class="date-pub"><?php echo getSeoField('date.viewFormat') ?></time>
 
         <p>По Минску работают очень много троллейбусов модели АКСМ-321. Не скажу что каждый день, но достаточно часто и ими пользуюсь для перемещения по городу. Замечали ли вы соотношение мест для инвалидов по отношению к обычным в данной модели троллейбуса? Мест для инвалидов там 8, обычных же 18. То есть всего 26 мест. Теперь посчитаем процентное соотношение. Число 8 от числа 26 это 30.77%, соответственно чисто 18 от 26 это 69.23% процентов, что в сумме дает 100%. Таким образом, мы получим что мест для инвалидов почти треть в троллейбусе.</p>
         <div><img style="max-height: 450px; margin: auto" class="post-img" src="/images/blog/seats-in-the-trolleybus/preview.jpg" alt="Троллейбус" loading="lazy"></div>

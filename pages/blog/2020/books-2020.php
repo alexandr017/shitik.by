@@ -1,6 +1,7 @@
 <?php
 includeCSS(['modules/general', 'modules/fonts', 'modules/header', 'modules/breadcrumb', 'modules/content']);
 include DOCUMENT_ROOT . '/view/v3/head.php';
+$posts = getPosts();
 ?>
 <body>
 <?php include DOCUMENT_ROOT . '/view/v3/menu.php'; ?>
@@ -8,12 +9,12 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
     <ul class="breadcrumb">
         <li><a href="/">Главная</a></li>
         <li><a href="/blog">Блог</a></li>
-        <li class="active">Треть сотни книг за 11 месяцев</li>
+        <li class="active"><?php echo getSeoField('h1') ?></li>
     </ul>
 
     <article class="content">
-        <h1>Треть сотни книг за 11 месяцев</h1>
-        <time datetime="2021-12-05" class="date-pub">5 декабря 2020</time>
+        <h1><?php echo getSeoField('h1') ?></h1>
+        <time datetime="<?php echo getSeoField('date.htmlFormat') ?>" class="date-pub"><?php echo getSeoField('date.viewFormat') ?></time>
 
         <span class="h2">Содержание</span>
         <ul class="post-nav">
