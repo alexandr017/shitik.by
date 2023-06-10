@@ -76,6 +76,32 @@ return [
     // blog posts
 
     // 2023
+    'blog/immediate-reward' => [
+        'title' => 'Общество с немедленным откликом и вознаграждением',
+        'metaDescription' => 'Рассмотрим сравнение людей с немедленным и отложенным отклик о мами. Разберем почему в обществе многие живут с немедленным откликом',
+        'h1' => 'Общество с немедленным вознаграждением',
+        'url' => 'https://shitik.by/blog/immediate-reward',
+        'preview' => 'https://shitik.by/images/blog/2023/immediate-reward/preview.jpg',
+        'date' => [
+            'htmlFormat' => '2023-06-10',
+            'viewFormat' => '10 Июня 2023',
+        ],
+        'titleForIndexBlog' => 'Общество с немедленным вознаграждением',
+        'descriptionForIndexBlog' => 'Не так давно я прочил книгу Джеймса Клира про то как привить хорошие привычки и избавиться от плохих. Не скажу, что это идеи основного посыла книги меня сильно впечатлили, но в целом...'
+    ],
+    'blog/kidney-stone' => [
+        'title' => 'Камень в почках.',
+        'metaDescription' => 'История о том как у меня камень выходил из почки.',
+        'h1' => 'Как у меня камень из почки выходил',
+        'url' => 'https://shitik.by/blog/kidney-stone',
+        'preview' => 'https://shitik.by/images/blog/2023/kidney-stone/preview.jpg',
+        'date' => [
+            'htmlFormat' => '2023-06-03',
+            'viewFormat' => '03 Июня 2023',
+        ],
+        'titleForIndexBlog' => 'Как у меня камень из почки выходил',
+        'descriptionForIndexBlog' => 'Несколько недель назад я проснулся в субботнее утром и практически сразу ощутил острую боль в районе живота. Наверняка каждый может представить...'
+    ],
     'blog/expensive-apartment-renovation' => [
         'title' => 'Ремонт квартиры за 50 000$. Результаты и описание.',
         'metaDescription' => 'Детальная статья с описанием ремонта моей двухкомнатной квартиры в Минске. Куда ушли 50 000$ и что было куплено на эту сумму в квартиру?',
@@ -418,7 +444,7 @@ return [
         'metaDescription' => 'Как я отбирал новые подкасты для изучения',
         'h1' => 'Обучение через подкасты',
         'url' => 'https://shitik.by/blog/podcasts',
-        'preview' => 'https://shitik.by/mages/blog/post5.png',
+        'preview' => 'https://shitik.by/images/blog/post5.png',
         'date' => [
             'htmlFormat' => '2021-03-22',
             'viewFormat' => '22 марта 2021',

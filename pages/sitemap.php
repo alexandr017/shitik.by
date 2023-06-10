@@ -20,6 +20,8 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/stats">Статистика</a></li>
             <li><a href="/blog">Блог</a>
                 <ul>
+                    <li><a href="/blog/immediate-reward">Общество с немедленным вознаграждением</a></li>
+                    <li><a href="/blog/kidney-stone">Камень в почках</a></li>
                     <li><a href="/blog/expensive-apartment-renovation">Результаты ремонта квартиры</a></li>
                     <li><a href="/blog/scrum-and-sprint-life">Жизнь по скраму со спринтами</a></li>
                     <li><a href="/blog/monopolies">Монополия лучше конкуренции?</a></li>

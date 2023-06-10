@@ -351,7 +351,7 @@ $posts = getPosts();
             <tr>
                 <td></td>
                 <td>Подключение домофона, установка бра</td>
-                <td>40 *</td>
+                <td>40</td>
             </tr>
             <tr>
                 <td></td>
@@ -733,7 +733,7 @@ $posts = getPosts();
             </tbody>
         </table>
         <br>
-        <p>Итого получилось 48 571$. <br>Позиция со звездочкой еще не выполнены до конца, так что там указаны примерные стоимости.</p>
+        <p>Итого получилось 48 560$.</p>
 
 
         <h2 id="a-3">Качество проделанной работы и косяки</h2>
@@ -743,39 +743,8 @@ $posts = getPosts();
         <p>Бригада “С” делала основную часть ремонта, от стяжки до отделочных работ. Надо признать, что сделали достаточно хорошо, отдельное спасибо прорабу. Хотя цена на некоторые виды работ, например замена радиаторов отопления, мне показалось завышена.</p>
         <p>Бригада “D” делала всю встроенную мебель и также сделали все очень хорошо. На некоторые элементы цена казалась явно высокой, например межкомнатные стеклянные двери обошлись почти в 1000$. Правда такие двери и правда сильно дешевле нигде не заказать. Но с другой стороны у них были достаточно дешевые зеркала и некоторая встроенная мебель. Так что в целом мы остались бригадой довольны.</p>
         <p>Кроме выше перечисленных бригад были бригады по первоначальному вывозу мусора, по замене окон, по натяжке потолков и установке плинтусов. Работы всех, кроме натяжных потолков были удовлетворительными.</p>
-        <!--
-        <p>Помимо прикреплённых фотографий перед заключительной частью предлагаю посмотреть еще и итоговое видео ремонта.</p>
-        -->
-        <p><i>Скоро на этом месте будет видео и много фотографии ремонта, но пока прикрепляю фото превью записи :)</i></p>
-        <p>
-            <img src="/images/blog/2023/expensive-apartment-renovation/big-preview.jpg" alt="Превью ремонта квартиры" width="800" height="542" loading="lazy">
-        </p>
 
-        <div class="slide-x">
-            <div class="slide-b">
-                <div class="slide bg1" style="background-color: rgb(44, 103, 158);">hello Spiff</div>
-                <div class="slide bg2" style="background-color: rgb(150, 29, 79);">Age: 40</div>
-                <div class="slide bg3" style="background-color: rgb(175, 141, 28);">Bonny boy</div>
-                <div class="slide bg4" style="background-color: rgb(12, 23, 39);">Life's Good</div>
-            </div>
-        </div>
-        <style>
-            .slide-cont {
-                width: 100%;
-                height: 200px;
-                /* background: lightblue; */
-            }
-
-            .slide {
-                width: 100%;
-                height: 100%;
-                color: whitesmoke;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-            }
-        </style>
-
+        <iframe style="max-width: 100%" width="853" height="480" src="https://www.youtube.com/embed/pVhUAbrTOa0" title="Ремонт квартиры №1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
         <h2 id="a-4">Выводы</h2>
         <p>Это было достаточно долгое и дорогое занятие. Надо сказать отдельное спасибо моей супруге, которая также была вовлечена в ремонт и дизайнерская часть и конечный интерьер выбирала она. Наверно именно поэтому ремонт был не 20 000$ а 50 000$ :) Несмотря на то, что я и ранее был плотно связан с ремонтом и для меня это не является чем-то новым несколько выводов и советов можно извлечь из текущей истории.</p>
@@ -785,46 +754,8 @@ $posts = getPosts();
         <p>Капитальный ремонт вторичной квартиры делать дороже, чем новостройки, так как в новостройке не нужно делать капитальные демонтажные работы. Скорее всего там не надо менять стеклопакеты, не надо разбирать и вывозить старую мебель, не надо убирать старые обои и элементы старой проводки (выключали и розетки), не надо менять стяжку и иногда не надо ровнять стены.</p>
         <p>Не стоит недооценивать этапы замены стеклопакетов и натягивания потолков, так как на ряду с малярными и прочими строительными работами это одни из самых пыльных и мусорных работ.</p>
 
-<!--
-        <span class="show-image">
-                <span>Показать изображение ⬇️</span>
-                <img src="http://localhost:8082/images/blog/2023/scrum-and-sprint-life/scrum-and-sprint-life-2.jpg" alt="image" loading="lazy">
-            ️</span>
-
-        <style>
-            .show-image {
-                display: block;
-            }
-            .show-image span {
-                cursor: pointer;
-            }
-            .show-image img {
-                display: none;
-            }
-            .show-image.show img{
-                display: block;
-            }
-        </style>
-        <script>
-            document.querySelectorAll('.show-image').forEach(function(el){
-                el.addEventListener('click', function () {
-                    this.classList.toggle('show');
-                });
-            })
-        </script>
--->
     </article>
-    <script src="/themes/v3/js/slideshow.js"></script>
-    <script>
-        let slider2 = {
-            container: "slide-x",
-            box: "slide-b",
-            duration: 2000,
-            axis: "x"
-        };
 
-        SlideShow(slider2)
-    </script>
 </main>
 <?php include DOCUMENT_ROOT . '/view/v3/footer.php'; ?>
 <?php include DOCUMENT_ROOT . '/view/v3/js-scripts.php'; ?>
