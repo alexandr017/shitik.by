@@ -93,4 +93,31 @@
             "url": "<?php echo $post->url ?>"
         }
     </script>
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name":  "Главная",
+                    "item":  "https://shitik.by"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name":  "Блог",
+                    "item":  "https://shitik.by/blog"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name":  "<?php echo $post->h1 ?>",
+                    "item": "<?php echo $post->url ?>"
+                }
+            ]
+        }
+    </script>
 <?php endif; ?>
