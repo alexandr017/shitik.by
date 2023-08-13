@@ -76,6 +76,58 @@ return [
     // blog posts
 
     // 2023
+    'blog/winning-lotteries' => [
+        'title' => 'Выигрышные минские лотереи. Секрет ракскрыт.',
+        'metaDescription' => 'Разбираем почему в Минске и области лотерии выигрывают чаще, чем в других регионам Беларуси',
+        'h1' => 'Выигрышные минские лотереи',
+        'url' => 'https://shitik.by/blog/winning-lotteries',
+        'preview' => 'https://shitik.by/images/blog/2023/winning-lotteries/preview.jpg',
+        'date' => [
+            'htmlFormat' => '2023-08-12',
+            'viewFormat' => '12 августа 2023',
+        ],
+        'titleForIndexBlog' => 'Выигрышные минские лотереи',
+        'descriptionForIndexBlog' => 'В моем детстве и подростков возрасте были очень популярные лотереи ваше лото и супер лото. Не знаю судьбы этих лотереей сейчас, возможно какая-то из них существует и сейчас...'
+    ],
+    'blog/weight-and-mass' => [
+        'title' => 'Вес или масса? Как правильно?',
+        'metaDescription' => 'Как правильно говорить вес или масса. Разбираем оба понятия.',
+        'h1' => 'Почему некорректно спрашивать какой у тебя вес? Отсеиваем двоечников по физике',
+        'url' => 'https://shitik.by/blog/weight-and-mass',
+        'preview' => 'https://shitik.by/images/blog/2023/weight-and-mass/preview.webp',
+        'date' => [
+            'htmlFormat' => '2023-08-11',
+            'viewFormat' => '11 августа 2023',
+        ],
+        'titleForIndexBlog' => 'Почему некорректно спрашивать какой у тебя вес? Отсеиваем двоечников по физике.',
+        'descriptionForIndexBlog' => 'Очень часто можно услышать фразу какой у тебя вес?  Давайте разберемся что с ней не так и почему она максимально странная. В самой по себе фразе-вопросе...'
+    ],
+    'blog/marvel-and-dc-without-a-plot' => [
+        'title' => 'Кризис идей и проблемы с сюжетом у компаний Marvel и DC',
+        'metaDescription' => 'Какие типовые проблему я обнаружил в сюжетных линиях ведуших компаниях, снимающих фильмы по комиксам.',
+        'h1' => 'Кризис идей и проблемы с сюжетом у Марвел и DC',
+        'url' => 'https://shitik.by/blog/marvel-and-dc-without-a-plot',
+        'preview' => 'https://shitik.by/images/blog/2023/marvel-and-dc-without-a-plot/preview.jpg',
+        'date' => [
+            'htmlFormat' => '2023-08-06',
+            'viewFormat' => '6 августа 2023',
+        ],
+        'titleForIndexBlog' => 'Кризис идей и проблемы с сюжетом у Марвел и DC',
+        'descriptionForIndexBlog' => 'Я не большой фанат серии Marvel и DC, но некоторые самые популярные и хайповые фильмы все же видел. Это и не удивительно, ведь ровно как...'
+    ],
+    'blog/rich-brazil-and-argentina' => [
+        'title' => 'Если бы у Бразилии и Аргентины было больше денег',
+        'metaDescription' => 'Что было бы, если бы Бразилия и Аргентина были более богатыми и экономически успешными странами.',
+        'h1' => 'Если бы Бразилия и Аргентина были богаче',
+        'url' => 'https://shitik.by/blog/rich-brazil-and-argentina',
+        'preview' => 'https://shitik.by/images/blog/2023/rich-brazil-and-argentina/preview.jpg',
+        'date' => [
+            'htmlFormat' => '2023-08-05',
+            'viewFormat' => '5 августа 2023',
+        ],
+        'titleForIndexBlog' => 'Если бы у Бразилии и Аргентины было больше денег',
+        'descriptionForIndexBlog' => 'Те, кто давно увлекается футболом пережил самые разные тенденции вливания денег в футбол. Я начал увлекаться футболом в начале нулевых. Всегда самыми лучшими клубами мира являлись...'
+    ],
     'blog/immediate-reward' => [
         'title' => 'Общество с немедленным откликом и вознаграждением',
         'metaDescription' => 'Рассмотрим сравнение людей с немедленным и отложенным отклик о мами. Разберем почему в обществе многие живут с немедленным откликом',
@@ -84,7 +136,7 @@ return [
         'preview' => 'https://shitik.by/images/blog/2023/immediate-reward/preview.jpg',
         'date' => [
             'htmlFormat' => '2023-06-10',
-            'viewFormat' => '10 Июня 2023',
+            'viewFormat' => '10 июня 2023',
         ],
         'titleForIndexBlog' => 'Общество с немедленным вознаграждением',
         'descriptionForIndexBlog' => 'Не так давно я прочил книгу Джеймса Клира про то как привить хорошие привычки и избавиться от плохих. Не скажу, что это идеи основного посыла книги меня сильно впечатлили, но в целом...'
@@ -97,7 +149,7 @@ return [
         'preview' => 'https://shitik.by/images/blog/2023/kidney-stone/preview.jpg',
         'date' => [
             'htmlFormat' => '2023-06-03',
-            'viewFormat' => '03 Июня 2023',
+            'viewFormat' => '03 июня 2023',
         ],
         'titleForIndexBlog' => 'Как у меня камень из почки выходил',
         'descriptionForIndexBlog' => 'Несколько недель назад я проснулся в субботнее утром и практически сразу ощутил острую боль в районе живота. Наверняка каждый может представить...'
@@ -237,7 +289,7 @@ return [
         'preview' => 'https://shitik.by/images/blog/world-cup-2022/preview.jpeg',
         'date' => [
             'htmlFormat' => '2022-01-18',
-            'viewFormat' => '18 Ноября 2022',
+            'viewFormat' => '18 ноября 2022',
         ],
         'titleForIndexBlog' => 'Чемпионат мира по футболу 2022',
         'descriptionForIndexBlog' => 'На днях стартует чемпионат мира по футболу. Это самое ценное и важное соревнование в карьере каждого футболиста. Ценность добавляет то, что в отличие от многих других видов спорта чемпионат мира по футболу...'
@@ -251,7 +303,7 @@ return [
         'preview' => 'https://shitik.by/images/blog/seo/preview.jpeg',
         'date' => [
             'htmlFormat' => '2022-07-16',
-            'viewFormat' => '16 Июля 2022',
+            'viewFormat' => '16 июля 2022',
         ],
         'titleForIndexBlog' => 'Современная СЕО-оптимизация глазами программиста',
         'descriptionForIndexBlog' => 'Уже около 5ти лет я работаю в продуктовой компании в области финансов, экономики и бизнеса. Помимо этой предметной области у нас есть вторая не менее важная...'

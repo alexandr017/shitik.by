@@ -20,6 +20,10 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/stats">Статистика</a></li>
             <li><a href="/blog">Блог</a>
                 <ul>
+                    <li><a href="/blog/winning-lotteries">Выигрышные минские лотереи</a></li>
+                    <li><a href="/blog/weight-and-mass">Почему некорректно спрашивать какой у тебя вес? Отсеиваем двоечников по физике</a></li>
+                    <li><a href="/blog/marvel-and-dc-without-a-plot">Кризис идей и проблемы с сюжетом у Марвел и DC</a></li>
+                    <li><a href="/blog/rich-brazil-and-argentina">Если бы у Бразилии и Аргентины было больше денег</a></li>
                     <li><a href="/blog/immediate-reward">Общество с немедленным вознаграждением</a></li>
                     <li><a href="/blog/kidney-stone">Камень в почках</a></li>
                     <li><a href="/blog/expensive-apartment-renovation">Результаты ремонта квартиры</a></li>
