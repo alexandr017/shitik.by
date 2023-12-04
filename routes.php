@@ -1,6 +1,14 @@
 <?php
 
-$template = match ($_SERVER['REQUEST_URI']) {
+$currentRoute = $_SERVER['REQUEST_URI'];
+
+if (! in_array($currentRoute, ['/library?show_type=short-list', '/library?show_type=full-list'])) {
+    if (str_contains($currentRoute, "?")) {
+        $currentRoute = strstr($currentRoute, "?", true);
+    }
+}
+
+$template = match ($currentRoute) {
     '/' => 'pages/index.php',
     '/alexandr-andreevich' => 'pages/about.php',
     '/blog' => 'pages/blog/index.php',
