@@ -20,6 +20,9 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/stats">Статистика</a></li>
             <li><a href="/blog">Блог</a>
                 <ul>
+                    <li><a href="/blog/fear-of-criticism">Страх перед критикой или почему люди гоняться за модой</a></li>
+                    <li><a href="/blog/space-objects">Бытовые и медицинские предметы, которые появились благодаря изучению космоса</a></li>
+                    <li><a href="/blog/following-in-the-footsteps-of-hocking-and-tyson">Иду по стопам Хокинга и Тайсона</a></li>
                     <li><a href="/blog/winning-lotteries">Выигрышные минские лотереи</a></li>
                     <li><a href="/blog/weight-and-mass">Почему некорректно спрашивать какой у тебя вес? Отсеиваем двоечников по физике</a></li>
                     <li><a href="/blog/marvel-and-dc-without-a-plot">Кризис идей и проблемы с сюжетом у Марвел и DC</a></li>
