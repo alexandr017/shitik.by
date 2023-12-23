@@ -566,7 +566,7 @@ return [
         'metaDescription' => 'Коротко о том как я планирую. Заметки, карты анти-деградации, разбиение по типам целей и многое другое',
         'h1' => 'Планирование как степень достижения целей',
         'url' => 'https://shitik.by/blog/planning',
-        'preview' => 'https://shitik.by/images/blog/post3.jpg',
+        'preview' => 'https://shitik.by/images/blog/2020/planning/planning.jpg',
         'date' => [
             'htmlFormat' => '2020-08-03',
             'viewFormat' => '3 августа 2020',
@@ -580,7 +580,7 @@ return [
         'metaDescription' => 'Попытаюсь описать реальную картину на сегоняшний день своими глазами',
         'h1' => 'Мои мысли о коронавирусе',
         'url' => 'https://shitik.by/blog/koronavirus',
-        'preview' => 'https://shitik.by/images/blog/post2.jpg',
+        'preview' => 'https://shitik.by/images/blog/2020/koronavirus/koronavirus.jpg',
         'date' => [
             'htmlFormat' => '2020-03-12',
             'viewFormat' => '12 марта 2020',
@@ -596,7 +596,7 @@ return [
         'metaDescription' => 'Развернутый ответ на вопрос с полным перечнем технологий, языков, подходов и концепций. Реальный взгляд на будущую профессию от веб-программиста.',
         'h1' => 'Напутствие будущим программистам',
         'url' => 'https://shitik.by/blog/students',
-        'preview' => 'https://shitik.by/images/blog/post1.jpg',
+        'preview' => 'https://shitik.by/images/blog/2019/students/students.jpg',
         'date' => [
             'htmlFormat' => '2019-06-12',
             'viewFormat' => '12 июня 2019',
