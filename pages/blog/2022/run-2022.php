@@ -283,8 +283,8 @@ $posts = getPosts();
         <img src="/images/blog/run-2022/chart-2.jpg" alt="Суммарное расстояние (км) по годам">
         <div class="h3 text-center">Максимальное расстояние (км) по годам:</div>
         <img src="/images/blog/run-2022/chart-3.jpg" alt="Максимальное расстояние (км) по годам">
-        <div class="h3 text-center">Минимальне расстояние (км) по годам:</div>
-        <img src="/images/blog/run-2022/chart-4.jpg" alt="Минимальне расстояние (км) по годам">
+        <div class="h3 text-center">Минимальное расстояние (км) по годам:</div>
+        <img src="/images/blog/run-2022/chart-4.jpg" alt="Минимальное расстояние (км) по годам">
         <div class="h3 text-center">Среднее расстояние (км) по годам:</div>
         <img src="/images/blog/run-2022/chart-5.jpg" alt="Среднее расстояние (км) по годам">
         <div class="h3 text-center">Максимальное время (мин) по годам:</div>

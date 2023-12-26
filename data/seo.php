@@ -77,6 +77,58 @@ return [
 
 
     // 2023
+    'blog/total-2023' => [
+        'title' => '',
+        'metaDescription' => '',
+        'h1' => 'Итоги 2023 года',
+        'url' => 'https://shitik.by/blog/total-2023',
+        'preview' => 'https://shitik.by/images/blog/2023/total-2023/preview.jpg',
+        'date' => [
+            'htmlFormat' => '2023-12-29',
+            'viewFormat' => '29 декабря 2026',
+        ],
+        'titleForIndexBlog' => 'Итоги 2023 года',
+        'descriptionForIndexBlog' => ''
+    ],
+    'blog/book-2023' => [
+        'title' => '',
+        'metaDescription' => '',
+        'h1' => 'Книжная статистика за 2023 год',
+        'url' => 'https://shitik.by/blog/book-2023',
+        'preview' => 'https://shitik.by/images/blog/2023/book-2023/preview.jpg',
+        'date' => [
+            'htmlFormat' => '2023-12-27',
+            'viewFormat' => '27 декабря 2026',
+        ],
+        'titleForIndexBlog' => 'Книжная статистика за 2023 год',
+        'descriptionForIndexBlog' => ''
+    ],
+    'blog/run-2023' => [
+        'title' => '',
+        'metaDescription' => '',
+        'h1' => 'Статистика бега за 2023 год',
+        'url' => 'https://shitik.by/blog/run-2023',
+        'preview' => 'https://shitik.by/images/blog/2023/run-2023/preview.jpg',
+        'date' => [
+            'htmlFormat' => '2023-12-27',
+            'viewFormat' => '27 декабря 2026',
+        ],
+        'titleForIndexBlog' => 'Статистика бега за 2023 год',
+        'descriptionForIndexBlog' => ''
+    ],
+    'blog/tips-for-motorists' => [
+     'title' => 'Неочевидные советы для начинающих водителей: избегайте распространенных ошибок',
+        'metaDescription' => 'Изучите неочевидные и полезные советы для начинающих водителей, которые помогут вам избежать неприятностей на дороге. Собранные из жизненного опыта автора, эти советы дополнят вашу подготовку к вождению и повысят вашу безопасность. Будьте внимательны и готовы к непредвиденным ситуациям, чтобы стать опытным водителем.',
+        'h1' => 'Неочевидные советы начинающим водителям',
+        'url' => 'https://shitik.by/blog/tips-for-motorists',
+        'preview' => 'https://shitik.by/images/blog/2023/tips-for-motorists/preview.jpg',
+        'date' => [
+            'htmlFormat' => '2023-12-26',
+            'viewFormat' => '26 декабря 2023',
+        ],
+        'titleForIndexBlog' => 'Неочевидные советы начинающим водителям',
+        'descriptionForIndexBlog' => ''
+    ],
     'blog/fear-of-criticism' => [
         'title' => 'Почему мы следуем моде: психологический анализ и симптомы страха перед критикой',
         'metaDescription' => 'В этой статье мы исследуем, почему многие люди стремятся быть модными и менять свою одежду и вещи регулярно. Мы рассмотрим психологическую проблему, связанную с потребностью в моде, и описываем 7 симптомов страха перед критикой. Если вы замечаете себя в этих симптомах, возможно, вам стоит обратить внимание и позаботиться о своей уверенности и самооценке.',

@@ -20,6 +20,10 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/stats">Статистика</a></li>
             <li><a href="/blog">Блог</a>
                 <ul>
+                    <li><a href="/blog/total-2023">Итоги 2023 года</a></li>
+                    <li><a href="/blog/book-2023">Книжная статистика за 2023 год</a></li>
+                    <li><a href="/blog/run-2023">Статистика бега за 2023 год</a></li>
+                    <li><a href="/blog/tips-for-motorists">Неочевидные советы начинающим водителям</a></li>
                     <li><a href="/blog/fear-of-criticism">Страх перед критикой или почему люди гоняться за модой</a></li>
                     <li><a href="/blog/space-objects">Бытовые и медицинские предметы, которые появились благодаря изучению космоса</a></li>
                     <li><a href="/blog/following-in-the-footsteps-of-hocking-and-tyson">Иду по стопам Хокинга и Тайсона</a></li>
