@@ -604,7 +604,7 @@ return [
         'metaDescription' => 'Решил поделиться впечатлениями после того как прочил 32 книги за 11 месяцев 2020 года.',
         'h1' => 'Треть сотни книг за 11 месяцев',
         'url' => 'https://shitik.by/blog/books-2020',
-        'preview' => 'https://shitik.by/images/blog/post4.jpg',
+        'preview' => 'https://shitik.by/images/blog/2020/books/books.jpg',
         'date' => [
             'htmlFormat' => '2020-12-05',
             'viewFormat' => '5 декабря 2020',
