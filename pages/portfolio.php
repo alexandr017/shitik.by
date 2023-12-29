@@ -47,7 +47,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>1</td>
                 <td>1</td>
-                <td><a rel="noopener" target="_blank" href="http://php-grasp.org/">Grasp</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://php-grasp.org/">Grasp</a></td>
                 <td><p>Модульная CMS система, предназначенная для быстрого создания лендингов, одностраничников, сайтов - визиток и даже блогов и сайтов компаний. Главной отличительной особенностью является полный отказ от использования базы данных. К основным преимуществам, особенностям и функциях данной CMS можно отнести:</p>
                     <ul style="margin-left: 25px;">
                         <li>Отсутствие базы данных</li>
@@ -83,7 +83,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>2</td>
                 <td>2</td>
-                <td><a rel="noopener" target="_blank" href="http://php-grasp.org/lightMVC.tar.gz">lightMVC</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://php-grasp.org/lightMVC.tar.gz">lightMVC</a></td>
                 <td><p>Небольшой MVC фреймворк, который так же делал для себя в качестве шаблонов для небольших сайтов. К его основных функциям и характеристикам можно отнести:</p>
                     <ul style="margin-left: 25px;">
                         <li>MVC</li>
@@ -125,7 +125,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>3</td>
                 <td>1</td>
-                <td><a rel="noopener" target="_blank" href="http://orsha-clubdog.by">orsha-clubdog.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://orsha-clubdog.by">orsha-clubdog.by</a></td>
                 <td><p>Брался готовый шаблон и переделывался до неузнаваемости. Сайт функционирует и в настоящее время.</p></td>
                 <td>30%</td>
                 <td>Joomla</td>
@@ -161,7 +161,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>7</td>
                 <td>5</td>
-                <td><a rel="noopener" target="_blank" href="http://begoml.by">begoml.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://begoml.by">begoml.by</a></td>
                 <td><p>Сайт, который я сделал другу и одногруппнику. В отличии от предыдущих работ для данного сайта (и практически для всех последующих работ) мною создавалась новая тема, которая была натянута на движок.</p></td>
                 <td>30%</td>
                 <td>Wordpress</td>
@@ -170,7 +170,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>8</td>
                 <td>6</td>
-                <td><a rel="noopener" target="_blank" href="http://gruzchiki-gruzoperevozki.by">gruzchiki-gruzoperevozki.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://gruzchiki-gruzoperevozki.by">gruzchiki-gruzoperevozki.by</a></td>
                 <td><p>Лендинг, перенесенный по просьбе заказчика с реального сайта сети Интернет 1 в 1 с последующим изменением текстовой информации.</p></td>
                 <td>10%</td>
                 <td>-</td>
@@ -179,7 +179,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>9</td>
                 <td>7</td>
-                <td><a rel="noopener" target="_blank" href="http://kopka-kolodcev.by">kopka-kolodcev.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://kopka-kolodcev.by">kopka-kolodcev.by</a></td>
                 <td><p>По просьбе заказчика дизайн сайта взять из 1 в 1 из реального сайта сети Интернет. По данному дизайну создал тему и натянул ее на движок.</p></td>
                 <td>50%</td>
                 <td>Wordpress</td>
@@ -188,7 +188,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>10</td>
                 <td>8</td>
-                <td><a rel="noopener" target="_blank" href="http://peredvizka.by">peredvizka.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://peredvizka.by">peredvizka.by</a></td>
                 <td>Один из первых проектов, который я делал в компании ITOblaka. Брался готовый шаблон и почти полностью переписывался под нужны заказчика.</td>
                 <td>40%</td>
                 <td>Wordpress</td>
@@ -197,7 +197,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>11</td>
                 <td>9</td>
-                <td><a rel="noopener" target="_blank" href="http://moimaster.by">moimaster.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://moimaster.by">moimaster.by</a></td>
                 <td>Верстка (в том числе адаптивность), подключение плагина таймера. Создание небольшой админки на самой первой версии моей CMS</td>
                 <td>20%</td>
                 <td>Grasp</td>
@@ -206,7 +206,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>12</td>
                 <td>10</td>
-                <td><a rel="noopener" target="_blank" href="http://xauto.by">xauto.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://xauto.by">xauto.by</a></td>
                 <td>Полностью созданный сайт с нуля. Верстка шаблона, натяжка шаблона на CMS.</td>
                 <td>60%</td>
                 <td>Wordpress</td>
@@ -215,7 +215,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>13</td>
                 <td>11</td>
-                <td><a rel="noopener" target="_blank" href="http://bezpokraski.by">bezpokraski.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://bezpokraski.by">bezpokraski.by</a></td>
                 <td>Создание нового сайта для компании. Верстка  (в том числе адаптивная) шаблона, натяжка шаблона на CMS.</td>
                 <td>50%</td>
                 <td>Wordpress</td>
@@ -224,7 +224,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>14</td>
                 <td>12</td>
-                <td><a rel="noopener" target="_blank" href="http://capsule.by">capsule.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://capsule.by">capsule.by</a></td>
                 <td>Верстка (в том числе адаптивная), подключение  и настройка jquery плагинов</td>
                 <td>60%</td>
                 <td>-</td>
@@ -233,7 +233,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>15</td>
                 <td>13</td>
-                <td><a rel="noopener" target="_blank" href="http://minskremont.by">minskremont.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://minskremont.by">minskremont.by</a></td>
                 <td>Верстка  (в том числе адаптивная) + натяжка на CMS</td>
                 <td>50%</td>
                 <td>Wordpress</td>
@@ -242,7 +242,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>16</td>
                 <td>14</td>
-                <td><a rel="noopener" target="_blank" href="http://hydrotech.by">hydrotech.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://hydrotech.by">hydrotech.by</a></td>
                 <td>Верстка  (в том числе адаптивная) + натяжка на CMS</td>
                 <td>60%</td>
                 <td>Wordpress</td>
@@ -251,7 +251,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>17</td>
                 <td>15</td>
-                <td><a rel="noopener" target="_blank" href="http://itmentor.by">itmentor.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://itmentor.by">itmentor.by</a></td>
                 <td>Верстка + натяжка на фреймворк. Один из самых интересных проектов. Помимо создания клиентской части мною полностью проектировалась и создавалась административная часть, заточенная конкретно под этот сайт. На сайте много аякса. Сайт (почти так же как и все проекты, которые я верстал) является адаптивным.</td>
                 <td>100%</td>
                 <td>Laravel 5</td>
@@ -260,7 +260,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>18</td>
                 <td>16</td>
-                <td><a rel="noopener" target="_blank" href="http://vipusknik.by">vipusknik.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://vipusknik.by">vipusknik.by</a></td>
                 <td>Ещё один сайт на фреймворке. Так же верстка с нуля (адаптивная) + индивидуальная админка</td>
                 <td>60%</td>
                 <td>Laravel 5</td>
@@ -269,7 +269,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>19</td>
                 <td>17</td>
-                <td><a rel="noopener" target="_blank" href="http://lidergoda.by">lidergoda.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://lidergoda.by">lidergoda.by</a></td>
                 <td>Сайт престижной премии Беларуси "Лидер года". Верстка (адаптивная) с нуля + натяжка на CMS.</td>
                 <td>30%</td>
                 <td>Wordpress</td>
@@ -278,7 +278,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>20</td>
                 <td>18</td>
-                <td><a rel="noopener" target="_blank" href="http://upgroup.by">upgroup.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://upgroup.by">upgroup.by</a></td>
                 <td>Сайт компании занимающейся разработкой по 1с. На данный момент дизайн сайт изменен на другой.</td>
                 <td>40%</td>
                 <td>Grasp</td>
@@ -287,7 +287,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>21</td>
                 <td>19</td>
-                <td><a rel="noopener" target="_blank" href="http://inclusivebelarus.by">inclusivebelarus.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://inclusivebelarus.by">inclusivebelarus.by</a></td>
                 <td><p>Один из сайтов ООН Беларуси. Верстка +  натяжка на мою CMS</p></td>
                 <td>40%</td>
                 <td>Grasp</td>
@@ -296,7 +296,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>22</td>
                 <td>20</td>
-                <td><a rel="noopener" target="_blank" href="http://siberia.by">siberia.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://siberia.by">siberia.by</a></td>
                 <td><p>Проект на фрейморке, так же с адаптивной версткой + заточенная под сайт админка.</p></td>
                 <td>70%</td>
                 <td>Laravel 5</td>
@@ -305,7 +305,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>23</td>
                 <td>21</td>
-                <td><a rel="noopener" target="_blank" href="http://bytubing.by">bytubing.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://bytubing.by">bytubing.by</a></td>
                 <td>Верстка без последующей натяжки</td>
                 <td>10%</td>
                 <td>-</td>
@@ -314,7 +314,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>24</td>
                 <td>22</td>
-                <td><a rel="noopener" target="_blank" href="http://cleanservice.by">cleanservice.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://cleanservice.by">cleanservice.by</a></td>
                 <td>Верстка с последующей натяжкой. Примечательно, что изначально при верстке использовал препроцессор SASS.</td>
                 <td>50%</td>
                 <td>Grasp</td>
@@ -323,7 +323,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>25</td>
                 <td>23</td>
-                <td><a rel="noopener" target="_blank" href="http://artclub.by">artclub.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://artclub.by">artclub.by</a></td>
                 <td>Создание интернет-магазина. Верстка + клиентские скрипты. Натяжка с использованием Woocommerce.</td>
                 <td>70%</td>
                 <td>Wordpress</td>
@@ -332,7 +332,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>26</td>
                 <td>24</td>
-                <td><a rel="noopener" target="_blank" href="http://videnglobe.com">videnglobe.com</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://videnglobe.com">videnglobe.com</a></td>
                 <td>Натяжка сайта на CMS. Небольшие правки по верстке за начинающим верстальщиком.</td>
                 <td>60%</td>
                 <td>Joomla</td>
@@ -341,7 +341,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>27</td>
                 <td>25</td>
-                <td><a rel="noopener" target="_blank" href="http://allsale.by/dev/vassa">vassa</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://allsale.by/dev/vassa">vassa</a></td>
                 <td>Верстка шаблонов с последующей передачей их другой иностранной компании. Использовался SASS</td>
                 <td>50%</td>
                 <td>-</td>
@@ -350,7 +350,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>28</td>
                 <td>26</td>
-                <td><a rel="noopener" target="_blank" href="http://cloud1c.by">cloud1c.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://cloud1c.by">cloud1c.by</a></td>
                 <td><p>Натяжка на фреймворк. Создание индивидуальной админки. Поправка верстки.</p></td>
                 <td>40%</td>
                 <td>Laravel 5</td>
@@ -359,7 +359,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>29</td>
                 <td>27</td>
-                <td><a rel="noopener" target="_blank" href="http://auto-glass.by">auto-glass.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://auto-glass.by">auto-glass.by</a></td>
                 <td><p>Сайт, сделанный по аналогии одного из сайтов сети Интернет. В последствии был посажен на мою CMS.</p></td>
                 <td>20%</td>
                 <td>Grasp</td>
@@ -368,7 +368,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>30</td>
                 <td>28</td>
-                <td><a rel="noopener" target="_blank" href="http://bel-gruz.com">bel-gruz.com</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://bel-gruz.com">bel-gruz.com</a></td>
                 <td><p>Сайт, сделанный по аналогии дизайна одного из сайтов сети Интернет. Главной особенность является то, что сайт сделан мультирегиональным, то есть 1 сайт (любое количество регионов). Идея реализации моя и для этого сторонние плагины не использовал. Специально для сайта разработал свой плагин.</p></td>
                 <td>70%</td>
                 <td>Wordpress</td>
@@ -377,7 +377,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>31</td>
                 <td>29</td>
-                <td><a rel="noopener" target="_blank" href="http://dev.skidon.by">dev.skidon.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://dev.skidon.by">dev.skidon.by</a></td>
                 <td>Первый проект на yii, который делаю для друга в свободное от работы время. В настоящее время сайт ещё не до конца окончен.</td>
                 <td>80%</td>
                 <td>Yii 2</td>
@@ -386,7 +386,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>32</td>
                 <td>30</td>
-                <td><a rel="noopener" target="_blank" href="http://arshouse.by">arshouse.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://arshouse.by">arshouse.by</a></td>
                 <td>Сайт, сделанный по аналогии одного из сайтов сети Интернет.</td>
                 <td>10%</td>
                 <td>-</td>
@@ -395,7 +395,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>33</td>
                 <td>31</td>
-                <td><a rel="noopener" target="_blank" href="http://krasotka.allsale.by">krasotka.allsale.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://krasotka.allsale.by">krasotka.allsale.by</a></td>
                 <td>Один из последних моих сайтов (сайт-каталог) сделанный с нуля под ключ. В папке "ОТЧЕТЫ ПОСЛЕДНЕГО ПРОЕКТА" можете ознакомится детальнее с данным проектом. Специально для сайта разработал свой плагин.</td>
                 <td>60%</td>
                 <td>Wordpress</td>
@@ -404,7 +404,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>34</td>
                 <td>32</td>
-                <td><a rel="noopener" target="_blank" href="http://networks.itoblaka.by">соц сети и месенджеры</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://networks.itoblaka.by">соц сети и месенджеры</a></td>
                 <td>Это не сайт, а веб-приложение сделанное мною с нуля для компании ITOblaka. Идея взята с blinger.io : сервис, содержащий ссылки соц сетей + аякс переписка клиента и администратора сайта. Разбатывался с нуля на чистом PHP. В последствии код и реализация логики (MVC) легла в основу моего lightMVC фрейморка.</td>
                 <td>90%</td>
                 <td>lightMVC</td>
@@ -444,7 +444,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>35</td>
                 <td>1</td>
-                <td><a rel="noopener" target="_blank" href="http://dev.eurodraxmi.eu">dev.eurodraxmi.eu</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://dev.eurodraxmi.eu">dev.eurodraxmi.eu</a></td>
                 <td>На данном сайте нужно остановится подробнее, так как здесь я делал оочень много чего. Проект в основном делали я и ещё один программист, по этому здесь достаточно много тасков, которые выполнил именно я. Итак, основное что я делал: <br>1) <b>Тикеты</b> (обмен сообщениями...сам процесс обмена сообщениями очень поход на тот что работает на сайте ВК...обмен через аякс, а новые сообщения подсвечиваются другим фоном с указанием количества новых сообщений в беседе. Создатель беседы может добавлять/удалять пользователей из беседы) <br>2) <b>Контакты</b> (конечно совсем не такие как вк, а на много проще, но тем не менее тоже работают через аякс и сделал этот такс тоже полностью я) <br> 3) <b>Система кредитования</b> (выдача кредитов на сайте пользователем. + существует некая биржа кредитов, то есть список пользователей, которые готовы дать кредит, + гибкая система кредитования с указанием процентов за кредит, сроков выплат, количества выбрал....ну и это всё исправно работает...в случае когда у пользователей нет денег на выплаты кредита ему начисляется ежедневная пеня) <br> 4) <b>Система инвестирования</b> (что-то похожее на систему кредитования, только по сути это кредит у сразу нескольких пользователей под разные суммы..аналогично предыдущему всё работает и полностью сделано мною) <br> 5) <b>Обратная связь</b> <br> 6) <b>Частично систем баннеров</b> (преимущественно в админке) <br> 7) <b>Форма оплаты картой</b> (не совсем классические пластиковые карты, а карточки которые создается на сайте пользователями и куда перечисляется часть баланса пользователя, в последствии он распечатывает карту и может пользоваться ей в магазинах, после чего со счет карты списывается нужная сумма.)<br> 8) <b>Транзакции</b> (абсолютно все манипуляции с суммами, процентами и т.д производились разрабатывались лично мною) <br> 9) <b>Платежный шлюз</b> (то делал я, это не само подключение платежных систем к сайту, это некий  «протокол» или стандарт по которому осуществляются все денежные операции на сайте) <br>10)  <b>Вывод всей финансовой информации</b> (балансы, кредиты, счета карт, инвестиции, транзакции в админ-панели сайта.) <br>11) <b>Торговая площадка</b> (на клиентский стороне сайта,..список товаров...список брендов, категорий, фирм...но здесь я здесь я сделал менее половины этого таска, так как изначально это был таск другого человека и именно он сделал основную её часть)<br>Параллельно с этим разрабатывалась удобная и очень гибкая <b>админ панель</b> сайта,  в которой можно было настроить и просмотреть все нюансы каждого таска. Всё это api разрабатывалось и проектировалось только средствами Laravel и языка PHP без использования каких либо готовых  crud — админок. <br>Все таски за исключением торговой площадки <b>кэшируются</b>, как на клиенте так и на сервере, а запросы на удаление/обновление/вставка к базу работают через <b>очереди</b>. А для того чтобы суммы в кредитах и инвестициях автоматически списывались в нужное время использовались механизм <b>Croon</b> (данный модуль уже достаточно хорошо реализован в самом фреймворке). Кроме этого на сайте предусмотрена <b>смена языков</b>. При выполнении данного проекта использовалась система контроля версий git. Все пункты меню были выполнены согласно требованиям ТЗ (которое к сожалению не было однозначным и заказчик часто вносил изменения). <br>В настоящее время этот проект остановился в развитии по нескольким причинах (долгое принятие решений со стороны заказчиков; отсутствие финансирования (этот проект был скорее для меня как стажировочной, в которой я в некой степени изучил ларавел и самое главное выполнил свои таски и познал очень много нового в PHP, ООП, MVС, но за всё это время я не получил оплаты, за что и бросил проект)). <br>В подтверждении всего выше сказанного прикреплю некоторые файлы («отчеты»), которые я скидывал периодически в ходе выполнения тасков. (Откройте папку <u>eurodrahmi.eu</u> (некоторые формы поменяли свой интерфейс, но функционал практически не изменился), там же есть и другие отчеты по другим сайтам компании).<br>Первое время было очень много некорректного и нерационального кода. Это связано с тем что до этого я не работал  с фреймворками, и не использовал основные возможности Laravel, однако со временем код стал улучшаться и становится более рациональным. </td>
                 <td>100%</td>
                 <td>Laravel 5</td>
@@ -453,7 +453,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>36</td>
                 <td>2</td>
-                <td><a rel="noopener" target="_blank" href="http://alangik.by">alangik.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://alangik.by">alangik.by</a></td>
                 <td><p>Верстка макета. Адаптивность. Клиентские скрипты.</p></td>
                 <td>35%</td>
                 <td>PrestaShop</td>
@@ -462,7 +462,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>37</td>
                 <td>3</td>
-                <td><a rel="noopener" target="_blank" href="http://ubcgroup.by">ubcgroup.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://ubcgroup.by">ubcgroup.by</a></td>
                 <td><p>Верстка макета. Адаптивность. Клиентские скрипты.</p></td>
                 <td>35%</td>
                 <td>Joomla</td>
@@ -471,7 +471,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>38</td>
                 <td>4</td>
-                <td><a rel="noopener" target="_blank" href="http://belvikup.by">belvikup.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://belvikup.by">belvikup.by</a></td>
                 <td>Реализация административной часть сайта (посадка сайта на мою CMS)</td>
                 <td>35%</td>
                 <td>Grasp</td>
@@ -480,7 +480,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>39</td>
                 <td>5</td>
-                <td><a rel="noopener" target="_blank" href="http://copyshop.allsale.by">типография</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://copyshop.allsale.by">типография</a></td>
                 <td><p>Доделка некоторых частей сайта, а именно: карточка товара, кое-что в категории товаров.</p></td>
                 <td>50%</td>
                 <td>PrestaShop</td>
@@ -515,7 +515,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>40</td>
                 <td>1</td>
-                <td><a rel="noopener" target="_blank" href="http://orshatut.by">orshatut.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://orshatut.by">orshatut.by</a></td>
                 <td><p>Доработка сайта после первоначальных разработчиков, настройка и добавление плагинов, стилей, контента.</p></td>
                 <td>3%</td>
                 <td>Wordpress</td>
@@ -524,7 +524,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>41</td>
                 <td>2</td>
-                <td><a rel="noopener" target="_blank" href="http://inabel.by">inabel.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://inabel.by">inabel.by</a></td>
                 <td><p>Изменение готового шаблона под нужны заказчика. Используется компонент интернет магазина hikashop.</p></td>
                 <td>30%</td>
                 <td>Joomla</td>
@@ -533,7 +533,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>42</td>
                 <td>3</td>
-                <td><a rel="noopener" target="_blank" href="https://itoblaka.by">itoblaka.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="https://itoblaka.by">itoblaka.by</a></td>
                 <td><p>Регулярное обслуживание сайта компании. Добавление эффектов, плагинов, редактирование стилей.</p></td>
                 <td>30%</td>
                 <td>-</td>
@@ -542,7 +542,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>43</td>
                 <td>4</td>
-                <td><a rel="noopener" target="_blank" href="http://югопотолок.рф">югопотолок.рф</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://югопотолок.рф">югопотолок.рф</a></td>
                 <td><p>Внесение регулярных правок в сайт. Добавление модулей, редактирование контента, стилей, дописание скриптов (например калькулятор и подбор цвета стен/потолка/пола).</p></td>
                 <td>50%</td>
                 <td>Joomla</td>
@@ -551,7 +551,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>44</td>
                 <td>5</td>
-                <td><a rel="noopener" target="_blank" href="http://kuhni.meblaro.by">kuhni.meblaro.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://kuhni.meblaro.by">kuhni.meblaro.by</a></td>
                 <td><p>Создание админки для сайта. Создание адаптивной версии сайта. Специально для сайта разработал свой плагин.</p></td>
                 <td>50%</td>
                 <td>Wordpress</td>
@@ -560,7 +560,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>45</td>
                 <td>5</td>
-                <td><a rel="noopener" target="_blank" href="http://ctu.by">ctu.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://ctu.by">ctu.by</a></td>
                 <td><p>Создание админки для сайта. Создание адаптивной версии сайта. Специально для сайта разработал свой плагин.</p></td>
                 <td>50%</td>
                 <td>Wordpress</td>
@@ -569,7 +569,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>46</td>
                 <td>6</td>
-                <td><a rel="noopener" target="_blank" href="http://bvmotors.by">bvmotors.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://bvmotors.by">bvmotors.by</a></td>
                 <td><p>Создание адаптивной версии сайта. Настройка отправки писем с сайта (с использование CSRF-токен).</p></td>
                 <td>10%</td>
                 <td>-</td>
@@ -607,7 +607,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>47</td>
                 <td>1</td>
-                <td><a rel="noopener" target="_blank" href="http://old.orshatut.by">old.orshatut.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://old.orshatut.by">old.orshatut.by</a></td>
                 <td><p>Старая версия №40. Вносил некоторые правки по дизайну и контенту.</p></td>
                 <td>10%</td>
                 <td>Wordpress</td>
@@ -616,7 +616,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>48</td>
                 <td>2</td>
-                <td><a rel="noopener" target="_blank" href="http://odo.orshatut.by">odo.orshatut.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://odo.orshatut.by">odo.orshatut.by</a></td>
                 <td><p>Поправка формы подачи объявлений</p></td>
                 <td>30%</td>
                 <td>Kahana</td>
@@ -625,7 +625,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>49</td>
                 <td>3</td>
-                <td><a rel="noopener" target="_blank" href="http://oncopatient.by">oncopatient.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://oncopatient.by">oncopatient.by</a></td>
                 <td><p>Добавление и настройка плагина форума. Редактирование верстки и некоторых настроек сайта.</p></td>
                 <td>40%</td>
                 <td>Wordpress</td>
@@ -634,7 +634,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>50</td>
                 <td>4</td>
-                <td><a rel="noopener" target="_blank" href="http://pegasosafety.gr">pegasosafety.gr</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://pegasosafety.gr">pegasosafety.gr</a></td>
                 <td>Frontend правки</td>
                 <td>30%</td>
                 <td>Joomla</td>
@@ -643,7 +643,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>51</td>
                 <td>5</td>
-                <td><a rel="noopener" target="_blank" href="http://kehagiopoulos.gr">kehagiopoulos.gr</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://kehagiopoulos.gr">kehagiopoulos.gr</a></td>
                 <td>Frontend правки</td>
                 <td>30%</td>
                 <td>Joomla</td>
@@ -652,7 +652,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>52</td>
                 <td>6</td>
-                <td><a rel="noopener" target="_blank" href="http://dmir.allsale.by">салон2</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://dmir.allsale.by">салон2</a></td>
                 <td><p>Перевод шаблона на русский язык. Подбор и настройка модулей согласно требованиям заказчика.</p></td>
                 <td>20%</td>
                 <td>Joomla</td>
@@ -661,7 +661,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>53</td>
                 <td>7</td>
-                <td><a rel="noopener" target="_blank" href="http://tesimas.allsale.by">тесимас</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://tesimas.allsale.by">тесимас</a></td>
                 <td><p>Перевод шаблона на русский язык. Подбор и настройка модулей согласно требованиям заказчика.</p></td>
                 <td>20%</td>
                 <td>Joomla</td>
@@ -670,7 +670,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>54</td>
                 <td>8</td>
-                <td><a rel="noopener" target="_blank" href="http://exterragroup.ru">exterragroup.ru</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://exterragroup.ru">exterragroup.ru</a></td>
                 <td><p>Создание адаптивной версии сайта. Подправка основных стилей и небольшие правки самого сайта</p></td>
                 <td>20%</td>
                 <td>1C Bitrix</td>
@@ -679,7 +679,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>55</td>
                 <td>9</td>
-                <td><a rel="noopener" target="_blank" href="http://123123.hostenko.com">123123.hostenko.com</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://123123.hostenko.com">123123.hostenko.com</a></td>
                 <td><p>Настройка импорта/экспорта товаров Woocommerce</p></td>
                 <td>20%</td>
                 <td>Wordpress</td>
@@ -688,7 +688,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>56</td>
                 <td>10</td>
-                <td><a rel="noopener" target="_blank" href="http://donerking.by">donerking.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://donerking.by">donerking.by</a></td>
                 <td>Правки по Frontend.</td>
                 <td>20%</td>
                 <td>ModX</td>
@@ -697,7 +697,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>57</td>
                 <td>11</td>
-                <td><a rel="noopener" target="_blank" href="http://nbalance.by">nbalance.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://nbalance.by">nbalance.by</a></td>
                 <td><p>Редактировались стили и контент, оптимизация скорости загрузки,кэширование и некоторые другие настройки</p></td>
                 <td>50%</td>
                 <td>Wordpress</td>
@@ -706,7 +706,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>58</td>
                 <td>12</td>
-                <td><a rel="noopener" target="_blank" href="http://transit.borovaya.by">transit.borovaya.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://transit.borovaya.by">transit.borovaya.by</a></td>
                 <td><p>Редактировались стили и контент</p></td>
                 <td>10%</td>
                 <td>-</td>
@@ -715,7 +715,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>59</td>
                 <td>13</td>
-                <td><a rel="noopener" target="_blank" href="http://vde.by">vde.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://vde.by">vde.by</a></td>
                 <td><p>Добавлен механизм защиты от подмены пост запросов при отправке почты (использование CSRF-токен для форм). Данный механизм активно использую и на других проектах.</p></td>
                 <td>10%</td>
                 <td>-</td>
@@ -724,7 +724,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>60</td>
                 <td>14</td>
-                <td><a rel="noopener" target="_blank" href="http://ends.by">ends.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://ends.by">ends.by</a></td>
                 <td><p>Небольшие правки по дизайну (добавление новых блоков).</p></td>
                 <td>10%</td>
                 <td>ModX</td>
@@ -733,7 +733,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <tr>
                 <td>61</td>
                 <td>15</td>
-                <td><a rel="noopener" target="_blank" href="http://test.itoblaka.by">test.itoblaka.by</a></td>
+                <td><a rel="noopener noreferrer" target="_blank" href="http://test.itoblaka.by">test.itoblaka.by</a></td>
                 <td><p>Новый сайт компании. Принимал участие в верстке и подключению, настройке js-плагинов</p></td>
                 <td>20%</td>
                 <td>-</td>
