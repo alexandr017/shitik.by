@@ -77,51 +77,51 @@ return [
 
 
     // 2023
-    'blog/total-2023' => [
-        'title' => '',
-        'metaDescription' => '',
-        'h1' => 'Итоги 2023 года',
-        'url' => 'https://shitik.by/blog/total-2023',
-        'preview' => 'https://shitik.by/images/blog/2023/total-2023/preview.jpg',
+//    'blog/total-2023' => [
+//        'title' => '',
+//        'metaDescription' => '',
+//        'h1' => 'Итоги 2023 года',
+//        'url' => 'https://shitik.by/blog/total-2023',
+//        'preview' => 'https://shitik.by/images/no-image.png',
+//        'date' => [
+//            'htmlFormat' => '2023-12-29',
+//            'viewFormat' => '29 декабря 2026',
+//        ],
+//        'titleForIndexBlog' => 'Итоги 2023 года',
+//        'descriptionForIndexBlog' => ''
+//    ],
+    'blog/books-2023' => [
+        'title' => 'Ревизия моей библиотеки: удаление и добавление книг, приоритеты и статистика чтения в 2023 году',
+        'metaDescription' => 'В этой статье я рассказываю о ревизии моей библиотеки, удалении ненужных книг и добавлении новых. Узнайте о моих приоритетах, статистике чтения в 2023 году и рекомендациях по лучшим книгам.',
+        'h1' => 'Книжная статистика за 2023 год',
+        'url' => 'https://shitik.by/blog/book-2023',
+        'preview' => 'https://shitik.by/images/no-image.png',
         'date' => [
             'htmlFormat' => '2023-12-29',
             'viewFormat' => '29 декабря 2026',
         ],
-        'titleForIndexBlog' => 'Итоги 2023 года',
-        'descriptionForIndexBlog' => ''
-    ],
-    'blog/book-2023' => [
-        'title' => '',
-        'metaDescription' => '',
-        'h1' => 'Книжная статистика за 2023 год',
-        'url' => 'https://shitik.by/blog/book-2023',
-        'preview' => 'https://shitik.by/images/blog/2023/book-2023/preview.jpg',
-        'date' => [
-            'htmlFormat' => '2023-12-27',
-            'viewFormat' => '27 декабря 2026',
-        ],
         'titleForIndexBlog' => 'Книжная статистика за 2023 год',
-        'descriptionForIndexBlog' => ''
+        'descriptionForIndexBlog' => 'В этом году я провел ревизию своих книг: удалил часть того, что точно не буду читать и вместе с этим скачал около 400 новых книг. Уже в момент скачивания я обращал...'
     ],
     'blog/run-2023' => [
-        'title' => '',
-        'metaDescription' => '',
+        'title' => 'Статистика моего бега в 2023 году: рекордное расстояние и интересные графики',
+        'metaDescription' => 'В этой статье я подводю итоги своего бега в 2023 году. Узнайте, какое расстояние я пробежал, какие рекорды установил и какие графики отображают мои достижения.',
         'h1' => 'Статистика бега за 2023 год',
         'url' => 'https://shitik.by/blog/run-2023',
-        'preview' => 'https://shitik.by/images/blog/2023/run-2023/preview.jpg',
+        'preview' => 'https://shitik.by/images/no-image.png',
         'date' => [
             'htmlFormat' => '2023-12-27',
             'viewFormat' => '27 декабря 2026',
         ],
         'titleForIndexBlog' => 'Статистика бега за 2023 год',
-        'descriptionForIndexBlog' => ''
+        'descriptionForIndexBlog' => 'Конец года, а значит самое время подвести статистику моего бега. И хоть в этом году у меня была краткосрочная, но очень неприятная болезнь, это не сильно отразилось на моем беге в этом году...'
     ],
     'blog/tips-for-motorists' => [
      'title' => 'Неочевидные советы для начинающих водителей: избегайте распространенных ошибок',
         'metaDescription' => 'Изучите неочевидные и полезные советы для начинающих водителей, которые помогут вам избежать неприятностей на дороге. Собранные из жизненного опыта автора, эти советы дополнят вашу подготовку к вождению и повысят вашу безопасность. Будьте внимательны и готовы к непредвиденным ситуациям, чтобы стать опытным водителем.',
         'h1' => 'Неочевидные советы начинающим водителям',
         'url' => 'https://shitik.by/blog/tips-for-motorists',
-        'preview' => 'https://shitik.by/images/blog/2023/tips-for-motorists/preview.jpg',
+        'preview' => 'https://shitik.by/images/no-image.png',
         'date' => [
             'htmlFormat' => '2023-12-26',
             'viewFormat' => '26 декабря 2023',
