@@ -588,7 +588,7 @@ return [
         'metaDescription' => 'Как я отбирал новые подкасты для изучения',
         'h1' => 'Обучение через подкасты',
         'url' => 'https://shitik.by/blog/podcasts',
-        'preview' => 'https://shitik.by/images/blog/2021/podcasts/podcasts.png',
+        'preview' => 'https://shitik.by/images/blog/2021/podcasts/podcasts.jpg',
         'date' => [
             'htmlFormat' => '2021-03-22',
             'viewFormat' => '22 марта 2021',
