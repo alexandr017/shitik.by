@@ -547,7 +547,7 @@ return [
         'metaDescription' => 'Не так давно в моей жизни случился отрезов длинною в 1-2 месяца в котором я сталкнулся с целым рядом проблем.',
         'h1' => 'Моя черная полоса',
         'url' => 'https://shitik.by/blog/black-lines',
-        'preview' => 'https://shitik.by/images/blog/black-lines/preview.jpeg',
+        'preview' => 'https://shitik.by/images/blog/2021/black-lines/black-lines.jpg',
         'date' => [
             'htmlFormat' => '2021-08-17',
             'viewFormat' => '17 августа 2021',
@@ -560,7 +560,7 @@ return [
         'metaDescription' => 'Мысли и впечатления о том, как я вернул спортивный образ жизни после 3-4 летнего перерыва.',
         'h1' => 'Новый личный беговой рекорд',
         'url' => 'https://shitik.by/blog/run',
-        'preview' => 'https://shitik.by/images/blog/run/preview.jpeg',
+        'preview' => 'https://shitik.by/images/blog/2021/running-record/run.jpg',
         'date' => [
             'htmlFormat' => '2021-04-28',
             'viewFormat' => '28 апреля 2021',
