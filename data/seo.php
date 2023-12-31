@@ -574,7 +574,7 @@ return [
         'metaDescription' => 'Решил поделиться впечатлениями как я пересмотрел всю классику мирового кино от Чаплина до Нолана.',
         'h1' => 'Мысли после просмотра 250 лучших фильмов всех времен',
         'url' => 'https://shitik.by/blog/movies-imdb',
-        'preview' => 'https://shitik.by/images/blog/post6.jpg',
+        'preview' => 'https://shitik.by/images/2021/movies-imdb/movies-imdb.jpg',
         'date' => [
             'htmlFormat' => '2021-03-22',
             'viewFormat' => '22 марта 2021',
