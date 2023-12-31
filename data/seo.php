@@ -519,7 +519,7 @@ return [
         'metaDescription' => 'Согласно древне вавилонским мудростям на глиняных дощечках, которые легли в основу хорошей книги “Самый богатый человек в Вавилоне” одна из них гласит, что любой человек должен обзавестись собственных жильем.',
         'h1' => 'Первая квартира',
         'url' => 'https://shitik.by/blog/home-bay',
-        'preview' => 'https://shitik.by/images/blog/home-bay/preview.png',
+        'preview' => 'https://shitik.by/images/blog/2021/home-bay/home-bay.jpg',
         'date' => [
             'htmlFormat' => '2021-10-17',
             'viewFormat' => '17 октября 2021',
@@ -533,7 +533,7 @@ return [
         'metaDescription' => 'Не так давно я обновил свой сайт. Теперь все его разделы снова в одном месте. Среди основных изменяй можно выделить слегка измененный дизайн, расширения сайта и внедрением новых разделов.',
         'h1' => 'Обновление сайта',
         'url' => 'https://shitik.by/blog/site-update',
-        'preview' => 'https://shitik.by/images/blog/site-update/preview.png',
+        'preview' => 'https://shitik.by/images/blog/2021/site-update/site-update.jpg',
         'date' => [
             'htmlFormat' => '2021-09-12',
             'viewFormat' => '12 сентября 2021',

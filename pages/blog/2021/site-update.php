@@ -25,6 +25,7 @@ $posts = getPosts();
             <li>Карта сайта (для более удобной навигации человеку и поисковому боту)</li>
         </ul>
         <p>Также в скором времени надеюсь достать из черновиков несколько заметок и доработать до полноценных статей.</p>
+        <img class="post-img" src="/images/blog/2021/site-update/site-screen.png" alt="site screenshot">
     </div>
 </main>
 <?php include DOCUMENT_ROOT . '/view/v3/footer.php'; ?>
