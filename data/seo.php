@@ -378,7 +378,7 @@ return [
         'metaDescription' => 'В Катаре совсем скоро стартует чемпионата мира по футболу 2022. Ценность соревнования, главные фавориты, бомбордиры и прочие факты',
         'h1' => 'Чемпионат мира по футболу 2022',
         'url' => 'https://shitik.by/blog/world-cup-2022',
-        'preview' => 'https://shitik.by/images/blog/world-cup-2022/preview.jpeg',
+        'preview' => 'https://shitik.by/images/blog/2022/world-cup-2022/world-cup-2022.jpg',
         'date' => [
             'htmlFormat' => '2022-01-18',
             'viewFormat' => '18 ноября 2022',
@@ -406,7 +406,7 @@ return [
         'title' => 'Итоги моего 2021 года',
         'metaDescription' => 'Подвел итоги уходящего года. Интересные факты уходящего года',
         'h1' => 'Чем я занимался в 2021 году',
-        'url' => 'https://shitik.by/blog/2021/total-2021',
+        'url' => 'https://shitik.by/blog/total-2021',
         'preview' => 'https://shitik.by/images/blog/2021/total-2021/total-2021.jpg',
         'date' => [
             'htmlFormat' => '2021-12-21',
