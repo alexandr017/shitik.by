@@ -279,21 +279,21 @@ $posts = getPosts();
         </ul>
 
         <div class="h3 text-center">Общее количество пробежек по годам:</div>
-        <img src="/images/blog/run-2021/chart-1.jpg" alt="Общее количество пробежек по годам">
+        <img src="/images/blog/2021/run-2021/chart-1.jpg" alt="Общее количество пробежек по годам">
         <div class="h3 text-center">Суммарное расстояние (км) по годам:</div>
-        <img src="/images/blog/run-2021/chart-2.jpg" alt="Суммарное расстояние (км) по годам">
+        <img src="/images/blog/2021/run-2021/chart-2.jpg" alt="Суммарное расстояние (км) по годам">
         <div class="h3 text-center">Максимальное расстояние (км) по годам:</div>
-        <img src="/images/blog/run-2021/chart-3.jpg" alt="Максимальное расстояние (км) по годам">
+        <img src="/images/blog/2021/run-2021/chart-3.jpg" alt="Максимальное расстояние (км) по годам">
         <div class="h3 text-center">Минимальне расстояние (км) по годам:</div>
-        <img src="/images/blog/run-2021/chart-4.jpg" alt="Минимальне расстояние (км) по годам">
+        <img src="/images/blog/2021/run-2021/chart-4.jpg" alt="Минимальне расстояние (км) по годам">
         <div class="h3 text-center">Среднее расстояние (км) по годам:</div>
-        <img src="/images/blog/run-2021/chart-5.jpg" alt="Среднее расстояние (км) по годам">
+        <img src="/images/blog/2021/run-2021/chart-5.jpg" alt="Среднее расстояние (км) по годам">
         <div class="h3 text-center">Максимальное время (мин) по годам:</div>
-        <img src="/images/blog/run-2021/chart-6.jpg" alt="Максимальное время (мин) по годам">
+        <img src="/images/blog/2021/run-2021/chart-6.jpg" alt="Максимальное время (мин) по годам">
         <div class="h3 text-center">Минимальное время (мин) по годам:</div>
-        <img src="/images/blog/run-2021/chart-7.jpg" alt="Минимальное время (мин) по годам">
+        <img src="/images/blog/2021/run-2021/chart-7.jpg" alt="Минимальное время (мин) по годам">
         <div class="h3 text-center">Среднее время (мин) по годам:</div>
-        <img src="/images/blog/run-2021/chart-8.jpg" alt="Среднее время (мин) по годам">
+        <img src="/images/blog/2021/run-2021/chart-8.jpg" alt="Среднее время (мин) по годам">
 
 
     </article>

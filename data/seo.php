@@ -421,7 +421,7 @@ return [
         'metaDescription' => 'Результаты бега за текущий год. Сравнение показателей с предыдущими годами',
         'h1' => 'Результаты бега за 2021',
         'url' => 'https://shitik.by/blog/run-2021',
-        'preview' => 'https://shitik.by/images/blog/run-2021/preview.jpeg',
+        'preview' => 'https://shitik.by/images/blog/2021/run-2021/run-2021.jpg',
         'date' => [
             'htmlFormat' => '2021-12-21',
             'viewFormat' => '21 декабря 2021',
@@ -435,7 +435,7 @@ return [
         'metaDescription' => 'Впечатления от просмотра топ 250 фильмов по версии кинопоиска.',
         'h1' => 'Мысли после просмотра 250 лучших фильмов кинопоиска',
         'url' => 'https://shitik.by/blog/kinopoisk-250',
-        'preview' => 'https://shitik.by/images/blog/kinopoisk-250/preview.jpg',
+        'preview' => 'https://shitik.by/images/blog/2021/kinopoisk-250/kinopoisk-250.jpg',
         'date' => [
             'htmlFormat' => '2021-12-18',
             'viewFormat' => '18 декабря 2021',
