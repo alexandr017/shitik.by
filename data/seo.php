@@ -335,7 +335,7 @@ return [
         'metaDescription' => 'Подвел итоги уходящего года. Интересные факты 2022 года',
         'h1' => 'Чем я занимался в 2022 году',
         'url' => 'https://shitik.by/blog/total-2022',
-        'preview' => 'https://shitik.by/images/blog/total-2022/preview.jpeg',
+        'preview' => 'https://shitik.by/images/blog/2023/total-2022/total-2022.jpg',
         'date' => [
             'htmlFormat' => '2023-01-06',
             'viewFormat' => '6 января 2023',
@@ -350,7 +350,7 @@ return [
         'metaDescription' => 'Полный список книг, которые успел прочитать за 2022 год.',
         'h1' => 'Прочитанные книги в 2022 году',
         'url' => 'https://shitik.by/blog/books-2022',
-        'preview' => 'https://shitik.by/images/blog/books-2022/preview.jpeg',
+        'preview' => 'https://shitik.by/images/blog/2022/books-2022/books-2022.jpg',
         'date' => [
             'htmlFormat' => '2022-12-29',
             'viewFormat' => '29 декабря 2022',
@@ -364,7 +364,7 @@ return [
         'metaDescription' => 'Результаты бега за 2022 год. Сравнение показателей с предыдущими годами',
         'h1' => 'Результаты бега за 2022',
         'url' => 'https://shitik.by/blog/run-2022',
-        'preview' => 'https://shitik.by/images/blog/run-2022/preview.jpeg',
+        'preview' => 'https://shitik.by/images/blog/run-2022/run-2022.jpg',
         'date' => [
             'htmlFormat' => '2022-12-28',
             'viewFormat' => '28 декабря 2022',
