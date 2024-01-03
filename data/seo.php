@@ -463,7 +463,7 @@ return [
         'metaDescription' => 'Статистика моего бега за вторую половину 2018 года, а также за 2019 и 2020 года.',
         'h1' => 'Статистика моего бега за 2.5 года',
         'url' => 'https://shitik.by/blog/run-2018-2020',
-        'preview' => 'https://shitik.by/images/blog/run-2018-2020/preview.jpeg',
+        'preview' => 'https://shitik.by/images/blog/run-2018-2020/run-2018-2020.jpg',
         'date' => [
             'htmlFormat' => '2021-12-04',
             'viewFormat' => '04 декабря 2021',
@@ -477,7 +477,7 @@ return [
         'metaDescription' => 'Человеческий цивилизация слишкам слаба и зависима от разных факторов: наличие кислород в нужной объеме, подходящие давление и температура, защита от радиации',
         'h1' => 'Если бы люди не нуждались в еде',
         'url' => 'https://shitik.by/blog/people-without-food',
-        'preview' => 'https://shitik.by/images/blog/people-without-food/preview.jpeg',
+        'preview' => 'https://shitik.by/images/blog/2021/people-without-food//people-without-food.jpg',
         'date' => [
             'htmlFormat' => '2021-10-30',
             'viewFormat' => '30 октября 2021',
@@ -491,7 +491,7 @@ return [
         'metaDescription' => 'По Минску работают очень много троллейбусов модели АКСМ-321. Замечали ли вы соотношение мест для инвалидов по отношению к обычным в данной модели троллейбуса?',
         'h1' => 'Места для инвалидов в троллейбусе',
         'url' => 'https://shitik.by/blog/seats-in-the-trolleybus',
-        'preview' => 'https://shitik.by/images/blog/seats-in-the-trolleybus/preview.jpg',
+        'preview' => 'https://shitik.by/images/blog/2021/seats-in-the-trolleybus/seats-in-the-trolleybus.jpg',
         'date' => [
             'htmlFormat' => '2021-10-30',
             'viewFormat' => '30 октября 2021',
@@ -505,7 +505,7 @@ return [
         'metaDescription' => 'Наверняка почти каждый из вас видел хотя бы один из кучи фильмов студий Marvel и DC, где в каждой из них они спасают планету от внутренних и внешних угроз',
         'h1' => 'Наш ответ Marvel и DC',
         'url' => 'https://shitik.by/blog/new-super-heroes',
-        'preview' => 'https://shitik.by/images/blog/new-super-heroes/preview.jpg',
+        'preview' => 'https://shitik.by/images/blog/2021/new-super-heroes/new-super-heroes.jpg',
         'date' => [
             'htmlFormat' => '2021-10-24',
             'viewFormat' => '24 октября 2021',
