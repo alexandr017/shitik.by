@@ -392,7 +392,7 @@ return [
         'metaDescription' => 'Что не так с соверменными поисковыми системами? Поисковые системы будущего.',
         'h1' => 'Современная СЕО-оптимизация глазами программиста',
         'url' => 'https://shitik.by/blog/seo',
-        'preview' => 'https://shitik.by/images/blog/seo/preview.jpeg',
+        'preview' => 'https://shitik.by/images/blog/2022/seo/seo.jpg',
         'date' => [
             'htmlFormat' => '2022-07-16',
             'viewFormat' => '16 июля 2022',
@@ -406,8 +406,8 @@ return [
         'title' => 'Итоги моего 2021 года',
         'metaDescription' => 'Подвел итоги уходящего года. Интересные факты уходящего года',
         'h1' => 'Чем я занимался в 2021 году',
-        'url' => 'https://shitik.by/blog/total-2021',
-        'preview' => 'https://shitik.by/images/blog/total-2021/preview.jpeg',
+        'url' => 'https://shitik.by/blog/2021/total-2021',
+        'preview' => 'https://shitik.by/images/blog/2021/total-2021/total-2021.jpg',
         'date' => [
             'htmlFormat' => '2021-12-21',
             'viewFormat' => '29 декабря 2021',
