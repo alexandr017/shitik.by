@@ -293,7 +293,7 @@ return [
         'metaDescription' => 'Рассуждение на тему существования души с научной и логической точек зрения после того как я потерял одного из родственников.',
         'h1' => 'Существует ли душа?',
         'url' => 'https://shitik.by/blog/does-the-soul-exist',
-        'preview' => 'https://shitik.by/images/blog/2023/does-the-soul-exist/preview.jpg',
+        'preview' => 'https://shitik.by/images/blog/2023/does-the-soul-exist/does-the-soul-exist.jpg',
         'date' => [
             'htmlFormat' => '2023-03-25',
             'viewFormat' => '25 марта 2023',
