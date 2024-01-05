@@ -293,7 +293,7 @@ return [
         'metaDescription' => 'Рассуждение на тему существования души с научной и логической точек зрения после того как я потерял одного из родственников.',
         'h1' => 'Существует ли душа?',
         'url' => 'https://shitik.by/blog/does-the-soul-exist',
-        'preview' => 'https://shitik.by/images/blog/2023/does-the-soul-exist/preview.jpeg',
+        'preview' => 'https://shitik.by/images/blog/2023/does-the-soul-exist/preview.jpg',
         'date' => [
             'htmlFormat' => '2023-03-25',
             'viewFormat' => '25 марта 2023',
@@ -307,7 +307,7 @@ return [
         'metaDescription' => 'Рассуждение о том, действительно ли планете грозит перенаселение, у каких стран большие проблемы и предположение что будет с населением Земли в будущем?',
         'h1' => 'Странности с перенаселением Земли',
         'url' => 'https://shitik.by/blog/earth-overpopulation',
-        'preview' => 'https://shitik.by/images/blog/2023/earth-overpopulation/preview.jpeg',
+        'preview' => 'https://shitik.by/images/blog/2023/earth-overpopulation/earth-overpopulation.jpg',
         'date' => [
             'htmlFormat' => '2023-03-22',
             'viewFormat' => '22 марта 2023',
