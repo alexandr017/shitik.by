@@ -364,7 +364,7 @@ return [
         'metaDescription' => 'Результаты бега за 2022 год. Сравнение показателей с предыдущими годами',
         'h1' => 'Результаты бега за 2022',
         'url' => 'https://shitik.by/blog/run-2022',
-        'preview' => 'https://shitik.by/images/blog/run-2022/run-2022.jpg',
+        'preview' => 'https://shitik.by/images/blog/2022/run-2022/run-2022.jpg',
         'date' => [
             'htmlFormat' => '2022-12-28',
             'viewFormat' => '28 декабря 2022',
