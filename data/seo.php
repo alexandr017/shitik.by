@@ -321,7 +321,7 @@ return [
         'metaDescription' => 'Подробное описание распространенных проблем, которые могут случиться зимой с вашем авто',
         'h1' => 'Почему водители не любят зиму?',
         'url' => 'https://shitik.by/blog/car-in-winter',
-        'preview' => 'https://shitik.by/images/blog/car-in-winter/car-in-winter.jpg',
+        'preview' => 'https://shitik.by/images/blog/2023/car-in-winter/car-in-winter.jpg',
         'date' => [
             'htmlFormat' => '2023-02-12',
             'viewFormat' => '12 февраля 2023',
