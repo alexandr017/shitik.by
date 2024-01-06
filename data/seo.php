@@ -147,7 +147,7 @@ return [
         'metaDescription' => 'Узнайте, как изучение космоса стимулирует прогресс и приводит к разработке новых технологий. Изобретения, созданные для космических целей, нашли применение в повседневной жизни. От складных транспортных средств до солнечных батарей и компактных датчиков - узнайте о том, как космос влияет на нашу технологическую эволюцию.',
         'h1' => 'Бытовые и медицинские предметы, которые появились благодаря изучению космоса',
         'url' => 'https://shitik.by/blog/space-objects',
-        'preview' => 'https://shitik.by/images/blog/2023/space-objects/preview.jpg',
+        'preview' => 'https://shitik.by/images/blog/2023/space-objects/space-objects.jpg',
         'date' => [
             'htmlFormat' => '2023-12-16',
             'viewFormat' => '16 декабря 2023',
@@ -160,7 +160,7 @@ return [
         'metaDescription' => 'Откройте для себя загадочную вселенную и тайны человеческой натуры. Узнайте, как появилась вселенная и является ли она бесконечной. Погрузитесь в мир космоса и узнайте о последних открытиях, которые могут шокировать вас. Будьте в курсе новейших исследований и развития космологии. Подпишитесь на блог и получайте регулярные обновления о захватывающих открытиях и событиях в космосе.',
         'h1' => 'Иду по стопам Хокинга и Тайсона',
         'url' => 'https://shitik.by/blog/following-in-the-footsteps-of-hocking-and-tyson',
-        'preview' => 'https://shitik.by/images/blog/2023/following-in-the-footsteps-of-hocking-and-tyson/preview.jpg',
+        'preview' => 'https://shitik.by/images/blog/2023/following-in-the-footsteps-of-hocking-and-tyson/following-in-the-footsteps-of-hocking-and-tyson.jpg',
         'date' => [
             'htmlFormat' => '2023-12-9',
             'viewFormat' => '9 декабря 2023',
@@ -173,7 +173,7 @@ return [
         'metaDescription' => 'Разбираем почему в Минске и области лотерии выигрывают чаще, чем в других регионам Беларуси',
         'h1' => 'Выигрышные минские лотереи',
         'url' => 'https://shitik.by/blog/winning-lotteries',
-        'preview' => 'https://shitik.by/images/blog/2023/winning-lotteries/preview.jpg',
+        'preview' => 'https://shitik.by/images/blog/2023/winning-lotteries/winning-lotteries.jpg',
         'date' => [
             'htmlFormat' => '2023-08-12',
             'viewFormat' => '12 августа 2023',
