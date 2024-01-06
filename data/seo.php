@@ -82,7 +82,7 @@ return [
 //        'metaDescription' => '',
 //        'h1' => 'Итоги 2023 года',
 //        'url' => 'https://shitik.by/blog/total-2023',
-//        'preview' => 'https://shitik.by/images/no-image.png',
+//        'preview' => 'https://shitik.by/images/blog/2023/total-2023/total-2023.jpg',
 //        'date' => [
 //            'htmlFormat' => '2023-12-29',
 //            'viewFormat' => '29 декабря 2026',
@@ -95,10 +95,10 @@ return [
         'metaDescription' => 'В этой статье я рассказываю о ревизии моей библиотеки, удалении ненужных книг и добавлении новых. Узнайте о моих приоритетах, статистике чтения в 2023 году и рекомендациях по лучшим книгам.',
         'h1' => 'Книжная статистика за 2023 год',
         'url' => 'https://shitik.by/blog/books-2023',
-        'preview' => 'https://shitik.by/images/no-image.png',
+        'preview' => 'https://shitik.by/images/blog/2023/books-2023/books-2023.jpg',
         'date' => [
             'htmlFormat' => '2023-12-29',
-            'viewFormat' => '29 декабря 2026',
+            'viewFormat' => '29 декабря 2023',
         ],
         'titleForIndexBlog' => 'Книжная статистика за 2023 год',
         'descriptionForIndexBlog' => 'В этом году я провел ревизию своих книг: удалил часть того, что точно не буду читать и вместе с этим скачал около 400 новых книг. Уже в момент скачивания я обращал...'
@@ -108,10 +108,10 @@ return [
         'metaDescription' => 'В этой статье я подводю итоги своего бега в 2023 году. Узнайте, какое расстояние я пробежал, какие рекорды установил и какие графики отображают мои достижения.',
         'h1' => 'Статистика бега за 2023 год',
         'url' => 'https://shitik.by/blog/run-2023',
-        'preview' => 'https://shitik.by/images/no-image.png',
+        'preview' => 'https://shitik.by/images/blog/2023/run-2023/run-2023.jpg',
         'date' => [
             'htmlFormat' => '2023-12-27',
-            'viewFormat' => '27 декабря 2026',
+            'viewFormat' => '27 декабря 2023',
         ],
         'titleForIndexBlog' => 'Статистика бега за 2023 год',
         'descriptionForIndexBlog' => 'Конец года, а значит самое время подвести статистику моего бега. И хоть в этом году у меня была краткосрочная, но очень неприятная болезнь, это не сильно отразилось на моем беге в этом году...'
@@ -121,7 +121,7 @@ return [
         'metaDescription' => 'Изучите неочевидные и полезные советы для начинающих водителей, которые помогут вам избежать неприятностей на дороге. Собранные из жизненного опыта автора, эти советы дополнят вашу подготовку к вождению и повысят вашу безопасность. Будьте внимательны и готовы к непредвиденным ситуациям, чтобы стать опытным водителем.',
         'h1' => 'Неочевидные советы начинающим водителям',
         'url' => 'https://shitik.by/blog/tips-for-motorists',
-        'preview' => 'https://shitik.by/images/no-image.png',
+        'preview' => 'https://shitik.by/images/blog/2023/tips-for-motorists/tips-for-motorists.jpg',
         'date' => [
             'htmlFormat' => '2023-12-26',
             'viewFormat' => '26 декабря 2023',
@@ -134,7 +134,7 @@ return [
         'metaDescription' => 'В этой статье мы исследуем, почему многие люди стремятся быть модными и менять свою одежду и вещи регулярно. Мы рассмотрим психологическую проблему, связанную с потребностью в моде, и описываем 7 симптомов страха перед критикой. Если вы замечаете себя в этих симптомах, возможно, вам стоит обратить внимание и позаботиться о своей уверенности и самооценке.',
         'h1' => 'Страх перед критикой или почему люди гоняться за модой',
         'url' => 'https://shitik.by/blog/fear-of-criticism',
-        'preview' => 'https://shitik.by/images/blog/2023/fear-of-criticism/preview.jpg',
+        'preview' => 'https://shitik.by/images/blog/2023/fear-of-criticism/fear-of-criticism.jpg',
         'date' => [
             'htmlFormat' => '2023-12-23',
             'viewFormat' => '23 декабря 2023',
