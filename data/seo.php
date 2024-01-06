@@ -186,7 +186,7 @@ return [
         'metaDescription' => 'Как правильно говорить вес или масса. Разбираем оба понятия.',
         'h1' => 'Почему некорректно спрашивать какой у тебя вес? Отсеиваем двоечников по физике',
         'url' => 'https://shitik.by/blog/weight-and-mass',
-        'preview' => 'https://shitik.by/images/blog/2023/weight-and-mass/preview.webp',
+        'preview' => 'https://shitik.by/images/blog/2023/weight-and-mass/weight-and-mass.jpg',
         'date' => [
             'htmlFormat' => '2023-08-11',
             'viewFormat' => '11 августа 2023',
@@ -199,7 +199,7 @@ return [
         'metaDescription' => 'Какие типовые проблему я обнаружил в сюжетных линиях ведуших компаниях, снимающих фильмы по комиксам.',
         'h1' => 'Кризис идей и проблемы с сюжетом у Марвел и DC',
         'url' => 'https://shitik.by/blog/marvel-and-dc-without-a-plot',
-        'preview' => 'https://shitik.by/images/blog/2023/marvel-and-dc-without-a-plot/preview.jpg',
+        'preview' => 'https://shitik.by/images/blog/2023/marvel-and-dc-without-a-plot/marvel-and-dc-without-a-plot.jpg',
         'date' => [
             'htmlFormat' => '2023-08-06',
             'viewFormat' => '6 августа 2023',
