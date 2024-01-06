@@ -212,7 +212,7 @@ return [
         'metaDescription' => 'Что было бы, если бы Бразилия и Аргентина были более богатыми и экономически успешными странами.',
         'h1' => 'Если бы Бразилия и Аргентина были богаче',
         'url' => 'https://shitik.by/blog/rich-brazil-and-argentina',
-        'preview' => 'https://shitik.by/images/blog/2023/rich-brazil-and-argentina/preview.jpg',
+        'preview' => 'https://shitik.by/images/blog/2023/rich-brazil-and-argentina/rich-brazil-and-argentina.jpg',
         'date' => [
             'htmlFormat' => '2023-08-05',
             'viewFormat' => '5 августа 2023',
@@ -225,7 +225,7 @@ return [
         'metaDescription' => 'Рассмотрим сравнение людей с немедленным и отложенным отклик о мами. Разберем почему в обществе многие живут с немедленным откликом',
         'h1' => 'Общество с немедленным вознаграждением',
         'url' => 'https://shitik.by/blog/immediate-reward',
-        'preview' => 'https://shitik.by/images/blog/2023/immediate-reward/preview.jpg',
+        'preview' => 'https://shitik.by/images/blog/2023/immediate-reward/immediate-reward.jpg',
         'date' => [
             'htmlFormat' => '2023-06-10',
             'viewFormat' => '10 июня 2023',
@@ -238,7 +238,7 @@ return [
         'metaDescription' => 'История о том как у меня камень выходил из почки.',
         'h1' => 'Как у меня камень из почки выходил',
         'url' => 'https://shitik.by/blog/kidney-stone',
-        'preview' => 'https://shitik.by/images/blog/2023/kidney-stone/preview.jpg',
+        'preview' => 'https://shitik.by/images/blog/2023/kidney-stone/kidney-stone.jpg',
         'date' => [
             'htmlFormat' => '2023-06-03',
             'viewFormat' => '03 июня 2023',
@@ -251,7 +251,7 @@ return [
         'metaDescription' => 'Детальная статья с описанием ремонта моей двухкомнатной квартиры в Минске. Куда ушли 50 000$ и что было куплено на эту сумму в квартиру?',
         'h1' => 'Результаты ремонта квартиры',
         'url' => 'https://shitik.by/blog/expensive-apartment-renovation',
-        'preview' => 'https://shitik.by/images/blog/2023/expensive-apartment-renovation/preview.jpg',
+        'preview' => 'https://shitik.by/images/blog/2023/expensive-apartment-renovation/expensive-apartment-renovation.jpg',
         'date' => [
             'htmlFormat' => '2023-04-08',
             'viewFormat' => '8 апреля 2023',
@@ -265,7 +265,7 @@ return [
         'metaDescription' => 'На протяжении последних 5-7 лет в поисках эффективного выполнения задач и целей используемые мной программы хранения заметок менялись уже несколько раз. В этой статье подробно разбираю как и почему я начал использовать Scrum в личной жизни.',
         'h1' => 'Жизнь по скраму со спринтами',
         'url' => 'https://shitik.by/blog/scrum-and-sprint-life',
-        'preview' => 'https://shitik.by/images/blog/2023/scrum-and-sprint-life/preview.jpeg',
+        'preview' => 'https://shitik.by/images/blog/2023/scrum-and-sprint-life/scrum-and-sprint-life.jpg',
         'date' => [
             'htmlFormat' => '2023-04-03',
             'viewFormat' => '3 апреля 2023',
@@ -279,7 +279,7 @@ return [
         'metaDescription' => 'Разбираю интересную точку зрения основателя PayPal Питера Тиля о том, что монополия лучше конкуренции.',
         'h1' => 'Монополия лучше конкуренции?',
         'url' => 'https://shitik.by/blog/monopolies',
-        'preview' => 'https://shitik.by/images/blog/2023/monopolies/preview.jpeg',
+        'preview' => 'https://shitik.by/images/blog/2023/monopolies/monopolies.jpg',
         'date' => [
             'htmlFormat' => '2023-03-28',
             'viewFormat' => '28 марта 2023',
