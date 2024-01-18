@@ -82,7 +82,7 @@ return [
         'metaDescription' => 'В статье рассматривается проблема недооценки ученых и инженеров в обществе, а также критика премии «Человек года» за приоритетность спортсменов и музыкантов. Автор высказывает свое мнение о том, что премия должна быть вручена тем, кто вносит значительный вклад в научный прогресс и создает полезные инновации для человечества.',
         'h1' => 'Журнал Time. Человек года. Кому бы я отдавал премию',
         'url' => 'https://shitik.by/blog/time-magazine-person-of-the-year',
-        'preview' => 'https://shitik.by/images/blog/2024/times-magazine-person-of-the-year/times-magazine-person-of-the-year.jpg',
+        'preview' => 'https://shitik.by/images/blog/2024/time-magazine-person-of-the-year/time-magazine-person-of-the-year.jpg',
         'date' => [
             'htmlFormat' => '2024-01-17',
             'viewFormat' => '17 января 2024',
