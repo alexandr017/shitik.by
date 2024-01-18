@@ -20,6 +20,8 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/stats">Статистика</a></li>
             <li><a href="/blog">Блог</a>
                 <ul>
+                    <li><a href="/blog/time-magazine-person-of-the-year">Журнал Times. Человек года. Кому бы я отдавал премию</a></li>
+                    <li><a href="/blog/steve-jobs-and-pixar">Не только Apple. Стив Джобс успешный владелец Pixar</a></li>
                     <li><a href="/blog/total-2023">Итоги 2023 года</a></li>
                     <li><a href="/blog/books-2023">Книжная статистика за 2023 год</a></li>
                     <li><a href="/blog/run-2023">Статистика бега за 2023 год</a></li>
