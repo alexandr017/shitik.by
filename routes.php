@@ -56,6 +56,7 @@ $template = match ($currentRoute) {
     '/blog/total-2023' => 'pages/blog/2023/total-2023.php',
     '/blog/steve-jobs-and-pixar' => 'pages/blog/2024/steve-jobs-and-pixar.php',
     '/blog/time-magazine-person-of-the-year' => 'pages/blog/2024/time-magazine-person-of-the-year.php',
+    '/blog/short-cartoons' => 'pages/blog/2024/short-cartoons.php',
     '/portfolio' => 'pages/portfolio.php',
     '/travels' => 'pages/travels.php',
     '/projects' => 'pages/projects.php',
