@@ -20,6 +20,8 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/stats">Статистика</a></li>
             <li><a href="/blog">Блог</a>
                 <ul>
+                    <li><a href="/blog/trip-to-georgia">Путешествие по Грузии: от Тбилиси до Батуми</a></li>
+                    <li><a href="/blog/trip-to-azerbaijan">Путешествие по Азербайджану: от Баку до Мингечаура</a></li>
                     <li><a href="/blog/humanities-and-exact-sciences">Точные и гуманитарные науки: мой выбор и предпочтения</a></li>
                     <li><a href="/blog/short-cartoons">Смотрю краткометражки, но не те, о которых вы подумали</a></li>
                     <li><a href="/blog/time-magazine-person-of-the-year">Журнал Times. Человек года. Кому бы я отдавал премию</a></li>

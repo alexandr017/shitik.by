@@ -58,6 +58,9 @@ $template = match ($currentRoute) {
     '/blog/time-magazine-person-of-the-year' => 'pages/blog/2024/time-magazine-person-of-the-year.php',
     '/blog/short-cartoons' => 'pages/blog/2024/short-cartoons.php',
     '/blog/humanities-and-exact-sciences' => 'pages/blog/2024/humanities-and-exact-sciences.php',
+    '/blog/trip-to-azerbaijan' => 'pages/blog/2024/trip-to-azerbaijan.php',
+    '/blog/trip-to-georgia' => 'pages/blog/2024/trip-to-georgia.php',
+
     '/portfolio' => 'pages/portfolio.php',
     '/travels' => 'pages/travels.php',
     '/projects' => 'pages/projects.php',
