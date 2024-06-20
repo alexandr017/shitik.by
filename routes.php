@@ -60,6 +60,8 @@ $template = match ($currentRoute) {
     '/blog/humanities-and-exact-sciences' => 'pages/blog/2024/humanities-and-exact-sciences.php',
     '/blog/trip-to-azerbaijan' => 'pages/blog/2024/trip-to-azerbaijan.php',
     '/blog/trip-to-georgia' => 'pages/blog/2024/trip-to-georgia.php',
+    '/blog/where-do-lefties-come-from' => 'pages/blog/2024/where-do-lefties-come-from.php',
+    '/blog/national-vaccination-calendar' => 'pages/blog/2024/national-vaccination-calendar.php',
 
     '/portfolio' => 'pages/portfolio.php',
     '/travels' => 'pages/travels.php',
