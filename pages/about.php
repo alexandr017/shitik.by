@@ -62,7 +62,6 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
         <p>
             <b>inst:</b><a rel="noopener" href="https://www.instagram.com/shitik.sasha" target="_blank">shitik.sasha</a><br>
             <b>telegram:</b><a rel="noopener" href="https://t.me/sasha_shitik" target="_blank">@sasha_shitik</a><br>
-            <b>vk:</b><a rel="noopener" href="https://vk.com/alex0117" target="_blank"> alex0117</a>
         </p>
     </div>
 </main>
