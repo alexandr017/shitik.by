@@ -62,6 +62,8 @@ $template = match ($currentRoute) {
     '/blog/trip-to-georgia' => 'pages/blog/2024/trip-to-georgia.php',
     '/blog/where-do-lefties-come-from' => 'pages/blog/2024/where-do-lefties-come-from.php',
     '/blog/national-vaccination-calendar' => 'pages/blog/2024/national-vaccination-calendar.php',
+    '/blog/names-of-hurricanes' => 'pages/blog/2024/names-of-hurricanes.php',
+    '/blog/working-while-lying-on-the-beach' => 'pages/blog/2024/working-while-lying-on-the-beach.php',
 
     '/portfolio' => 'pages/portfolio.php',
     '/travels' => 'pages/travels.php',

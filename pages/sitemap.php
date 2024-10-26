@@ -20,6 +20,8 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/stats">Статистика</a></li>
             <li><a href="/blog">Блог</a>
                 <ul>
+                    <li><a href="/blog/working-while-lying-on-the-beach">Почему работать на пляже — это не так удобно, как кажется</a></li>
+                    <li><a href="/blog/names-of-hurricanes">Кто и как дает имена ураганам?</a></li>
                     <li><a href="/blog/national-vaccination-calendar">Национальный календарь прививок</a></li>
                     <li><a href="/blog/where-do-lefties-come-from">Откуда берутся левши?</a></li>
                     <li><a href="/blog/trip-to-georgia">Путешествие по Грузии: от Тбилиси до Батуми</a></li>
