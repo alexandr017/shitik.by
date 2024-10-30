@@ -20,6 +20,7 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/stats">Статистика</a></li>
             <li><a href="/blog">Блог</a>
                 <ul>
+                    <li><a href="/blog/who-are-quadrobers">Откуда появились квадроберы?</a></li>
                     <li><a href="/blog/working-while-lying-on-the-beach">Почему работать на пляже — это не так удобно, как кажется</a></li>
                     <li><a href="/blog/names-of-hurricanes">Кто и как дает имена ураганам?</a></li>
                     <li><a href="/blog/national-vaccination-calendar">Национальный календарь прививок</a></li>

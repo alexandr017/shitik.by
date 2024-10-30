@@ -64,6 +64,7 @@ $template = match ($currentRoute) {
     '/blog/national-vaccination-calendar' => 'pages/blog/2024/national-vaccination-calendar.php',
     '/blog/names-of-hurricanes' => 'pages/blog/2024/names-of-hurricanes.php',
     '/blog/working-while-lying-on-the-beach' => 'pages/blog/2024/working-while-lying-on-the-beach.php',
+    '/blog/who-are-quadrobers' => 'pages/blog/2024/blog/who-are-quadrobers.php',
 
     '/portfolio' => 'pages/portfolio.php',
     '/travels' => 'pages/travels.php',
