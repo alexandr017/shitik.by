@@ -65,6 +65,7 @@ $template = match ($currentRoute) {
     '/blog/names-of-hurricanes' => 'pages/blog/2024/names-of-hurricanes.php',
     '/blog/working-while-lying-on-the-beach' => 'pages/blog/2024/working-while-lying-on-the-beach.php',
     '/blog/who-are-quadrobers' => 'pages/blog/2024/who-are-quadrobers.php',
+    '/blog/trip-to-bali' => 'pages/blog/2024/trip-to-bali.php',
 
     '/portfolio' => 'pages/portfolio.php',
     '/travels' => 'pages/travels.php',
