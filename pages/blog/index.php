@@ -23,7 +23,7 @@ $posts = getPosts();
                         <h2 class="post-item-title"><a href="<?php echo $post['url']; ?>"><?php echo $post['titleForIndexBlog']; ?></a></h2>
                         <time datetime="<?php echo $post['date']['htmlFormat']; ?>" class="date-on-index"><?php echo $post['date']['viewFormat']; ?></time>
                         <p class="post-item-desc"><?php echo $post['descriptionForIndexBlog']; ?></p>
-                        <a href="<?php echo $post['url']; ?>" class="post-item-btn">Читать далее...</a>
+                        <a href="<?php echo $post['url']; ?>" class="post-item-btn">Читать далее</a>
                     </div>
                 </div>
             <?php endforeach; ?>

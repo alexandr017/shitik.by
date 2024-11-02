@@ -66,6 +66,8 @@ $template = match ($currentRoute) {
     '/blog/working-while-lying-on-the-beach' => 'pages/blog/2024/working-while-lying-on-the-beach.php',
     '/blog/who-are-quadrobers' => 'pages/blog/2024/who-are-quadrobers.php',
     '/blog/trip-to-bali' => 'pages/blog/2024/trip-to-bali.php',
+    '/blog/books-2024' => 'pages/blog/2024/books-2024.php',
+    '/blog/when-traveling-becomes-easy' => 'pages/blog/2024/when-traveling-becomes-easy.php',
 
     '/portfolio' => 'pages/portfolio.php',
     '/travels' => 'pages/travels.php',
