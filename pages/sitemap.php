@@ -20,6 +20,8 @@ include DOCUMENT_ROOT . '/view/v3/head.php';
             <li><a href="/stats">Статистика</a></li>
             <li><a href="/blog">Блог</a>
                 <ul>
+                    <li><a href="/blog/when-traveling-becomes-easy">Барьеры на пути к путешествиям</a></li>
+                    <li><a href="/blog/books-2024">Результаты чтения книг в 2024 году</a></li>
                     <li><a href="/blog/trip-to-bali">Путешествие по Бали: воспоминания и открытия</a></li>
                     <li><a href="/blog/who-are-quadrobers">Откуда появились квадроберы?</a></li>
                     <li><a href="/blog/working-while-lying-on-the-beach">Почему работать на пляже — это не так удобно, как кажется</a></li>
