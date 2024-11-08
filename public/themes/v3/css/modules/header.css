@@ -104,7 +104,7 @@ nav ul.show{
     right: 15px;
     left: 15px;
     width: 800px;
-    max-width: 100%;
+    max-width: calc(100% - 50px);
     margin: auto;
     z-index: 1000;
     background: #eae6e6;
